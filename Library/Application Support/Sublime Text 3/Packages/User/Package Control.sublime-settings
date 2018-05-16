@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Breadcrumbs",
+		"JavaImports",
+		"JSON Reindent",
+		"JSONLint",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python 3",
+		"SFTP",
+		"SystemVerilog",
+		"Wombatish color scheme"
+	]
+}
