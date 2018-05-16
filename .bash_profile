@@ -23,3 +23,6 @@ export CLICOLOR=1
 
 # For config backups
 alias config='/usr/bin/git --git-dir=$HOME/.config/ --work-tree=$HOME'
+
+# Keep track of list of installed applications
+alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
