@@ -1,0 +1,6 @@
+AntSupport
+CVS
+Subversion
+TestNG-J
+hg4idea
+org.jetbrains.android

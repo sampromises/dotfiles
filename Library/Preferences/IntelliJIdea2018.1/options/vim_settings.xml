@@ -1,0 +1,234 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" timestamp="1521218543190">
+        <mark key="a" line="109" column="0" />
+        <mark key="'" line="61" column="0" />
+        <mark key="i" line="109" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="20" />
+        <mark key="m" line="47" column="16" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521651406273">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/15440/afs15440/p3/cp2/ServerInterface.java" timestamp="1522511570914">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" timestamp="1521482238437">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" timestamp="1521606210738">
+        <mark key="'" line="190" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" timestamp="1521651165533">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1521512847623">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="79" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="90" column="16" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="75" column="5" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="83" column="41" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="28" column="24" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="128" column="42" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="148" column="22" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="152" column="22" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="158" column="22" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="164" column="64" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="18" column="34" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="30" column="38" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="32" column="20" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="85" column="14" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="125" column="14" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="88" column="44" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="112" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="114" column="26" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="117" column="42" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="123" column="16" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="118" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="170" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="144" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="19" column="36" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="15" column="31" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="13" column="1" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="21" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="57" column="94" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="47" column="32" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="58" column="20" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="49" column="32" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="97" column="6" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="59" column="15" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="290" column="33" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="302" column="32" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="374" column="39" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="381" column="47" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="383" column="8" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/core/CarcassonneGame.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="180" column="4" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="173" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="205" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/homework/4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CurrentTilePanel.java" />
+      <jump line="136" column="5" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="36" column="32" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Google Drive/17214/ssk1/recitation/09/src/main/java/edu/cmu/cs/cs214/rec09/plugin/MemoryPlugin.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUHVibGljIGdldHRlcgogICAgICoKICAgICAqIEByZXR1cm4gZ2FtZU92ZXIKICAgICAqLwogICAgcHVibGljIGJvb2xlYW4gaXNHYW1lT3ZlcigpCiAgICB7CiAgICAgICAgcmV0dXJuIGdhbWVPdmVyOwogICAgfQogICAgCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IGZpbGVWZXJzaW9uLCBsb25nIGZpbGVTaXplLCBpbnQgdG90YWxDaHVua3MsIGJvb2xlYW4g</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBnZXQgdGhlIGN1cnJlbnQgdGlsZQogICAgICovCiAgICBwdWJsaWMgVGlsZSBnZXRDdXJyZW50VGlsZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIGN1cnJlbnRUaWxlLmNvcHkoKTsKICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gZ2V0IHRoZSBjdXJyZW50IHBsYXllciBvZiB0aGUgZ2FtZQogICAgICovCiAgICBwdWJsaWMgUGxheWVyIGdldEN1cnJlbnRQbGF5ZXIoKQogICAgewogICAgICAgIC8vIFRPRE86IERlbGV0ZSBnZXRDdXJyZW50UGxheWVyTmFtZSBhbmQgaGF2ZSB0aGlzIG1ldGhvZCByZXR1cm4gYSBTQUZFIENPUFkKICAgICAgICByZXR1cm4gY3VycmVudFBsYXllcjsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBuYW1lIG9mIGN1cnJlbnQgcGxheWVyCiAgICAgKi8KICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q3VycmVudFBsYXllck5hbWUoKQogICAgewogICAgICAgIHJldHVybiBjdXJyZW50UGxheWVyLmdldE5hbWUoKTsKICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW50IGZpbGVWZXJzaW9uLCBsb25nIGZpbGVTaXplLCBpbnQgdG90YWxDaHVua3MsIGJvb2xlYW4g</text>
+      </register>
+      <register name="/" type="4">
+        <text>currentplayer\c</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>currentplayer\c</last-search>
+      <last-offset />
+      <last-pattern>currentplayer\c</last-pattern>
+      <last-replace>emptyTileButton</last-replace>
+      <last-substitute>emptyTileButtonn</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>removeAll</entry>
+        <entry encoding="base64">XDxyZW1vdmVBbGxcPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>game</entry>
+        <entry>empty</entry>
+        <entry>emptyTileButton</entry>
+        <entry>emptyTileButtonn</entry>
+        <entry>currentPlayer</entry>
+        <entry>currentplayer\c</entry>
+      </history-search>
+      <history-cmd>
+        <entry>delm</entry>
+        <entry>delmarks!</entry>
+        <entry>delm! | delm A-Z0-9</entry>
+        <entry>delm!</entry>
+        <entry>viminfo</entry>
+        <entry>help</entry>
+        <entry>%s/emptyTileButton/emptyTileButtonn/g</entry>
+        <entry>%s/emptyTileButtonn/emptyTileButton/gc</entry>
+        <entry>currentplayer</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
