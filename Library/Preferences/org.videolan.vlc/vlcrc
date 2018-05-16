@@ -3842,7 +3842,7 @@ key-nav-up=
 #global-key-nav-down=
 
 # Navigate down (string)
-#key-nav-down=Down
+key-nav-down=
 
 # Navigate left (string)
 #global-key-nav-left=
@@ -3896,13 +3896,13 @@ key-nav-right=
 #global-key-vol-up=
 
 # Volume up (string)
-#key-vol-up=Command+Up
+key-vol-up=Up
 
 # Volume down (string)
 #global-key-vol-down=
 
 # Volume down (string)
-#key-vol-down=Command+Down
+key-vol-down=Down
 
 # Mute (string)
 #global-key-vol-mute=
