@@ -32,11 +32,6 @@ set ruler " Show ruler in status bar
 highlight ColorColumn ctermbg=gray
 set colorcolumn=80
 
-" Highlight current row
-set cursorline " By itself, just an underline
-hi cursorline cterm=none term=none
-highlight CursorLine guibg=#303000 ctermbg=234
-
 set hlsearch " Highlight searches
 
 set relativenumber " Show the relative line numbers around current line
