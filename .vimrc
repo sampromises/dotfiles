@@ -22,15 +22,24 @@ set expandtab " use spaces instead of tabs.
 "set foldcolumn=2
 
 " My color scheme
-colorscheme wombat
+colorscheme wombat256mod
 
 syntax on " Syntax highlighting
 set showcmd " See commands I'm typing 
-set ruler
+set ruler " Show ruler in status bar
+
+" Ruler at column 80
+highlight ColorColumn ctermbg=gray
+set colorcolumn=80
+
+" Highlight current row
+set cursorline " By itself, just an underline
+hi cursorline cterm=none term=none
+highlight CursorLine guibg=#303000 ctermbg=234
 
 set hlsearch " Highlight searches
 
 set relativenumber " Show the relative line numbers around current line
-" set number " Show the current line number
+set number " Show the current line number
 
 let g:indentLine_enabled = 1
