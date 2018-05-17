@@ -42,4 +42,11 @@ set hlsearch " Highlight searches
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
 
-let g:indentLine_enabled = 1
+" Set window title to filename
+set title
+
+" Auto-complete brackets
+inoremap { {<CR>}<Esc>ko
+
+" Map U to redo, opposite of u(ndo)
+nnoremap U <C-r>
