@@ -30,7 +30,7 @@ set ruler " Show ruler in status bar
 
 " Ruler at column 80
 highlight ColorColumn ctermbg=gray
-set colorcolumn=80
+"set colorcolumn=80
 
 set hlsearch " Highlight searches
 
