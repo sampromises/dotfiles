@@ -1,12 +1,3 @@
-set smarttab " let's tab key insert 'tab stops', and bksp deletes tabs.
-set shiftround " tab / shifting moves to closest tabstop.
-set autoindent " Match indents on new lines.
-
-" We have VCS -- we don't need this stuff.
-set nobackup " We have vcs, we don't need backups.
-set nowritebackup " We have vcs, we don't need backups.
-set noswapfile " They're just annoying. Who likes them?
-
 """""""""""""""""""
 " SAM VIMRC START "
 """""""""""""""""""
@@ -17,6 +8,15 @@ set tabstop=8
 set shiftwidth=4
 set softtabstop=4
 set expandtab " use spaces instead of tabs.
+
+set smarttab " let's tab key insert 'tab stops', and bksp deletes tabs.
+set shiftround " tab / shifting moves to closest tabstop.
+set autoindent " Match indents on new lines.
+
+" We have VCS -- we don't need this stuff.
+set nobackup " We have vcs, we don't need backups.
+set nowritebackup " We have vcs, we don't need backups.
+set noswapfile " They're just annoying. Who likes them?
 
 " Folding
 "set foldcolumn=2
@@ -32,7 +32,9 @@ set ruler " Show ruler in status bar
 highlight ColorColumn ctermbg=gray
 "set colorcolumn=80
 
+" Search settings
 set hlsearch " Highlight searches
+set incsearch " Incremental search, like a browser search
 
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
