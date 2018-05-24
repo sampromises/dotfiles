@@ -1,3 +1,15 @@
+" Plugins will be downloaded under the specified directory.
+call plug#begin('~/.vim/plugged')
+
+" Declare the list of plugins.
+Plug 'kien/ctrlp.vim'
+Plug 'scrooloose/nerdtree'
+Plug 'nathanaelkane/vim-indent-guides'
+Plug 'vim-airline/vim-airline'
+
+" List ends here. Plugins become visible to Vim after this call.
+call plug#end()
+
 """""""""""""""""""
 " SAM VIMRC START "
 """""""""""""""""""
@@ -29,7 +41,7 @@ set showcmd " See commands I'm typing
 set ruler " Show ruler in status bar
 
 " Ruler at column 80
-highlight ColorColumn ctermbg=gray
+"highlight ColorColumn ctermbg=gray
 "set colorcolumn=80
 
 " Search settings
