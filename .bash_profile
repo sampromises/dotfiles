@@ -1,4 +1,4 @@
-export PS1="skim$ "
+export PS1="$PWD\nskim$ "
 
 alias cdsublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
 alias edit_bp="vim ~/.bash_profile"
@@ -6,6 +6,7 @@ alias edit_vrc="vim ~/.vimrc"
 
 # SSH
 alias ssh_CMU="ssh ssk1@unix.andrew.cmu.edu"
+alias ssh_shark="ssh ssk1@shark.ics.cs.cmu.edu"
 alias sftp_CMU="sftp ssk1@unix.andrew.cmu.edu"
 
 # Spring 2018
