@@ -1,4 +1,4 @@
-export PS1="$PWD\nskim$ "
+export PS1="\w\nskim$ "
 
 alias cdsublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
 alias edit_bp="vim ~/.bash_profile"
