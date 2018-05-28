@@ -5,9 +5,9 @@ alias edit_bp="vim ~/.bash_profile"
 alias edit_vrc="vim ~/.vimrc"
 
 # SSH
-alias ssh_CMU="ssh ssk1@unix.andrew.cmu.edu"
+alias ssh_cmu="ssh ssk1@unix.andrew.cmu.edu"
 alias ssh_shark="ssh ssk1@shark.ics.cs.cmu.edu"
-alias sftp_CMU="sftp ssk1@unix.andrew.cmu.edu"
+alias sftp_cmu="sftp ssk1@unix.andrew.cmu.edu"
 
 # Spring 2018
 alias cd214="cd ~/Google\ Drive/17214/ssk1/"
@@ -17,9 +17,6 @@ alias get440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classnot
 
 alias j9="export JAVA_HOME=`/usr/libexec/java_home -v 9`; java -version"
 alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
-
-# For tmux colors
-export TERM="xterm-256color"
 
 # Enable cli colors
 export CLICOLOR=1
