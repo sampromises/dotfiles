@@ -1,7 +1,7 @@
 export PS1="\w\nskim$ "
 
 alias cdsublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
-alias edit_bp="vim ~/.bash_profile"
+alias edit_brc="vim ~/.bashrc"
 alias edit_vrc="vim ~/.vimrc"
 
 # SSH

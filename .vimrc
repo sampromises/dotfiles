@@ -6,6 +6,7 @@ Plug 'kien/ctrlp.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'vim-airline/vim-airline'
+Plug 'fatih/vim-go'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -59,3 +60,6 @@ inoremap { {<CR>}<Esc>ko
 
 " Map U to redo, opposite of u(ndo)
 nnoremap U <C-r>
+
+" Show tab-completion list
+set wildmode=longest:full,list
