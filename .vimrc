@@ -52,9 +52,6 @@ set incsearch " Incremental search, like a browser search
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
 
-" Set window title to filename
-set title
-
 " Auto-complete brackets
 inoremap { {<CR>}<Esc>ko
 
