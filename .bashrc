@@ -1,6 +1,8 @@
+# Always show wd
 export PS1="\w\nskim$ "
 
-alias cdsublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
+# Local aliases
+alias cd_sublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
 alias edit_brc="vim ~/.bashrc"
 alias edit_vrc="vim ~/.vimrc"
 
@@ -24,9 +26,9 @@ alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.a
 
 # For config backups
 alias config='/usr/bin/git --git-dir=$HOME/.config/ --work-tree=$HOME'
-# Update all
+
+# Update all config files at once (lazy)
 function config_update() {
-    echo "Hello"
     config add -u ~/. &&
     config commit -m "Minor changes" &&
     config push
