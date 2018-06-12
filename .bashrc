@@ -9,7 +9,7 @@ alias ssh_cmu="ssh ssk1@unix.andrew.cmu.edu"
 alias ssh_shark="ssh ssk1@shark.ics.cs.cmu.edu"
 alias sftp_cmu="sftp ssk1@unix.andrew.cmu.edu"
 
-# Spring 2018
+# Fall 2018
 alias cd_440="cd ~/Google_Drive/440-F17/P0"
 alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classnotes/ ~/Google\ Drive/15440/classnotes/ "
 

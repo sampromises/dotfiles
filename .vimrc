@@ -7,6 +7,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
+Plug 'jiangmiao/auto-pairs'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -17,7 +18,7 @@ call plug#end()
 filetype plugin indent on " Filetype auto-detection
 
 " https://www.reddit.com/r/vim/wiki/tabstop
-set tabstop=8
+set tabstop=4 " Changed from 8 4o 4 for better Go compatibility
 set shiftwidth=4
 set softtabstop=4
 set expandtab " use spaces instead of tabs.
@@ -51,9 +52,6 @@ set incsearch " Incremental search, like a browser search
 
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
-
-" Auto-complete brackets
-inoremap { {<CR>}<Esc>ko
 
 " Map U to redo, opposite of u(ndo)
 nnoremap U <C-r>
