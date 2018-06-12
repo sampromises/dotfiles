@@ -24,8 +24,9 @@ alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.a
 
 # For config backups
 alias config='/usr/bin/git --git-dir=$HOME/.config/ --work-tree=$HOME'
-
+# Update all
 function config_update() {
+    echo "Hello"
     config add -u ~/. &&
     config commit -m "Minor changes" &&
     config push
