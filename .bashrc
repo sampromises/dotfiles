@@ -19,8 +19,14 @@ alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
 # Enable cli colors
 export CLICOLOR=1
 
+# Keep track of list of installed applications
+alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
+
 # For config backups
 alias config='/usr/bin/git --git-dir=$HOME/.config/ --work-tree=$HOME'
 
-# Keep track of list of installed applications
-alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
+function config_update() {
+    config add -u ~/. &&
+    config commit -m "Minor changes" &&
+    config push
+}

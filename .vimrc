@@ -1,3 +1,7 @@
+"""""""""""""""""""""
+" junegunn/vim-plug "
+"""""""""""""""""""""
+
 " Plugins will be downloaded under the specified directory.
 call plug#begin('~/.vim/plugged')
 
@@ -58,3 +62,22 @@ nnoremap U <C-r>
 
 " Show tab-completion list
 set wildmode=longest:full,list
+
+" Quickly save file (update will write iff file changed)
+nnoremap zz :update<CR>
+
+"""""""""""""""""""
+" NEED FOR VIM-GO "
+"""""""""""""""""""
+
+" Make sure all lists in are 'quickfix' instead of 'location list'
+let g:go_list_type = "quickfix"
+
+" Shortcuts to jump around errors in quickfix list
+map <C-n> :cnext<CR>
+map <C-m> :cprevious<CR>
+nnoremap <leader>a :cclose<CR>
+
+" Shortcuts to quickly build and run Go program
+autocmd FileType go nmap <leader>b <Plug>(go-build)
+autocmd FileType go nmap <leader>r <Plug>(go-run)
