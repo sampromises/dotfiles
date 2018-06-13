@@ -1,0 +1,429 @@
+1528842847.650841|M|mt_stop2|
+1528842847.651137|M|checking|
+1528842847.651139|M|unregister internal trackpad|
+1528842847.651392|M|checking|
+1528842847.653256|M|register internal trackpad|
+1528842847.653288|STDEV||
+1528842849.819027|M|mt_stop2|
+1528842849.819174|M|unregister internal trackpad|
+1528842849.819469|M|checking|
+1528842849.819624|M|checking|
+1528842849.821749|M|register internal trackpad|
+1528842849.821802|STDEV||
+1528842852.997384|M|mt_stop2|
+1528842852.997522|M|unregister internal trackpad|
+1528842852.997906|M|checking|
+1528842852.998000|M|checking|
+1528842852.999505|M|register internal trackpad|
+1528842852.999557|STDEV||
+1528842858.426831|M|mt_stop2|
+1528842858.426982|M|unregister internal trackpad|
+1528842858.427153|M|checking|
+1528842858.427323|M|checking|
+1528842858.429119|M|register internal trackpad|
+1528842858.429153|STDEV||
+1528842893.660163|M|mt_stop2|
+1528842893.660453|M|checking|
+1528842893.660453|M|unregister internal trackpad|
+1528842893.660723|M|checking|
+1528842893.662255|M|register internal trackpad|
+1528842893.662284|STDEV||
+1528843472.631787|M|mt_stop2|
+1528843472.632072|M|unregister internal trackpad|
+1528843472.632079|M|checking|
+1528843472.632360|M|checking|
+1528843472.634269|M|register internal trackpad|
+1528843472.634352|STDEV||
+1528843474.816938|M|mt_stop2|
+1528843474.817185|M|unregister internal trackpad|
+1528843474.817192|M|checking|
+1528843474.817415|M|checking|
+1528843474.819224|M|register internal trackpad|
+1528843474.819270|STDEV||
+1528843478.114506|M|mt_stop2|
+1528843478.114649|M|unregister internal trackpad|
+1528843478.114888|M|checking|
+1528843478.115049|M|checking|
+1528843478.117078|M|register internal trackpad|
+1528843478.117127|STDEV||
+1528843483.241791|M|mt_stop2|
+1528843483.242017|M|unregister internal trackpad|
+1528843483.242039|M|checking|
+1528843483.242223|M|checking|
+1528843483.244073|M|register internal trackpad|
+1528843483.244107|STDEV||
+1528843518.276243|M|mt_stop2|
+1528843518.276393|M|unregister internal trackpad|
+1528843518.276832|M|checking|
+1528843518.276946|M|checking|
+1528843518.278693|M|register internal trackpad|
+1528843518.278760|STDEV||
+1528843729.631924|M|mt_stop2|
+1528843729.632045|M|unregister internal trackpad|
+1528843729.632179|M|checking|
+1528843729.632364|M|checking|
+1528843729.633821|M|register internal trackpad|
+1528843729.633858|STDEV||
+1528843731.800965|M|mt_stop2|
+1528843731.801186|M|unregister internal trackpad|
+1528843731.801230|M|checking|
+1528843731.801393|M|checking|
+1528843731.803184|M|register internal trackpad|
+1528843731.803230|STDEV||
+1528843735.051176|M|mt_stop2|
+1528843735.051315|M|unregister internal trackpad|
+1528843735.051580|M|checking|
+1528843735.051747|M|checking|
+1528843735.052926|M|register internal trackpad|
+1528843735.052975|STDEV||
+1528843740.386595|M|mt_stop2|
+1528843740.386747|M|unregister internal trackpad|
+1528843740.387139|M|checking|
+1528843740.387271|M|checking|
+1528843740.388505|M|register internal trackpad|
+1528843740.388557|STDEV||
+1528843775.303186|M|mt_stop2|
+1528843775.303335|M|unregister internal trackpad|
+1528843775.303731|M|checking|
+1528843775.303843|M|checking|
+1528843775.305630|M|register internal trackpad|
+1528843775.305704|STDEV||
+1528843984.630217|M|mt_stop2|
+1528843984.630395|M|unregister internal trackpad|
+1528843984.630413|M|checking|
+1528843984.630547|M|checking|
+1528843984.632196|M|register internal trackpad|
+1528843984.632277|STDEV||
+1528843986.802264|M|mt_stop2|
+1528843986.802416|M|unregister internal trackpad|
+1528843986.802770|M|checking|
+1528843986.802909|M|checking|
+1528843986.804212|M|register internal trackpad|
+1528843986.804246|STDEV||
+1528843990.037345|M|mt_stop2|
+1528843990.037578|M|unregister internal trackpad|
+1528843990.037602|M|checking|
+1528843990.037787|M|checking|
+1528843990.039822|M|register internal trackpad|
+1528843990.039871|STDEV||
+1528843995.120560|M|mt_stop2|
+1528843995.120811|M|checking|
+1528843995.120826|M|unregister internal trackpad|
+1528843995.121080|M|checking|
+1528843995.122652|M|register internal trackpad|
+1528843995.122690|STDEV||
+1528844030.267463|M|mt_stop2|
+1528844030.267750|M|unregister internal trackpad|
+1528844030.267762|M|checking|
+1528844030.268036|M|checking|
+1528844030.270021|M|register internal trackpad|
+1528844030.270071|STDEV||
+1528844240.671730|M|mt_stop2|
+1528844240.672016|M|checking|
+1528844240.672104|M|unregister internal trackpad|
+1528844240.672426|M|checking|
+1528844240.674138|M|register internal trackpad|
+1528844240.674194|STDEV||
+1528844242.820485|M|mt_stop2|
+1528844242.820639|M|unregister internal trackpad|
+1528844242.820867|M|checking|
+1528844242.820994|M|checking|
+1528844242.822140|M|register internal trackpad|
+1528844242.822168|STDEV||
+1528844245.843572|M|mt_stop2|
+1528844245.843873|M|checking|
+1528844245.843892|M|unregister internal trackpad|
+1528844245.844203|M|checking|
+1528844245.845965|M|register internal trackpad|
+1528844245.845996|STDEV||
+1528844251.286754|M|mt_stop2|
+1528844251.286905|M|unregister internal trackpad|
+1528844251.287219|M|checking|
+1528844251.287287|M|checking|
+1528844251.288988|M|register internal trackpad|
+1528844251.289022|STDEV||
+1528844286.276152|M|mt_stop2|
+1528844286.276305|M|unregister internal trackpad|
+1528844286.276695|M|checking|
+1528844286.276795|M|checking|
+1528844286.278576|M|register internal trackpad|
+1528844286.278639|STDEV||
+1528844300.472318|SEC|SecureInputActive com.apple.loginwindow 90|
+1528844300.473667|short|register disable hotkeys|
+1528844300.475111|short|register all hotkeys for current app|
+1528844298.588721|M|checking|
+1528844298.609913|LIC|license appears to be valid|
+1528844298.611435|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844298.611454|LIC|getting date from license|
+1528844298.611892|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844298.611930|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844298.611938|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844298.611956|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844298.611962|lic|lict BOA170331-7397-86281|
+1528844298.612310|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528844302.939749|M|mt_stop2|
+1528844302.941011|M|checking|
+1528844302.942473|M|unregister internal trackpad|
+1528844302.942678|M|checking|
+1528844302.946218|M|register internal trackpad|
+1528844302.946254|STDEV||
+1528844302.991898|WAKE|DIDWAKE|
+1528844303.048013|ASL|disable|
+1528844303.462991|ASL|using old relaunch|
+1528844303.466971|TERMINATE|SHOULDTERMINATE|
+1528844307.172927|ASL|new|
+1528844307.639263|usage|loading todays usage|
+1528844307.796296|short|init|
+1528844307.809276|LIC|idate 2018-03-05 16:28:16 +0000|
+1528844307.813229|short|register all hotkeys|
+1528844307.829142|short|register disable hotkeys|
+1528844307.830356|short|register disable hotkeys|
+1528844307.831770|short|register all hotkeys|
+1528844307.838944|LIC|license appears to be valid|
+1528844307.840527|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844307.840552|LIC|getting date from license|
+1528844307.842066|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.842105|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844307.842112|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.842129|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844307.842135|lic|lict BOA170331-7397-86281|
+1528844307.844346|LIC|license appears to be valid|
+1528844307.845810|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844307.845829|LIC|getting date from license|
+1528844307.846238|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.846266|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844307.846271|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.846286|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844307.846290|lic|lict BOA170331-7397-86281|
+1528844307.846682|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528844307.846697|LIC|License is valid for this version|
+1528844307.861506|LAUNCH|DIDLaunch|
+1528844307.868266|LIC|license appears to be valid|
+1528844307.869531|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844307.869548|LIC|getting date from license|
+1528844307.869959|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.869989|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844307.869994|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844307.870007|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844307.870011|lic|lict BOA170331-7397-86281|
+1528844307.870303|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528844307.901784|ASL|new multitouch device recognized|
+1528844307.902043|M|checking|
+1528844307.919696|short|call sharedInstance4|
+1528844307.922078|SEC|SecureInputActive com.apple.loginwindow 90|
+1528844307.933652|swi|check device class|
+1528844307.933679|swi|shortcuts used|
+1528844307.933687|short|set used 1|
+1528844309.344192|LIC|license appears to be valid|
+1528844309.345889|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844309.345907|LIC|getting date from license|
+1528844309.346350|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844309.346383|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844309.346390|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844309.346405|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844309.346410|lic|lict BOA170331-7397-86281|
+1528844309.347260|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528844309.350232|webserver|init|
+1528844309.388980|M|checking|
+1528844309.463587|short|eventtap success|
+1528844309.465109|short|register disable hotkeys|
+1528844309.466611|short|register all hotkeys for current app|
+1528844309.467872|short|register all hotkeys|
+1528844310.267529|short|register all hotkeys for current app|
+1528844310.270163|M|mt_stop2|
+1528844310.270330|M|checking|
+1528844310.271572|M|register internal trackpad|
+1528844310.271603|STDEV||
+1528844310.271821|M|checking|
+1528844310.303545|ASL|Bonjour Service Published: domain(local.) type(_bttremote._tcp.) name(Sam’s MacBook Pro) port(50162)|
+1528844310.311186|LIC|license appears to be valid|
+1528844310.312901|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528844310.312918|LIC|getting date from license|
+1528844310.313375|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528844310.313395|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528844310.313401|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528844310.313417|lic|newest date 2017-03-31 01:51:43 +0000|
+1528844310.313422|lic|lict BOA170331-7397-86281|
+1528844310.313762|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528844310.363495|M|checking|
+1528844310.364545|ASL|disabling touch for internal trackpad (clamshell)|
+1528844310.366634|M|checking|
+1528844311.182878|short|register all hotkeys for current app|
+1528844332.817227|SEC|SecureInputDisabled com.apple.loginwindow|
+1528844332.820996|short|register all hotkeys|
+1528844332.824990|short|register all hotkeys for current app|
+1528844361.287629|SEC|SecureInputActive com.apple.loginwindow 90|
+1528844361.289775|short|register disable hotkeys|
+1528844361.291651|short|register all hotkeys for current app|
+1528844361.982222|M|checking|
+1528844362.033217|short|register disable hotkeys|
+1528844362.068613|short|register all hotkeys for current app|
+1528844362.071078|short|register all hotkeys|
+1528844362.603119|short|eventtap success|
+1528844373.627940|M|checking|
+1528844373.639764|M|checking|
+1528844376.071013|SEC|SecureInputDisabled com.apple.loginwindow|
+1528844376.074577|short|register all hotkeys|
+1528844376.078809|short|register all hotkeys for current app|
+1528844376.720088|SEC|SecureInputActive com.apple.loginwindow 90|
+1528844376.721075|short|register disable hotkeys|
+1528844376.722240|short|register all hotkeys for current app|
+1528844377.646175|SEC|SecureInputDisabled com.apple.loginwindow|
+1528844377.648767|short|register all hotkeys|
+1528844377.652566|short|register all hotkeys for current app|
+1528844377.833238|swi|check device class|
+1528844377.833267|swi|shortcuts used|
+1528844377.857766|short|register all hotkeys for current app|
+1528844405.526632|M|mt_stop2|
+1528844405.526859|M|checking|
+1528844405.526937|M|unregister internal trackpad|
+1528844405.527129|M|checking|
+1528844405.528773|M|register internal trackpad|
+1528844405.528816|STDEV||
+1528845197.743207|M|checking|
+1528845197.794530|LIC|license appears to be valid|
+1528845197.796137|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528845197.796155|LIC|getting date from license|
+1528845197.796745|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528845197.796766|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528845197.796771|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528845197.796785|lic|newest date 2017-03-31 01:51:43 +0000|
+1528845197.796789|lic|lict BOA170331-7397-86281|
+1528845197.797237|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-06-03 08:47:18 +0000|
+1528846694.814017|swi|check device class|
+1528846694.814040|swi|shortcuts used|
+1528846694.830153|short|register all hotkeys for current app|
+1528846695.037525|M|checking|
+1528846695.435375|short|register all hotkeys for current app|
+1528846697.752228|WISNA|Focus doesn't match window pid|
+1528846697.876773|WISNA|Focus doesn't match window pid|
+1528846700.163936|WISNA|Focus doesn't match window pid|
+1528846700.258974|M|checking|
+1528846700.293683|swi|check device class|
+1528846700.293711|swi|shortcuts used|
+1528846700.311851|short|register all hotkeys for current app|
+1528846702.850693|WISNA|Focus doesn't match window pid|
+1528846702.924343|swi|check device class|
+1528846702.924370|swi|shortcuts used|
+1528846702.946228|short|register all hotkeys for current app|
+1528846704.059729|swi|check device class|
+1528846704.059750|swi|shortcuts used|
+1528846704.068351|short|register all hotkeys for current app|
+1528846939.930735|swi|check device class|
+1528846939.930806|swi|shortcuts used|
+1528846939.940965|short|register all hotkeys for current app|
+1528847065.439454|WISNA|Focus doesn't match window pid|
+1528847366.338929|swi|check device class|
+1528847366.338958|swi|shortcuts used|
+1528847366.351714|short|register all hotkeys for current app|
+1528847615.567852|swi|check device class|
+1528847615.567892|swi|shortcuts used|
+1528847615.584580|short|register all hotkeys for current app|
+1528848098.123535|LIC|license appears to be valid|
+1528848098.124873|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1528848098.124891|LIC|getting date from license|
+1528848098.125183|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1528848098.125204|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1528848098.125208|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1528848098.125217|lic|newest date 2017-03-31 01:51:43 +0000|
+1528848098.125220|lic|lict BOA170331-7397-86281|
+1528848228.962260|swi|check device class|
+1528848228.962299|swi|shortcuts used|
+1528848228.982312|short|register all hotkeys for current app|
+1528848236.943520|swi|check device class|
+1528848236.943539|swi|shortcuts used|
+1528848236.952455|short|register all hotkeys for current app|
+1528848236.965912|short|register all hotkeys for current app|
+1528848237.834849|swi|check device class|
+1528848237.834871|swi|shortcuts used|
+1528848237.847366|short|register all hotkeys for current app|
+1528849295.268431|swi|check device class|
+1528849295.268450|swi|shortcuts used|
+1528849295.278557|short|register all hotkeys for current app|
+1528849296.248383|swi|check device class|
+1528849296.248411|swi|shortcuts used|
+1528849296.262676|short|register all hotkeys for current app|
+1528849297.148128|swi|check device class|
+1528849297.148163|swi|shortcuts used|
+1528849297.164706|short|register all hotkeys for current app|
+1528849301.903413|swi|check device class|
+1528849301.903439|swi|shortcuts used|
+1528849301.916980|short|register all hotkeys for current app|
+1528849304.114413|swi|check device class|
+1528849304.114475|swi|shortcuts used|
+1528849304.123250|short|register all hotkeys for current app|
+1528849307.688947|swi|check device class|
+1528849307.688981|swi|shortcuts used|
+1528849307.703784|short|register all hotkeys for current app|
