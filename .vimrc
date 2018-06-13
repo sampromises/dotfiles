@@ -79,14 +79,11 @@ nnoremap <leader>q :cclose<CR>
 " Make sure all lists in are 'quickfix' instead of 'location list'
 let g:go_list_type = "quickfix"
 
-<<<<<<< HEAD
-=======
 " Shortcuts to jump around errors in quickfix list
 map <C-n> :cnext<CR>
 map <C-p> :cprevious<CR>
 nnoremap <leader>q :cclose<CR>
 
->>>>>>> parent of 7da9df9... Revert "Add BetterTouchTool settings"
 " Shortcuts to quickly build and run Go program
 autocmd FileType go nmap <leader>b <Plug>(go-build)
 autocmd FileType go nmap <leader>r <Plug>(go-run)
