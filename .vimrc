@@ -37,7 +37,7 @@ set nowritebackup " We have vcs, we don't need backups.
 set noswapfile " They're just annoying. Who likes them?
 
 " Folding
-"set foldcolumn=2
+set foldcolumn=0
 
 " My color scheme
 colorscheme wombat256mod
@@ -45,6 +45,7 @@ colorscheme wombat256mod
 syntax on " Syntax highlighting
 set showcmd " See commands I'm typing 
 set ruler " Show ruler in status bar
+set cursorline " Highlight current row
 
 " Ruler at column 80
 "highlight ColorColumn ctermbg=gray
@@ -53,7 +54,6 @@ set ruler " Show ruler in status bar
 " Search settings
 set hlsearch " Highlight searches
 set incsearch " Incremental search, like a browser search
-
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
 
@@ -66,6 +66,12 @@ set wildmode=longest:full,list
 " Quickly save file (update will write iff file changed)
 nnoremap zz :update<CR>
 
+
+" Shortcuts to jump around errors in quickfix list
+map <C-n> :cnext<CR>
+map <C-p> :cprevious<CR>
+nnoremap <leader>q :cclose<CR>
+
 """""""""""""""""""
 " NEED FOR VIM-GO "
 """""""""""""""""""
@@ -73,11 +79,14 @@ nnoremap zz :update<CR>
 " Make sure all lists in are 'quickfix' instead of 'location list'
 let g:go_list_type = "quickfix"
 
+<<<<<<< HEAD
+=======
 " Shortcuts to jump around errors in quickfix list
 map <C-n> :cnext<CR>
-map <C-m> :cprevious<CR>
-nnoremap <leader>a :cclose<CR>
+map <C-p> :cprevious<CR>
+nnoremap <leader>q :cclose<CR>
 
+>>>>>>> parent of 7da9df9... Revert "Add BetterTouchTool settings"
 " Shortcuts to quickly build and run Go program
 autocmd FileType go nmap <leader>b <Plug>(go-build)
 autocmd FileType go nmap <leader>r <Plug>(go-run)
