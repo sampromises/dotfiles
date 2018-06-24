@@ -26,6 +26,9 @@ alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
 # Enable cli colors
 export CLICOLOR=1
 
+# For tmux colors
+export TERM="xterm-256color"
+
 # Keep track of list of installed applications
 alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
 
