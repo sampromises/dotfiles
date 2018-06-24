@@ -1,5 +1,4 @@
-# Always show wd
-export PS1="\w\nskim$ "
+export PS1="\n\w\nskim$ "
 
 # Local aliases
 alias cd_sublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
@@ -11,9 +10,15 @@ alias ssh_cmu="ssh ssk1@unix.andrew.cmu.edu"
 alias ssh_shark="ssh ssk1@shark.ics.cs.cmu.edu"
 alias sftp_cmu="sftp ssk1@unix.andrew.cmu.edu"
 
-# Fall 2018
-alias cd_440="cd ~/Google_Drive/440-F17/P0"
+# Spring 2018
 alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classnotes/ ~/Google\ Drive/15440/classnotes/ "
+
+# Fall 2018
+alias cd_440="cd ~/Google_Drive/440-F17/"
+alias cd_p0="export GOPATH=/Users/skim/Google_Drive/440-F17/P0"
+alias go_p0="export GOPATH=/Users/skim/Google_Drive/440-F17/P0 && cd ~/Google_Drive/440-F17/p0/src/github.com/cmu440/p0"
+alias cd_p1="export GOPATH=/Users/skim/Google_Drive/440-F17/P1"
+alias go_p1="export GOPATH=/Users/skim/Google_Drive/440-F17/P1 && cd ~/Google_Drive/440-F17/p1/src/github.com/cmu440/p1"
 
 alias j9="export JAVA_HOME=`/usr/libexec/java_home -v 9`; java -version"
 alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
