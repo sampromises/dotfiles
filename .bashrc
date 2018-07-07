@@ -15,10 +15,12 @@ alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classno
 
 # Fall 2018
 alias cd_440="cd ~/Google_Drive/440-F17/"
-alias cd_p0="export GOPATH=/Users/skim/Google_Drive/440-F17/P0"
-alias go_p0="export GOPATH=/Users/skim/Google_Drive/440-F17/P0 && cd ~/Google_Drive/440-F17/p0/src/github.com/cmu440/p0"
-alias cd_p1="export GOPATH=/Users/skim/Google_Drive/440-F17/P1"
-alias go_p1="export GOPATH=/Users/skim/Google_Drive/440-F17/P1 && cd ~/Google_Drive/440-F17/p1/src/github.com/cmu440/p1"
+alias cd_p0="cd /Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0"
+alias go_p0="export GOPATH=/Users/skim/Google_Drive/440-F17/P0 && cd_p0"
+alias cd_p1="cd /Users/skim/Google_Drive/440-F17/P1/src/github.com/cmu440/lsp"
+alias go_p1="export GOPATH=/Users/skim/Google_Drive/440-F17/P1 && cd_p1"
+alias p1_cp1="~/Google_Drive/440-F17/P1/sh/run_test_checkpoint1.sh"
+alias p1_cp2="~/Google_Drive/440-F17/P1/sh/run_test_checkpoint2.sh"
 
 alias j9="export JAVA_HOME=`/usr/libexec/java_home -v 9`; java -version"
 alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
