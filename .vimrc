@@ -12,6 +12,7 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
 Plug 'jiangmiao/auto-pairs'
+Plug 'kchmck/vim-coffee-script'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -65,7 +66,6 @@ set wildmode=longest:full,list
 
 " Quickly save file (update will write iff file changed)
 nnoremap zz :update<CR>
-
 
 " Shortcuts to jump around errors in quickfix list
 map <C-n> :cnext<CR>
