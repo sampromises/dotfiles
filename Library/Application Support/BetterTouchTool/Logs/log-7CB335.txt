@@ -1,0 +1,774 @@
+1535903726.778721|usage|loading todays usage|
+1535903726.866931|short|init|
+1535903726.867594|ASL|the new store already exists btt_data_store.version_2_625_build_0932|
+1535903726.892015|ASL|backup already exists OldVersionBackups1.zip|
+1535903726.901755|LIC|idate 2018-03-05 16:28:16 +0000|
+1535903726.908566|short|register all hotkeys|
+1535903726.920564|LIC|closing previous instance of BetterTouchTool relaunch|
+1535903726.927869|short|register disable hotkeys|
+1535903726.929110|short|register disable hotkeys|
+1535903726.930531|short|register all hotkeys|
+1535903726.942076|LIC|license appears to be valid|
+1535903726.943906|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903726.943924|LIC|getting date from license|
+1535903726.945302|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.945357|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903726.945361|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.945371|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903726.945374|lic|lict BOA170331-7397-86281|
+1535903726.947327|LIC|license appears to be valid|
+1535903726.949029|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903726.949073|LIC|getting date from license|
+1535903726.949472|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.949506|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903726.949513|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.949529|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903726.949534|lic|lict BOA170331-7397-86281|
+1535903726.949957|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535903726.949979|LIC|License is valid for this version|
+1535903726.979682|LAUNCH|DIDLaunch|
+1535903726.989220|LIC|license appears to be valid|
+1535903726.990581|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903726.990595|LIC|getting date from license|
+1535903726.990945|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.990968|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903726.990971|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903726.990980|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903726.990983|lic|lict BOA170331-7397-86281|
+1535903726.991330|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535903727.037076|M|checking|
+1535903727.038484|xw|is trusted|
+1535903727.052946|short|call sharedInstance4|
+1535903727.065116|swi|check device class|
+1535903727.065136|swi|shortcuts used|
+1535903727.065143|short|set used 1|
+1535903727.916996|LIC|license appears to be valid|
+1535903727.918213|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903727.918231|LIC|getting date from license|
+1535903727.918582|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903727.918607|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903727.918611|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903727.918626|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903727.918631|lic|lict BOA170331-7397-86281|
+1535903727.918943|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535903727.921424|webserver|init|
+1535903727.921909|START|TB VISIBLE 0|
+1535903727.921935|START|TB FORCED HIDDEN 0|
+1535903727.942851|M|checking|
+1535903727.961177|short|eventtap success|
+1535903727.965850|LIC|license appears to be valid|
+1535903727.967181|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903727.967203|LIC|getting date from license|
+1535903727.967480|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903727.967503|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903727.967506|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903727.967515|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903727.967518|lic|lict BOA170331-7397-86281|
+1535903727.967726|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535903728.090971|short|register disable hotkeys|
+1535903728.092973|short|register all hotkeys for current app|
+1535903728.094481|short|register all hotkeys|
+1535903728.664293|short|register all hotkeys for current app|
+1535903728.666383|M|mt_stop2|
+1535903728.666495|M|checking|
+1535903728.667452|M|register internal trackpad|
+1535903728.667498|STDEV||
+1535903728.667608|M|checking|
+1535903728.671937|M|checking|
+1535903728.747197|ASL|Bonjour Service Published: domain(local.) type(_bttremote._tcp.) name(Sam’s MacBook Pro) port(49948)|
+1535903729.008108|xw|disabling touch for internal trackpad (clamshell)|
+1535903730.070561|short|register all hotkeys for current app|
+1535903731.290824|M|checking|
+1535903731.317983|LIC|license appears to be valid|
+1535903731.320283|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535903731.320307|LIC|getting date from license|
+1535903731.320731|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535903731.320768|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535903731.320775|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535903731.320791|lic|newest date 2017-03-31 01:51:43 +0000|
+1535903731.320796|lic|lict BOA170331-7397-86281|
+1535903731.321131|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535903806.148139|M|mt_stop2|
+1535903806.148865|M|checking|
+1535903806.154860|M|unregister internal trackpad|
+1535903806.155240|M|checking|
+1535903806.156952|M|register internal trackpad|
+1535903806.156997|STDEV||
+1535903806.383476|M|mt_stop2|
+1535903806.383664|M|checking|
+1535903806.387773|M|unregister internal trackpad|
+1535903806.388026|M|checking|
+1535903806.390718|M|register internal trackpad|
+1535903806.390762|STDEV||
+1535903808.575167|M|mt_stop2|
+1535903808.575465|M|checking|
+1535903808.575558|M|unregister internal trackpad|
+1535903808.575738|M|checking|
+1535903808.576892|M|register internal trackpad|
+1535903808.576946|STDEV||
+1535903811.876211|M|mt_stop2|
+1535903811.876388|M|checking|
+1535903811.876412|M|unregister internal trackpad|
+1535903811.876541|M|checking|
+1535903811.877844|M|register internal trackpad|
+1535903811.877878|STDEV||
+1535903817.177889|M|mt_stop2|
+1535903817.178044|M|unregister internal trackpad|
+1535903817.178418|M|checking|
+1535903817.178520|M|checking|
+1535903817.179820|M|register internal trackpad|
+1535903817.179855|STDEV||
+1535904518.220780|xw|enabling touch for internal trackpad (after clamshell)|
+1535904519.146663|M|mt_stop2|
+1535904519.146893|M|checking|
+1535904519.147167|M|unregister internal trackpad|
+1535904519.147380|M|checking|
+1535904519.149982|M|register internal trackpad|
+1535904519.150060|STDEV||
+1535904519.387536|M|mt_stop2|
+1535904519.387705|M|checking|
+1535904519.388312|M|unregister internal trackpad|
+1535904519.388528|M|checking|
+1535904519.391081|M|register internal trackpad|
+1535904519.391105|STDEV||
+1535904500.625455|M|checking|
+1535904500.662542|LIC|license appears to be valid|
+1535904500.665182|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535904500.665206|LIC|getting date from license|
+1535904500.666152|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535904500.666188|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535904500.666193|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535904500.666214|lic|newest date 2017-03-31 01:51:43 +0000|
+1535904500.666220|lic|lict BOA170331-7397-86281|
+1535904500.666697|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535904502.798502|swi|check device class|
+1535904502.798595|swi|shortcuts used|
+1535904502.811030|short|register all hotkeys for current app|
+1535904507.577728|swi|check device class|
+1535904507.577754|swi|shortcuts used|
+1535904507.581809|short|register all hotkeys for current app|
+1535904510.496910|swi|check device class|
+1535904510.496937|swi|shortcuts used|
+1535904510.504222|short|register all hotkeys for current app|
+1535904513.221684|swi|check device class|
+1535904513.221721|swi|shortcuts used|
+1535904513.229468|short|register all hotkeys for current app|
+1535904593.706157|M|mt_stop2|
+1535904593.706326|M|unregister internal trackpad|
+1535904593.706331|M|checking|
+1535904593.706467|M|checking|
+1535904593.707660|M|register internal trackpad|
+1535904593.707691|STDEV||
+1535904859.470301|swi|check device class|
+1535904859.470336|swi|shortcuts used|
+1535904859.473458|short|register all hotkeys for current app|
+1535904861.097073|swi|check device class|
+1535904861.097099|swi|shortcuts used|
+1535904861.100297|short|register all hotkeys for current app|
+1535904862.264798|swi|check device class|
+1535904862.264825|swi|shortcuts used|
+1535904862.268260|short|register all hotkeys for current app|
+1535904863.346198|swi|check device class|
+1535904863.346220|swi|shortcuts used|
+1535904863.350550|short|register all hotkeys|
+1535904863.352721|short|register all hotkeys for current app|
+1535904864.833193|swi|check device class|
+1535904864.833215|swi|shortcuts used|
+1535904864.836079|short|register all hotkeys for current app|
+1535904865.423918|swi|check device class|
+1535904865.423941|swi|shortcuts used|
+1535904865.427146|short|register all hotkeys for current app|
+1535904891.320119|swi|check device class|
+1535904891.320141|swi|shortcuts used|
+1535904891.325294|short|register all hotkeys for current app|
+1535904891.678550|short|register all hotkeys for current app|
+1535904909.218610|swi|check device class|
+1535904909.218630|swi|shortcuts used|
+1535904909.221731|short|register all hotkeys for current app|
+1535904944.863622|swi|check device class|
+1535904944.863657|swi|shortcuts used|
+1535904944.867816|short|register all hotkeys for current app|
+1535904950.095977|swi|check device class|
+1535904950.096000|swi|shortcuts used|
+1535904950.098874|short|register all hotkeys for current app|
+1535905100.674576|swi|check device class|
+1535905100.674607|swi|shortcuts used|
+1535905100.679084|short|register all hotkeys for current app|
+1535905110.112546|swi|check device class|
+1535905110.112569|swi|shortcuts used|
+1535905110.115398|short|register all hotkeys for current app|
+1535905335.588248|swi|check device class|
+1535905335.588295|swi|shortcuts used|
+1535905335.592340|short|register all hotkeys for current app|
+1535905337.751509|swi|check device class|
+1535905337.751530|swi|shortcuts used|
+1535905337.754259|short|register all hotkeys for current app|
+1535905474.166782|swi|check device class|
+1535905474.166858|swi|shortcuts used|
+1535905474.172406|short|register all hotkeys for current app|
+1535905475.682369|swi|check device class|
+1535905475.682393|swi|shortcuts used|
+1535905475.685613|short|register all hotkeys for current app|
+1535905643.495430|swi|check device class|
+1535905643.495451|swi|shortcuts used|
+1535905643.498199|short|register all hotkeys for current app|
+1535905660.445558|swi|check device class|
+1535905660.445582|swi|shortcuts used|
+1535905660.451259|short|register all hotkeys for current app|
+1535905661.946189|swi|check device class|
+1535905661.946231|swi|shortcuts used|
+1535905661.951464|short|register all hotkeys for current app|
+1535905661.977610|short|register all hotkeys for current app|
+1535905663.944067|swi|check device class|
+1535905663.944089|swi|shortcuts used|
+1535905663.949321|short|register all hotkeys for current app|
+1535905665.590484|swi|check device class|
+1535905665.590519|swi|shortcuts used|
+1535905665.601284|short|register all hotkeys for current app|
+1535905667.358017|swi|check device class|
+1535905667.358046|swi|shortcuts used|
+1535905667.361939|short|register all hotkeys for current app|
+1535905679.804936|swi|check device class|
+1535905679.804983|swi|shortcuts used|
+1535905679.817633|short|register all hotkeys for current app|
+1535905679.827261|short|register all hotkeys for current app|
+1535905694.732637|swi|check device class|
+1535905694.732684|swi|shortcuts used|
+1535905694.737198|short|register all hotkeys for current app|
+1535905700.643351|swi|check device class|
+1535905700.643395|swi|shortcuts used|
+1535905700.649065|short|register all hotkeys for current app|
+1535905738.004566|swi|check device class|
+1535905738.004595|swi|shortcuts used|
+1535905738.010116|short|register all hotkeys for current app|
+1535905925.161177|swi|check device class|
+1535905925.161206|swi|shortcuts used|
+1535905925.165951|short|register all hotkeys for current app|
+1535905995.526287|swi|check device class|
+1535905995.526304|swi|shortcuts used|
+1535905995.529259|short|register all hotkeys for current app|
+1535906019.865190|swi|check device class|
+1535906019.865235|swi|shortcuts used|
+1535906019.879345|short|register all hotkeys for current app|
+1535906022.598215|swi|check device class|
+1535906022.598238|swi|shortcuts used|
+1535906022.601933|short|register all hotkeys for current app|
+1535906451.399764|SLEEP|WILLSLEEP|
+1535906452.111226|swi|check device class|
+1535906452.111254|swi|shortcuts used|
+1535906452.114243|short|register all hotkeys for current app|
+1535906626.070092|swi|check device class|
+1535906626.070121|swi|shortcuts used|
+1535906626.074981|short|register all hotkeys for current app|
+1535906626.915662|WAKE|DIDWAKE|
+1535906626.931876|short|register all hotkeys for current app|
+1535906626.932887|xw|disable|
+1535906626.935609|short|register disable hotkeys|
+1535906626.937671|short|register all hotkeys for current app|
+1535906627.273432|TERMINATE|SHOULDTERMINATE|
+1535906628.037575|usage|loading todays usage|
+1535906628.061789|short|init|
+1535906628.062053|ASL|the new store already exists btt_data_store.version_2_625_build_0932|
+1535906628.079136|ASL|backup already exists OldVersionBackups1.zip|
+1535906628.080550|LIC|idate 2018-03-05 16:28:16 +0000|
+1535906628.089047|short|register all hotkeys|
+1535906628.106147|LIC|closing previous instance of BetterTouchTool relaunch|
+1535906628.113391|short|register disable hotkeys|
+1535906628.114852|short|register disable hotkeys|
+1535906628.130109|short|register all hotkeys|
+1535906628.175256|LIC|license appears to be valid|
+1535906628.177787|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906628.178016|LIC|getting date from license|
+1535906628.180619|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.180660|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906628.180667|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.180683|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906628.180688|lic|lict BOA170331-7397-86281|
+1535906628.193406|LIC|license appears to be valid|
+1535906628.195804|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906628.195828|LIC|getting date from license|
+1535906628.196358|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.196411|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906628.196418|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.196434|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906628.196439|lic|lict BOA170331-7397-86281|
+1535906628.197158|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535906628.197179|LIC|License is valid for this version|
+1535906628.226779|LAUNCH|DIDLaunch|
+1535906628.240613|LIC|license appears to be valid|
+1535906628.242705|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906628.242743|LIC|getting date from license|
+1535906628.243286|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.243338|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906628.243343|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906628.243357|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906628.243361|lic|lict BOA170331-7397-86281|
+1535906628.243870|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535906628.296915|M|checking|
+1535906628.297535|xw|is trusted|
+1535906628.322453|short|call sharedInstance4|
+1535906628.344378|swi|check device class|
+1535906628.344402|swi|shortcuts used|
+1535906628.344412|short|set used 1|
+1535906620.171558|LIC|license appears to be valid|
+1535906620.172823|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906620.172837|LIC|getting date from license|
+1535906620.173151|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.173164|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906620.173168|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.173178|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906620.173181|lic|lict BOA170331-7397-86281|
+1535906620.173429|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535906620.175969|webserver|init|
+1535906620.176148|START|TB VISIBLE 0|
+1535906620.176155|START|TB FORCED HIDDEN 0|
+1535906620.203318|M|checking|
+1535906620.223039|short|eventtap success|
+1535906620.223539|M|checking|
+1535906620.236452|LIC|license appears to be valid|
+1535906620.237977|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906620.237993|LIC|getting date from license|
+1535906620.238286|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.238310|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906620.238313|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.238327|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906620.238330|lic|lict BOA170331-7397-86281|
+1535906620.238832|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535906620.240154|short|register disable hotkeys|
+1535906620.241987|short|register all hotkeys for current app|
+1535906620.243476|short|register all hotkeys|
+1535906620.922547|short|register all hotkeys for current app|
+1535906620.924189|M|mt_stop2|
+1535906620.924357|M|checking|
+1535906620.925891|M|register internal trackpad|
+1535906620.925931|STDEV||
+1535906620.930613|M|checking|
+1535906620.932262|ASL|Bonjour Service Published: domain(local.) type(_bttremote._tcp.) name(Sam’s MacBook Pro) port(49948)|
+1535906620.939677|LIC|license appears to be valid|
+1535906620.941168|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535906620.941188|LIC|getting date from license|
+1535906620.941664|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.941699|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535906620.941705|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535906620.941720|lic|newest date 2017-03-31 01:51:43 +0000|
+1535906620.941725|lic|lict BOA170331-7397-86281|
+1535906620.942077|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535906620.990540|M|checking|
+1535906621.268620|M|checking|
+1535906622.227620|short|register all hotkeys for current app|
+1535906629.041001|swi|check device class|
+1535906629.041028|swi|shortcuts used|
+1535906629.043611|short|register all hotkeys for current app|
+1535906630.819091|swi|check device class|
+1535906630.819121|swi|shortcuts used|
+1535906630.821742|short|register all hotkeys for current app|
+1535906630.962005|swi|check device class|
+1535906630.962027|swi|shortcuts used|
+1535906630.964606|short|register all hotkeys for current app|
+1535906639.678160|swi|check device class|
+1535906639.678273|swi|shortcuts used|
+1535906639.686003|short|register all hotkeys for current app|
+1535906644.748346|swi|check device class|
+1535906644.748371|swi|shortcuts used|
+1535906644.757107|short|register all hotkeys for current app|
+1535906646.175393|swi|check device class|
+1535906646.175411|swi|shortcuts used|
+1535906646.178539|short|register all hotkeys for current app|
+1535906646.465500|swi|check device class|
+1535906646.465533|swi|shortcuts used|
+1535906646.474551|short|register all hotkeys for current app|
+1535906652.212159|swi|check device class|
+1535906652.212183|swi|shortcuts used|
+1535906652.215331|short|register all hotkeys for current app|
+1535906664.046371|M|mt_stop2|
+1535906664.046629|M|checking|
+1535906664.046677|M|unregister internal trackpad|
+1535906664.046885|M|checking|
+1535906664.048986|M|register internal trackpad|
+1535906664.049028|STDEV||
+1535906681.099828|swi|check device class|
+1535906681.099860|swi|shortcuts used|
+1535906681.104169|short|register all hotkeys for current app|
+1535906708.012771|swi|check device class|
+1535906708.012806|swi|shortcuts used|
+1535906708.017616|short|register all hotkeys for current app|
+1535906753.825693|swi|check device class|
+1535906753.825711|swi|shortcuts used|
+1535906753.828330|short|register all hotkeys for current app|
+1535906773.313936|swi|check device class|
+1535906773.313960|swi|shortcuts used|
+1535906773.321612|short|register all hotkeys for current app|
+1535906778.354342|swi|check device class|
+1535906778.354364|swi|shortcuts used|
+1535906778.357237|short|register all hotkeys for current app|
+1535906789.693627|swi|check device class|
+1535906789.693666|swi|shortcuts used|
+1535906789.698943|short|register all hotkeys for current app|
+1535906790.252817|swi|check device class|
+1535906790.252849|swi|shortcuts used|
+1535906790.257805|short|register all hotkeys for current app|
+1535906795.073292|swi|check device class|
+1535906795.073326|swi|shortcuts used|
+1535906795.078634|short|register all hotkeys for current app|
+1535906797.141500|swi|check device class|
+1535906797.141531|swi|shortcuts used|
+1535906797.146006|short|register all hotkeys for current app|
+1535906863.150590|swi|check device class|
+1535906863.150620|swi|shortcuts used|
+1535906863.155903|short|register all hotkeys for current app|
+1535906864.885149|swi|check device class|
+1535906864.885208|swi|shortcuts used|
+1535906864.890257|short|register all hotkeys for current app|
+1535906865.297941|short|register all hotkeys for current app|
+1535906879.761235|swi|check device class|
+1535906879.761253|swi|shortcuts used|
+1535906879.765408|short|register all hotkeys for current app|
+1535906883.688515|swi|check device class|
+1535906883.688535|swi|shortcuts used|
+1535906883.691274|short|register all hotkeys for current app|
+1535906883.876170|swi|check device class|
+1535906883.876192|swi|shortcuts used|
+1535906883.880139|short|register all hotkeys for current app|
+1535907094.265293|swi|check device class|
+1535907094.265324|swi|shortcuts used|
+1535907094.271514|short|register all hotkeys for current app|
+1535907109.950898|swi|check device class|
+1535907109.950921|swi|shortcuts used|
+1535907109.954273|short|register all hotkeys for current app|
+1535907116.861641|swi|check device class|
+1535907116.861664|swi|shortcuts used|
+1535907116.866405|short|register all hotkeys for current app|
+1535907144.310793|swi|check device class|
+1535907144.310817|swi|shortcuts used|
+1535907144.313466|short|register all hotkeys for current app|
+1535907209.705600|swi|check device class|
+1535907209.705643|swi|shortcuts used|
+1535907209.717697|short|register all hotkeys for current app|
+1535907212.280348|swi|check device class|
+1535907212.280381|swi|shortcuts used|
+1535907212.283552|short|register all hotkeys for current app|
+1535907226.927653|swi|check device class|
+1535907226.927742|swi|shortcuts used|
+1535907226.931270|short|register all hotkeys for current app|
+1535907226.939011|short|register all hotkeys for current app|
+1535907251.728972|swi|check device class|
+1535907251.728989|swi|shortcuts used|
+1535907251.731708|short|register all hotkeys for current app|
+1535907326.677247|swi|check device class|
+1535907326.677274|swi|shortcuts used|
+1535907326.682039|short|register all hotkeys for current app|
+1535907327.384573|short|register all hotkeys for current app|
+1535907336.361188|swi|check device class|
+1535907336.361210|swi|shortcuts used|
+1535907336.364137|short|register all hotkeys for current app|
+1535907341.604869|swi|check device class|
+1535907341.604967|swi|shortcuts used|
+1535907341.609902|short|register all hotkeys for current app|
+1535907342.265308|short|register all hotkeys for current app|
+1535907347.694022|swi|check device class|
+1535907347.694045|swi|shortcuts used|
+1535907347.704796|short|register all hotkeys for current app|
+1535907353.113320|swi|check device class|
+1535907353.113365|swi|shortcuts used|
+1535907353.118663|short|register all hotkeys for current app|
+1535907353.791129|short|register all hotkeys for current app|
+1535907355.922466|swi|check device class|
+1535907355.922490|swi|shortcuts used|
+1535907355.925984|short|register all hotkeys for current app|
+1535907533.636704|swi|check device class|
+1535907533.636770|swi|shortcuts used|
+1535907533.640262|short|register all hotkeys for current app|
+1535907537.679707|swi|check device class|
+1535907537.679731|swi|shortcuts used|
+1535907537.684323|short|register all hotkeys for current app|
+1535907538.309806|short|register all hotkeys for current app|
+1535907546.512616|swi|check device class|
+1535907546.512636|swi|shortcuts used|
+1535907546.515481|short|register all hotkeys for current app|
+1535908090.418181|swi|check device class|
+1535908090.418209|swi|shortcuts used|
+1535908090.422557|short|register all hotkeys for current app|
+1535908105.302072|swi|check device class|
+1535908105.302109|swi|shortcuts used|
+1535908105.309143|short|register all hotkeys for current app|
+1535908113.715271|swi|check device class|
+1535908113.715294|swi|shortcuts used|
+1535908113.719749|short|register all hotkeys for current app|
+1535908121.846175|swi|check device class|
+1535908121.846207|swi|shortcuts used|
+1535908121.850629|short|register all hotkeys for current app|
+1535908122.978181|swi|check device class|
+1535908122.978217|swi|shortcuts used|
+1535908122.982619|short|register all hotkeys for current app|
+1535908123.686382|swi|check device class|
+1535908123.686408|swi|shortcuts used|
+1535908123.698139|short|register all hotkeys for current app|
+1535908176.751771|swi|check device class|
+1535908176.751805|swi|shortcuts used|
+1535908176.756312|short|register all hotkeys for current app|
+1535908178.360013|swi|check device class|
+1535908178.360037|swi|shortcuts used|
+1535908178.365065|short|register all hotkeys for current app|
+1535908192.124029|swi|check device class|
+1535908192.124072|swi|shortcuts used|
+1535908192.129367|short|register all hotkeys for current app|
+1535908198.463012|swi|check device class|
+1535908198.463075|swi|shortcuts used|
+1535908198.466496|short|register all hotkeys for current app|
+1535908286.581865|swi|check device class|
+1535908286.581894|swi|shortcuts used|
+1535908286.585800|short|register all hotkeys for current app|
+1535908291.473602|swi|check device class|
+1535908291.473634|swi|shortcuts used|
+1535908291.478903|short|register all hotkeys for current app|
+1535908291.667448|short|register all hotkeys|
+1535908291.669552|short|register all hotkeys for current app|
+1535908294.161766|WISNA|Focus doesn't match window pid|
+1535908294.761466|swi|check device class|
+1535908294.761499|swi|shortcuts used|
+1535908294.765080|short|register all hotkeys|
+1535908294.766523|short|register all hotkeys for current app|
+1535908298.677617|swi|check device class|
+1535908298.677646|swi|shortcuts used|
+1535908298.680402|short|register all hotkeys for current app|
+1535908305.397305|swi|check device class|
+1535908305.397329|swi|shortcuts used|
+1535908305.400019|short|register all hotkeys for current app|
+1535908306.360013|swi|check device class|
+1535908306.360035|swi|shortcuts used|
+1535908306.362745|short|register all hotkeys for current app|
+1535908419.056382|LIC|license appears to be valid|
+1535908419.057893|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535908419.057914|LIC|getting date from license|
+1535908419.058217|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535908419.058241|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535908419.058245|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535908419.058255|lic|newest date 2017-03-31 01:51:43 +0000|
+1535908419.058258|lic|lict BOA170331-7397-86281|
+1535908419.058484|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535908423.938763|LIC|license appears to be valid|
+1535908423.939879|LIC|license dictionary {
+    Email = "samuelkim523@gmail.com";
+    Licenses = 1;
+    Name = "Samuel Kim";
+    Product = BetterTouchTool;
+    Signature = <74b9ee42 528c1bf2 58d2bd33 6b10a959 818c320f 90cf76e7 3a5d84b3 ca1f5946 8d7a623a 03e9650b 42c163fe b7599dab 27133c01 3a198f5b 20880596 8d973b3b a596448a 8832ed24 daa6db41 a52b878f 96f3b493 d93d03b0 17295633 334b7e65 10e59de5 493bc037 47936d45 2909b261 620e2974 fbb43ab4 d830cad5 5ca7b313>;
+    "Thanks a lot" = "for purchasing!";
+    Timestamp = "Fri, 31 Mar 2017 01:51:43 +0000";
+    TransactionID = "BOA170331-7397-86281";
+}|
+1535908423.939895|LIC|getting date from license|
+1535908423.940194|LIC|got date 2017-03-31 01:51:43 +0000 from lic timestamp Fri, 31 Mar 2017 01:51:43 +0000|
+1535908423.940217|LIC|systemdate 2017-03-31 01:51:43 +0000|
+1535908423.940221|LIC|using date Fri, 31 Mar 2017 01:51:43 +0000|
+1535908423.940230|lic|newest date 2017-03-31 01:51:43 +0000|
+1535908423.940233|lic|lict BOA170331-7397-86281|
+1535908423.940503|LIC|license purchase date 2017-03-31 01:51:43 +0000 | license lifetime until: 2019-03-31 01:51:43 +0000 | version date 2018-08-08 06:58:32 +0000|
+1535908423.948076|swi|check device class|
+1535908423.948097|swi|shortcuts used|
+1535908423.950739|short|register all hotkeys for current app|
+1535908424.084492|swi|check device class|
+1535908424.084513|swi|shortcuts used|
+1535908424.085820|M|checking|
+1535908424.086664|swi|check device class|
+1535908424.086679|swi|shortcuts used|
+1535908424.091162|swi|check device class|
+1535908424.091182|swi|shortcuts used|
+1535908424.093710|short|register all hotkeys for current app|
+1535908511.541732|MEM|Close window|
+1535908511.545048|swi|check device class|
+1535908511.545069|swi|shortcuts used|
+1535908511.554106|MEM|dealloc wc|
+1535908511.554144|MEM|dealloc2|
+1535908511.555001|short|init|
+1535908511.581327|MEM|called dealloc on window|
+1535908511.588119|MEM|dealloc gestureview|
+1535908512.451010|swi|check device class|
+1535908512.451041|swi|shortcuts used|
+1535908512.484838|swi|check device class|
+1535908512.484863|swi|shortcuts used|
+1535908512.488071|short|register all hotkeys for current app|
+1535908513.748312|swi|check device class|
+1535908513.748332|swi|shortcuts used|
+1535908513.751075|short|register all hotkeys for current app|
+1535908524.299048|swi|check device class|
+1535908524.299074|swi|shortcuts used|
+1535908524.304620|short|register all hotkeys for current app|
+1535908526.103950|swi|check device class|
+1535908526.103981|swi|shortcuts used|
+1535908526.109246|short|register all hotkeys for current app|
+1535908601.118995|swi|check device class|
+1535908601.119019|swi|shortcuts used|
+1535908601.126203|short|register all hotkeys for current app|
+1535908640.857543|swi|check device class|
+1535908640.857574|swi|shortcuts used|
+1535908640.862327|short|register all hotkeys for current app|
+1535908673.967505|swi|check device class|
+1535908673.967528|swi|shortcuts used|
+1535908673.970942|short|register all hotkeys for current app|
+1535908712.991357|swi|check device class|
+1535908712.991390|swi|shortcuts used|
+1535908712.999498|short|register all hotkeys for current app|
+1535908716.951705|swi|check device class|
+1535908716.951731|swi|shortcuts used|
+1535908716.956097|short|register all hotkeys for current app|
+1535908721.529116|swi|check device class|
+1535908721.529138|swi|shortcuts used|
+1535908721.534090|short|register all hotkeys for current app|
+1535908764.113339|swi|check device class|
+1535908764.113367|swi|shortcuts used|
+1535908764.118222|short|register all hotkeys for current app|
+1535908803.301810|swi|check device class|
+1535908803.301852|swi|shortcuts used|
+1535908803.305575|short|register all hotkeys for current app|
+1535908821.624754|swi|check device class|
+1535908821.624779|swi|shortcuts used|
+1535908821.631011|short|register all hotkeys for current app|
+1535908831.514505|swi|check device class|
+1535908831.514529|swi|shortcuts used|
+1535908831.518310|short|register all hotkeys for current app|
+1535908956.208466|swi|check device class|
+1535908956.208497|swi|shortcuts used|
+1535908956.212433|short|register all hotkeys for current app|
+1535909002.333243|swi|check device class|
+1535909002.333263|swi|shortcuts used|
+1535909002.336020|short|register all hotkeys for current app|
+1535909036.833449|swi|check device class|
+1535909036.833473|swi|shortcuts used|
+1535909036.836737|short|register all hotkeys for current app|
+1535909052.177019|swi|check device class|
+1535909052.177051|swi|shortcuts used|
+1535909052.183744|short|register all hotkeys for current app|
+1535909073.582989|swi|check device class|
+1535909073.583037|swi|shortcuts used|
+1535909073.599534|short|register all hotkeys for current app|
+1535909107.708611|swi|check device class|
+1535909107.708634|swi|shortcuts used|
+1535909107.711885|short|register all hotkeys for current app|
+1535909107.719048|short|register all hotkeys for current app|
