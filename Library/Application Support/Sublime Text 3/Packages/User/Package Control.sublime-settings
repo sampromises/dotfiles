@@ -10,6 +10,8 @@
 		"Dracula Color Scheme",
 		"Golang Build",
 		"GoSublime",
+		"HTML5",
+		"HTMLBeautify",
 		"JavaImports",
 		"JSON Reindent",
 		"JSONLint",
@@ -19,7 +21,9 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Python 3",
+		"Python PEP8 Autoformat",
 		"SFTP",
+		"SublimeLinter-html-tidy",
 		"SystemVerilog",
 		"Wombatish color scheme"
 	]

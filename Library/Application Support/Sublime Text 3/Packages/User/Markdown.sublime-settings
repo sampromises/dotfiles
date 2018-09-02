@@ -3,5 +3,8 @@
 	[
 		"mdown",
 		"md"
-	]
+	],
+    "word_wrap": "auto",
+    "tab_size": 2,
+    "spell_check": true
 }
