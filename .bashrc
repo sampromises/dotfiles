@@ -15,9 +15,17 @@ alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classno
 
 # Fall 2018
 alias cd_440="cd ~/Google_Drive/15-440-TA/"
-#alias cd_440_website="cd ~/Google_Drive/15-440-TA/15-440-Main"
+alias cd_440_website="cd ~/Google_Drive/15-440-TA/15-440-Main"
+alias cd_440_shared="cd ~/Google_Drive/15-440-TA/2018.Fall.15440"
 
 alias cd_437="cd ~/Google_Drive/17-437/"
+alias cd_437_hw1="cd /Users/skim/Google_Drive/17-437/ssk1/homework/1"
+alias cd_437_hw2="cd /Users/skim/Google_Drive/17-437/ssk1/homework/2"
+alias cd_437_hw3="cd /Users/skim/Google_Drive/17-437/ssk1/homework/3"
+alias cd_437_hw4="cd /Users/skim/Google_Drive/17-437/ssk1/homework/4"
+alias cd_437_hw5="cd /Users/skim/Google_Drive/17-437/ssk1/homework/5"
+alias cd_437_hw6="cd /Users/skim/Google_Drive/17-437/ssk1/homework/6"
+
 alias cd_220="cd ~/Google_Drive/18-220/"
 alias cd_290="cd ~/Google_Drive/18-290/"
 alias cd_452="cd ~/Google_Drive/18-452/"

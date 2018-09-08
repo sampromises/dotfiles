@@ -1,4 +1,9 @@
 {
+	"added_words":
+	[
+		"Amadou",
+		"Yuvraj"
+	],
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"drag_text": false,
 	"file_exclude_patterns":
@@ -24,7 +29,7 @@
 		"*.sublime-workspace"
 	],
 	"font_face": "Monaco",
-	"font_size": 12,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Six",
