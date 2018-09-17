@@ -17,6 +17,7 @@ alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classno
 alias cd_440="cd ~/Google_Drive/15-440-TA/"
 alias cd_440_website="cd ~/Google_Drive/15-440-TA/15-440-Main"
 alias cd_440_shared="cd ~/Google_Drive/15-440-TA/2018.Fall.15440"
+alias go_440_p1="export GOPATH=/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1 && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1"
 
 alias cd_437="cd ~/Google_Drive/17-437/"
 alias cd_437_hw1="cd /Users/skim/Google_Drive/17-437/ssk1/homework/1"
