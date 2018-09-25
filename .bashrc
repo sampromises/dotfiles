@@ -26,6 +26,8 @@ alias cd_437_hw3="cd /Users/skim/Google_Drive/17-437/ssk1/homework/3"
 alias cd_437_hw4="cd /Users/skim/Google_Drive/17-437/ssk1/homework/4"
 alias cd_437_hw5="cd /Users/skim/Google_Drive/17-437/ssk1/homework/5"
 alias cd_437_hw6="cd /Users/skim/Google_Drive/17-437/ssk1/homework/6"
+alias 437_migrate='python3 manage.py makemigrations && python3 manage.py migrate'
+alias 437_server='python3 manage.py runserver'
 
 alias cd_220="cd ~/Google_Drive/18-220/"
 alias cd_290="cd ~/Google_Drive/18-290/"
