@@ -1,5 +1,6 @@
-# If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+############
+# oh-myzsh #
+############
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/skim/.oh-my-zsh"
@@ -23,6 +24,7 @@ ZSH_THEME_RANDOM_CANDIDATES=(
     "simple"
     "wezm"
 )
+
 # Uncomment the following line to enable command auto-correction.
 ENABLE_CORRECTION="true"
 
@@ -41,7 +43,9 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-# User configuration
+##############
+# zsh config #
+##############
 
 # Preferred editor for local and remote sessions
 if [[ -n $SSH_CONNECTION ]]; then
@@ -62,6 +66,10 @@ fi
 
 bindkey -v # Vim keybindings on command line
 bindkey '^R' history-incremental-search-backward
+
+################
+# from .basrhc #
+################
 
 # Local aliases
 alias cd_sublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
