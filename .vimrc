@@ -13,6 +13,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
 Plug 'jiangmiao/auto-pairs'
 Plug 'kchmck/vim-coffee-script'
+Plug 'aserebryakov/vim-todo-lists'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
