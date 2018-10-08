@@ -122,3 +122,9 @@ function config_update() {
 # youtube-dl
 # Download single entry
 alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0'
+
+# Prevent brew update every time it's run
+export HOMEBREW_NO_AUTO_UPDATE=1
+
+# Use bin vim
+alias vim='/usr/local/bin/vim'

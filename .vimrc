@@ -24,7 +24,7 @@ call plug#end()
 filetype plugin indent on " Filetype auto-detection
 
 " https://www.reddit.com/r/vim/wiki/tabstop
-set tabstop=4 " Changed from 8 4o 4 for better Go compatibility
+set tabstop=4 " Changed from 8 to 4 for better Go compatibility
 set shiftwidth=4
 set softtabstop=4
 set expandtab " use spaces instead of tabs.
@@ -48,6 +48,7 @@ syntax on " Syntax highlighting
 set showcmd " See commands I'm typing 
 set ruler " Show ruler in status bar
 set cursorline " Highlight current row
+set backspace=indent,eol,start " So backspace works like normal
 
 " Ruler at column 80
 "highlight ColorColumn ctermbg=gray
@@ -55,6 +56,7 @@ set cursorline " Highlight current row
 
 " Search settings
 set hlsearch " Highlight searches
+nnoremap <silent> <c-_> :set hlsearch!<return> " Use <ctrl + /> to toggle search highlight on/off
 set incsearch " Incremental search, like a browser search
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
@@ -73,6 +75,9 @@ map <C-n> :cnext<CR>
 map <C-p> :cprevious<CR>
 nnoremap <leader>q :cclose<CR>
 
+" System clipboard copy/paste
+set clipboard=unnamed
+
 """""""""""""""""""
 " NEED FOR VIM-GO "
 """""""""""""""""""
@@ -88,3 +93,5 @@ nnoremap <leader>q :cclose<CR>
 " Shortcuts to quickly build and run Go program
 autocmd FileType go nmap <leader>b <Plug>(go-build)
 autocmd FileType go nmap <leader>r <Plug>(go-run)
+
+
