@@ -7,13 +7,14 @@ call plug#begin('~/.vim/plugged')
 
 " Declare the list of plugins.
 Plug 'kien/ctrlp.vim'
-Plug 'scrooloose/nerdtree'
+" Plug 'scrooloose/nerdtree'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
-Plug 'jiangmiao/auto-pairs'
-Plug 'kchmck/vim-coffee-script'
+" Plug 'jiangmiao/auto-pairs'
+" Plug 'kchmck/vim-coffee-script'
 Plug 'aserebryakov/vim-todo-lists'
+Plug 'terryma/vim-multiple-cursors'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -42,7 +43,7 @@ set noswapfile " They're just annoying. Who likes them?
 set foldcolumn=0
 
 " My color scheme
-colorscheme wombat256mod
+colorscheme dracula
 
 syntax on " Syntax highlighting
 set showcmd " See commands I'm typing 
@@ -70,11 +71,6 @@ set wildmode=longest:full,list
 " Quickly save file (update will write iff file changed)
 nnoremap zz :update<CR>
 
-" Shortcuts to jump around errors in quickfix list
-map <C-n> :cnext<CR>
-map <C-p> :cprevious<CR>
-nnoremap <leader>q :cclose<CR>
-
 " System clipboard copy/paste
 set clipboard=unnamed
 
@@ -86,9 +82,9 @@ set clipboard=unnamed
 let g:go_list_type = "quickfix"
 
 " Shortcuts to jump around errors in quickfix list
-map <C-n> :cnext<CR>
-map <C-p> :cprevious<CR>
-nnoremap <leader>q :cclose<CR>
+" map <C-n> :cnext<CR>
+" map <C-p> :cprevious<CR>
+" nnoremap <leader>q :cclose<CR>
 
 " Shortcuts to quickly build and run Go program
 autocmd FileType go nmap <leader>b <Plug>(go-build)
