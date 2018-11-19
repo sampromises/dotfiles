@@ -82,7 +82,7 @@ alias 440="cd ~/Google_Drive/15-440-TA/"
 alias 440_website="cd ~/Google_Drive/15-440-TA/15-440-Main"
 alias 440_shared="cd ~/Google_Drive/15-440-TA/2018.Fall.15440"
 alias go_440_p1="export GOPATH=/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1 && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1"
-alias go_440_p2="cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3 && export GOPATH=$(pwd) && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft"
+alias go_440_p2="cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3 && export GOPATH=/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3 && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft"
 
 alias 437_ssk1="cd ~/Google_Drive/17-437/ssk1"
 alias 437_Team26="cd ~/Google_Drive/17-437/Team26"
