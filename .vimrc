@@ -74,6 +74,11 @@ nnoremap zz :update<CR>
 " System clipboard copy/paste
 set clipboard=unnamed
 
+" FOLDING
+set foldmethod=syntax
+set foldnestmax=10
+set nofoldenable
+
 """""""""""""""""""
 " NEED FOR VIM-GO "
 """""""""""""""""""

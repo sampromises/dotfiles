@@ -94,6 +94,8 @@ alias 437_hw5="cd /Users/skim/Google_Drive/17-437/ssk1/homework/5"
 alias 437_hw6="cd /Users/skim/Google_Drive/17-437/ssk1/homework/6"
 alias 437_migrate='python3 manage.py makemigrations && python3 manage.py migrate'
 alias 437_server='python3 manage.py runserver'
+alias 437_db='python3 manage.py dbshell'
+alias 437_redis='docker run -p 6379:6379 -d redis:2.8'
 
 alias cd_220="cd ~/Google_Drive/18-220/"
 alias cd_290="cd ~/Google_Drive/18-290/"
