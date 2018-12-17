@@ -8,13 +8,10 @@ call plug#begin('~/.vim/plugged')
 " Declare the list of plugins.
 Plug 'kien/ctrlp.vim'
 " Plug 'scrooloose/nerdtree'
-Plug 'nathanaelkane/vim-indent-guides'
 Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
 " Plug 'jiangmiao/auto-pairs'
-" Plug 'kchmck/vim-coffee-script'
-Plug 'aserebryakov/vim-todo-lists'
-Plug 'terryma/vim-multiple-cursors'
+" Plug 'terryma/vim-multiple-cursors'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -69,7 +66,7 @@ nnoremap U <C-r>
 set wildmode=longest:full,list
 
 " Quickly save file (update will write iff file changed)
-nnoremap zz :update<CR>
+" nnoremap zz :update<CR>
 
 " System clipboard copy/paste
 set clipboard=unnamed

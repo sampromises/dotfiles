@@ -57,7 +57,6 @@ source $ZSH/oh-my-zsh.sh
  alias zsh_update="source ~/.zshrc"
  alias ohmyzsh="cd ~/.oh-my-zsh"
 
-bindkey -v # Vim keybindings on command line
 bindkey '^R' history-incremental-search-backward
 
 ################
@@ -66,8 +65,8 @@ bindkey '^R' history-incremental-search-backward
 
 # Local aliases
 alias cd_sublime="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User"
-alias edit_brc="vim ~/.bashrc"
-alias edit_vrc="vim ~/.vimrc"
+alias zrc="vim ~/.zshrc"
+alias vrc="vim ~/.vimrc"
 
 # SSH
 alias ssh_cmu="ssh ssk1@unix.andrew.cmu.edu"
@@ -77,30 +76,8 @@ alias sftp_cmu="sftp ssk1@unix.andrew.cmu.edu"
 # Spring 2018
 alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classnotes/ ~/Google\ Drive/15440/classnotes/ "
 
-# Fall 2018
-alias 440="cd ~/Google_Drive/15-440-TA/"
-alias 440_website="cd ~/Google_Drive/15-440-TA/15-440-Main"
-alias 440_shared="cd ~/Google_Drive/15-440-TA/2018.Fall.15440"
-alias go_440_p1="export GOPATH=/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1 && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1"
-alias go_440_p2="cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3 && export GOPATH=/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3 && cd /Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft"
-
-alias 437_ssk1="cd ~/Google_Drive/17-437/ssk1"
-alias 437_Team26="cd ~/Google_Drive/17-437/Team26"
-alias 437_hw1="cd /Users/skim/Google_Drive/17-437/ssk1/homework/1"
-alias 437_hw2="cd /Users/skim/Google_Drive/17-437/ssk1/homework/2"
-alias 437_hw3="cd /Users/skim/Google_Drive/17-437/ssk1/homework/3"
-alias 437_hw4="cd /Users/skim/Google_Drive/17-437/ssk1/homework/4"
-alias 437_hw5="cd /Users/skim/Google_Drive/17-437/ssk1/homework/5"
-alias 437_hw6="cd /Users/skim/Google_Drive/17-437/ssk1/homework/6"
-alias 437_migrate='python3 manage.py makemigrations && python3 manage.py migrate'
-alias 437_server='python3 manage.py runserver'
 alias 437_db='python3 manage.py dbshell'
 alias 437_redis='redis-server /usr/local/etc/redis.conf &'
-alias 437_push_heroku='cd ~/Google_Drive/17-437/Team26 ; git subtree push --prefix src/webapps heroku master'
-
-alias cd_220="cd ~/Google_Drive/18-220/"
-alias cd_290="cd ~/Google_Drive/18-290/"
-alias cd_452="cd ~/Google_Drive/18-452/"
 
 alias j9="export JAVA_HOME=`/usr/libexec/java_home -v 9`; java -version"
 alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
