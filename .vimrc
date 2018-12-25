@@ -7,11 +7,12 @@ call plug#begin('~/.vim/plugged')
 
 " Declare the list of plugins.
 Plug 'kien/ctrlp.vim'
-" Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'fatih/vim-go'
 " Plug 'jiangmiao/auto-pairs'
 " Plug 'terryma/vim-multiple-cursors'
+Plug 'w0rp/ale'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -75,6 +76,9 @@ set clipboard=unnamed
 set foldmethod=syntax
 set foldnestmax=10
 set nofoldenable
+
+" NERDTree Toggle
+map <C-n> :NERDTreeToggle<CR>
 
 """""""""""""""""""
 " NEED FOR VIM-GO "
