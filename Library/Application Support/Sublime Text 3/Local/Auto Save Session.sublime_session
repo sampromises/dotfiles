@@ -715,14 +715,13 @@
 			"buffers":
 			[
 				{
-					"contents": "Package Control Messages\n========================\n\nSublimeLinter-flake8\n--------------------\n\n  SublimeLinter-flake8\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to flake8.\n  \n  Please read the installation instructions at:\n  \n  https://github.com/SublimeLinter/SublimeLinter-flake8\n",
+					"file": "/Users/skim/foo.py",
 					"settings":
 					{
-						"buffer_size": 333,
+						"buffer_size": 16,
+						"encoding": "UTF-8",
 						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
+						"name": "import requests"
 					}
 				}
 			],
@@ -905,6 +904,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"sublimelinter",
+						"SublimeLinter: Show All Errors"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -1228,6 +1231,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ROII [VVIP ] "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1250,27 +1254,32 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/Users/skim/foo.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 333,
+								"buffer_size": 16,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										333,
-										333
+										16,
+										16
 									]
 								],
 								"settings":
 								{
-									"auto_indent": false,
+									"SL.42.region_keys":
+									[
+										"SL.flake8.Highlights.|c012b990353bbb373a98e4dbdeee361e0e93a7cfc652491897db5a55141cb257|region.yellowish markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+									],
+									"auto_name": "import requests",
 									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
+									"syntax": "Packages/Python 3/Python3.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
