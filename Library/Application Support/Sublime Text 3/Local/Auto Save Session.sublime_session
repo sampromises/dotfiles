@@ -1,0 +1,1423 @@
+{
+	"folder_history":
+	[
+		"/Users/skim/Google_Drive/18-452/p2",
+		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2",
+		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3",
+		"/Users/skim/Google_Drive/17-437/ssk1/homework/5",
+		"/Users/skim/Google_Drive/17-437/Team26",
+		"/Users/skim/Google_Drive/17-437/ssk1/homework/project-proposal",
+		"/Users/skim/workspace/FALL2018-P1-INTERNAL",
+		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1",
+		"/Users/skim/workspace/P1",
+		"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp",
+		"/Users/skim/Google_Drive/17-437/ssk1/in-class/08 Django Forms",
+		"/Users/skim/Google_Drive/17-437/ssk1/in-class/05 Django models/Django models demo",
+		"/Users/skim/workspace/P0/src/github.com/cmu440",
+		"/Users/skim/Google_Drive/17-437/ssk1/in-class/04 Introduction to Django",
+		"/Users/skim/workspace/FALL2018-P0-RELEASE",
+		"/Users/skim/workspace/FALL2018-P0-INTERNAL",
+		"/Users/skim/Google_Drive/440-F17/P1/src/github.com/cmu440",
+		"/Users/skim/Documents/4RK_CONVO",
+		"/Users/skim/Google_Drive/440-F17",
+		"/Users/skim/Google Drive/17214/ssk1",
+		"/Users/skim/Google Drive/17214/ssk1/homework/1/src/main",
+		"/Users/skim/Google Drive/17214/ssk1/homework/4"
+	],
+	"last_version": 3176,
+	"last_window_id": 557,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 755.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"exp_3_throughput_avgs"
+					],
+					[
+						"plot",
+						"plot_exp_1_a"
+					],
+					[
+						"ch",
+						"chelsea_sam_data_rate"
+					],
+					[
+						"OFF",
+						"OFFSET_RANGE"
+					],
+					[
+						"fin",
+						"finishedProducing\tchan bool ν"
+					],
+					[
+						"m",
+						"messageBuffer\tchan int ν"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Basic Builder - PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"lint python",
+						"Build With: Python3"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"gofmt",
+						"GoSublime: Fmt and save"
+					],
+					[
+						"gosublime: list",
+						"GoSublime: Go to imports section"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"HTMLb",
+						"HTMLBeautify"
+					],
+					[
+						"pdf",
+						"Build With: LaTeX - PdfLaTeX"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"SFTP",
+						"SFTP: Edit Server…"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"GoBuild",
+						"GoSublime: Run build command"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 239.0,
+				"history":
+				[
+					"print(\"hello\")",
+					"math.pi",
+					"pi",
+					"import math",
+					"import numpy",
+					"print(hello)",
+					"type",
+					"1 + 1",
+					"1"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/skim/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/skim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/skim/workspace/server.py",
+				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
+				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Google_Drive/15-440-TA/sam-mt-question.txt",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/mylib.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
+				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
+				"/Users/skim/Desktop/IMPORTANT-DATA",
+				"/Users/skim/Desktop/foo.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/get_average.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-raw",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial5",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial4",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial3",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial2",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial1",
+				"/Users/skim/Google_Drive/18-452/p2/results/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-cluster/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/4",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/3",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/2",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/1",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-staggered-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-quadruple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-triple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-double-priority",
+				"/Users/skim/Desktop/tdm-3-double-priority",
+				"/Users/skim/Desktop/tdm-4-double-priority",
+				"/Users/skim/Desktop/tdm-2-priority",
+				"/Users/skim/Desktop/tdm-1-priority",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/abstracts/rmotwani+spertet.txt",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/course.css",
+				"/Users/skim/Downloads/ROII [VVIP ].html",
+				"/Users/skim/Documents/4RK/Texts/A:what was the biggest negative about each of you3 ",
+				"/Users/skim/Documents/4RK/Texts/Do you wanna know what I would write about you..",
+				"/Users/skim/Documents/4RK/Texts/For my part of the review of me, I'm just gonna co",
+				"/Users/skim/Documents/4RK/Texts/I want you to let me know what you want me to writ",
+				"/Users/skim/Documents/4RK/Texts/Chels, we went above and beyond this week and kill",
+				"/Users/skim/Google_Drive/18-452/Ideas for data before poster presentation:",
+				"/Users/skim/Google_Drive/18-452/1127_peter_meeting",
+				"/Users/skim/Documents/4RK/Dear Pro Saint Pete,",
+				"/Users/skim/Documents/4RK/I emailed the Pro Saint Peet - told him we're fuck",
+				"/Users/skim/Documents/4RK/Anyway... I think our app is good enough. Let's wr",
+				"/Users/skim/Desktop/Procfile-old",
+				"/Users/skim/Documents/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Documents/4RK/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Users/skim/Desktop/tuition",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/git_diff",
+				"/Users/skim/Downloads/starter_code/sample_request_realistic",
+				"/Users/skim/Downloads/starter_code/sample_request_example",
+				"/Users/skim/Downloads/starter_code/echo_server.c",
+				"/Users/skim/Downloads/starter_code/parse.c",
+				"/Users/skim/Downloads/starter_code/cp1_checker.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/tribserver/tribserver_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/libstore/libstore_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/rpc/storagerpc/proto.go",
+				"/Users/skim/Google_Drive/18-452/survey/sam-ax-notes.md",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/6/README.md",
+				"/Users/skim/Downloads/sublime-default-open-text-command",
+				"/Users/skim/Downloads/bootstrap-3.3.7-dist/js/bootstrap.js",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/util.go",
+				"/Users/skim/Downloads/MATLAB_2018b_Licensing_Standalone.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/MusicShare_1/music_share_app/hot_spot_music_share/models.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/music_share_app/hot_spot_music_share/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/settings.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/webapps/urls.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/out",
+				"/Users/skim/Documents/Now, I know I don't got a shot at Google. I don't",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/product-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/1025-backlog-sam-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/sam/sam-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/project-proposal.md",
+				"/Users/skim/workspace/espn/espn_fantasy_bball.py",
+				"/Users/skim/Documents/Amazon FTE/my-location-prefs.txt",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/4/grumblr/models.py",
+				"/Users/skim/Google_Drive/15-440-TA/2018.Fall.15440/Meeting Notes/10-12.md",
+				"/Users/skim/Google_Drive/18-452/P1A/452-P1A.py",
+				"/Users/skim/Desktop/bar.py",
+				"/Users/skim/Google_Drive/18-452/P1A/ether src host 18:65:90:cc:e2:01 and ether dst hos",
+				"/Users/skim/Google_Drive/18-452/P1A/# Sam to Jeremy",
+				"/Users/skim/Google_Drive/18-452/P1A/data_as_py_arrays.py",
+				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/60",
+				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/20",
+				"/Users/skim/Google_Drive/18-452/p2/10-08-prof-steenkiste-notes.txt",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_sol_not_updated_yet/lsp2_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp3_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/sh/run_test_checkpoint2.sh",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/lsp.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/server_impl.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/server_api.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/client_api.go",
+				"/Users/skim/Documents/YELP_09_22/YELP_LOUVRE/ROII [VVIP ]",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp5_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp4_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/README.md",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp2_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp1_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/conn.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/sniff.go",
+				"/Users/skim/Downloads/simengl@andrew.cmu.edu_project1checkpoint_3_lsp.tar",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/addr.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/staff.go",
+				"/Users/skim/workspace/View Gradesheet.htm",
+				"/Users/skim/workspace/autolab_style_grader.py",
+				"/Users/skim/Desktop/View Gradesheet.htm",
+				"/Users/skim/Downloads/View Gradesheet.htm",
+				"/Users/skim/Google_Drive/18-220/Lab1/Lab1_TVJammer_F18/TVB_220/WORLDcodes.cpp"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 187.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/skim/Desktop":
+			{
+				"height": 138.0
+			},
+			"output.9o:///Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0":
+			{
+				"height": 174.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 272.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.golang_build":
+			{
+				"height": 395.0
+			},
+			"output.latextools":
+			{
+				"height": 126.0
+			},
+			"output.markdown":
+			{
+				"height": 132.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.vi_out":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"specification/README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"exp_3_throughput_avgs"
+					],
+					[
+						"plot",
+						"plot_exp_1_a"
+					],
+					[
+						"ch",
+						"chelsea_sam_data_rate"
+					],
+					[
+						"OFF",
+						"OFFSET_RANGE"
+					],
+					[
+						"fin",
+						"finishedProducing\tchan bool ν"
+					],
+					[
+						"m",
+						"messageBuffer\tchan int ν"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nSublimeLinter-flake8\n--------------------\n\n  SublimeLinter-flake8\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to flake8.\n  \n  Please read the installation instructions at:\n  \n  https://github.com/SublimeLinter/SublimeLinter-flake8\n",
+					"settings":
+					{
+						"buffer_size": 333,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Basic Builder - PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lint python",
+						"Build With: Python3"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"gofmt",
+						"GoSublime: Fmt and save"
+					],
+					[
+						"gosublime: list",
+						"GoSublime: Go to imports section"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"HTMLb",
+						"HTMLBeautify"
+					],
+					[
+						"pdf",
+						"Build With: LaTeX - PdfLaTeX"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"SFTP",
+						"SFTP: Edit Server…"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"GoBuild",
+						"GoSublime: Run build command"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 239.0,
+				"history":
+				[
+					"print(\"hello\")",
+					"math.pi",
+					"pi",
+					"import math",
+					"import numpy",
+					"print(hello)",
+					"type",
+					"1 + 1",
+					"1"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/skim/workspace/server.py",
+				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
+				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Google_Drive/15-440-TA/sam-mt-question.txt",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/mylib.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
+				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
+				"/Users/skim/Desktop/IMPORTANT-DATA",
+				"/Users/skim/Desktop/foo.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/get_average.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-raw",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial5",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial4",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial3",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial2",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial1",
+				"/Users/skim/Google_Drive/18-452/p2/results/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-cluster/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/4",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/3",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/2",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/1",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-staggered-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-quadruple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-triple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-double-priority",
+				"/Users/skim/Desktop/tdm-3-double-priority",
+				"/Users/skim/Desktop/tdm-4-double-priority",
+				"/Users/skim/Desktop/tdm-2-priority",
+				"/Users/skim/Desktop/tdm-1-priority",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/abstracts/rmotwani+spertet.txt",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/course.css",
+				"/Users/skim/Downloads/ROII [VVIP ].html",
+				"/Users/skim/Documents/4RK/Texts/A:what was the biggest negative about each of you3 ",
+				"/Users/skim/Documents/4RK/Texts/Do you wanna know what I would write about you..",
+				"/Users/skim/Documents/4RK/Texts/For my part of the review of me, I'm just gonna co",
+				"/Users/skim/Documents/4RK/Texts/I want you to let me know what you want me to writ",
+				"/Users/skim/Documents/4RK/Texts/Chels, we went above and beyond this week and kill",
+				"/Users/skim/Google_Drive/18-452/Ideas for data before poster presentation:",
+				"/Users/skim/Google_Drive/18-452/1127_peter_meeting",
+				"/Users/skim/Documents/4RK/Dear Pro Saint Pete,",
+				"/Users/skim/Documents/4RK/I emailed the Pro Saint Peet - told him we're fuck",
+				"/Users/skim/Documents/4RK/Anyway... I think our app is good enough. Let's wr",
+				"/Users/skim/Desktop/Procfile-old",
+				"/Users/skim/Documents/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Documents/4RK/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Users/skim/Desktop/tuition",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/git_diff",
+				"/Users/skim/Downloads/starter_code/sample_request_realistic",
+				"/Users/skim/Downloads/starter_code/sample_request_example",
+				"/Users/skim/Downloads/starter_code/echo_server.c",
+				"/Users/skim/Downloads/starter_code/parse.c",
+				"/Users/skim/Downloads/starter_code/cp1_checker.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/tribserver/tribserver_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/libstore/libstore_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/rpc/storagerpc/proto.go",
+				"/Users/skim/Google_Drive/18-452/survey/sam-ax-notes.md",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/6/README.md",
+				"/Users/skim/Downloads/sublime-default-open-text-command",
+				"/Users/skim/Downloads/bootstrap-3.3.7-dist/js/bootstrap.js",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/util.go",
+				"/Users/skim/Downloads/MATLAB_2018b_Licensing_Standalone.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/MusicShare_1/music_share_app/hot_spot_music_share/models.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/music_share_app/hot_spot_music_share/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/settings.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/webapps/urls.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/out",
+				"/Users/skim/Documents/Now, I know I don't got a shot at Google. I don't",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/product-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/1025-backlog-sam-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/sam/sam-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/project-proposal.md",
+				"/Users/skim/workspace/espn/espn_fantasy_bball.py",
+				"/Users/skim/Documents/Amazon FTE/my-location-prefs.txt",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/4/grumblr/models.py",
+				"/Users/skim/Google_Drive/15-440-TA/2018.Fall.15440/Meeting Notes/10-12.md",
+				"/Users/skim/Google_Drive/18-452/P1A/452-P1A.py",
+				"/Users/skim/Desktop/bar.py",
+				"/Users/skim/Google_Drive/18-452/P1A/ether src host 18:65:90:cc:e2:01 and ether dst hos",
+				"/Users/skim/Google_Drive/18-452/P1A/# Sam to Jeremy",
+				"/Users/skim/Google_Drive/18-452/P1A/data_as_py_arrays.py",
+				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/60",
+				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/20",
+				"/Users/skim/Google_Drive/18-452/p2/10-08-prof-steenkiste-notes.txt",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_sol_not_updated_yet/lsp2_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp3_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/sh/run_test_checkpoint2.sh",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/lsp.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/server_impl.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/server_api.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/client_api.go",
+				"/Users/skim/Documents/YELP_09_22/YELP_LOUVRE/ROII [VVIP ]",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp5_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp4_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/README.md",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp2_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp1_test.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/conn.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/sniff.go",
+				"/Users/skim/Downloads/simengl@andrew.cmu.edu_project1checkpoint_3_lsp.tar",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/addr.go",
+				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/staff.go",
+				"/Users/skim/workspace/View Gradesheet.htm",
+				"/Users/skim/workspace/autolab_style_grader.py",
+				"/Users/skim/Desktop/View Gradesheet.htm",
+				"/Users/skim/Downloads/View Gradesheet.htm",
+				"/Users/skim/Google_Drive/18-220/Lab1/Lab1_TVJammer_F18/TVB_220/WORLDcodes.cpp",
+				"/Users/skim/workspace/P1/src/github.com/cmu440/lspnet/addr.go",
+				"/Volumes/Samuel's Passport/Videos/Movies/Good Movies.txt"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 187.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 333,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										333,
+										333
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/skim/Desktop":
+			{
+				"height": 138.0
+			},
+			"output.9o:///Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0":
+			{
+				"height": 174.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 272.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.golang_build":
+			{
+				"height": 395.0
+			},
+			"output.latextools":
+			{
+				"height": 126.0
+			},
+			"output.markdown":
+			{
+				"height": 132.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.vi_out":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 640 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"specification/README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 556,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/skim/Google_Drive/440-F17/440-F17.sublime-workspace"
+		]
+	}
+}

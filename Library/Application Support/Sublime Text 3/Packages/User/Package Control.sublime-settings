@@ -25,6 +25,8 @@
 		"Python 3",
 		"Python PEP8 Autoformat",
 		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
 		"SystemVerilog",
 		"Wombatish color scheme"

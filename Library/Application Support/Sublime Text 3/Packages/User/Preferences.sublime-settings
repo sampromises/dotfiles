@@ -1,12 +1,10 @@
 {
 	"added_words":
 	[
-		"Amadou",
-		"Yuvraj",
-		"Googling"
 	],
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -41,6 +39,8 @@
 	[
 		80
 	],
+	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

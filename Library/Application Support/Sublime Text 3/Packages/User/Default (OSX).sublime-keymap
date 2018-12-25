@@ -1,0 +1,18 @@
+[
+    {
+        "keys": ["super+shift+w"],
+        "command": "toggle_setting",
+        "args": {
+            "setting": "word_wrap"
+        },
+    },
+    {
+        "keys": ["super+shift+["],
+        "command": "fold_all",
+    },
+        {
+        "keys": ["super+shift+]"],
+        "command": "unfold_all",
+    },
+    { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+]

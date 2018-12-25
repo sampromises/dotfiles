@@ -1,0 +1,60 @@
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.10.2/libexec/pkg/darwin_amd64:/Users/skim/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.10.2/libexec", GOPATH:"/Users/skim/go", InstallSuffix:""}
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
+margo: nsf/gocode is not enabled in go1.11. See https://margo.kuroku.io/b/migrate/?_r=gs
