@@ -9,7 +9,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'kien/ctrlp.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
-Plug 'fatih/vim-go'
+" Plug 'fatih/vim-go'
 " Plug 'jiangmiao/auto-pairs'
 " Plug 'terryma/vim-multiple-cursors'
 Plug 'w0rp/ale'
@@ -49,10 +49,6 @@ set ruler " Show ruler in status bar
 set cursorline " Highlight current row
 set backspace=indent,eol,start " So backspace works like normal
 
-" Ruler at column 80
-"highlight ColorColumn ctermbg=gray
-"set colorcolumn=80
-
 " Search settings
 set hlsearch " Highlight searches
 nnoremap <silent> <c-_> :set hlsearch!<return> " Use <ctrl + /> to toggle search highlight on/off
@@ -66,9 +62,6 @@ nnoremap U <C-r>
 " Show tab-completion list
 set wildmode=longest:full,list
 
-" Quickly save file (update will write iff file changed)
-" nnoremap zz :update<CR>
-
 " System clipboard copy/paste
 set clipboard=unnamed
 
@@ -77,23 +70,9 @@ set foldmethod=syntax
 set foldnestmax=10
 set nofoldenable
 
+" Splits
+set splitbelow
+set splitright
+
 " NERDTree Toggle
 map <C-n> :NERDTreeToggle<CR>
-
-"""""""""""""""""""
-" NEED FOR VIM-GO "
-"""""""""""""""""""
-
-" Make sure all lists in are 'quickfix' instead of 'location list'
-let g:go_list_type = "quickfix"
-
-" Shortcuts to jump around errors in quickfix list
-" map <C-n> :cnext<CR>
-" map <C-p> :cprevious<CR>
-" nnoremap <leader>q :cclose<CR>
-
-" Shortcuts to quickly build and run Go program
-autocmd FileType go nmap <leader>b <Plug>(go-build)
-autocmd FileType go nmap <leader>r <Plug>(go-run)
-
-

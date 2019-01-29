@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/Users/skim/ws/15-440-S19/p1",
 		"/Users/skim/Google_Drive/18-452/p2",
 		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2",
 		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3",
@@ -25,11 +26,11 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
 	"last_version": 3176,
-	"last_window_id": 557,
+	"last_window_id": 572,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 755.0,
+		"new_window_height": 1035.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -241,6 +242,18 @@
 				"selected_items":
 				[
 					[
+						"add fo",
+						"Project: Add Folder"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"lint python",
 						"Build With: Python3"
 					],
@@ -251,10 +264,6 @@
 					[
 						"sublime",
 						"SublimeLinter: Lint This View"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"folder",
@@ -418,8 +427,10 @@
 			},
 			"file_history":
 			[
-				"/Users/skim/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/skim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
+				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/foo.py",
 				"/Users/skim/workspace/server.py",
 				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
 				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
@@ -429,7 +440,6 @@
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
-				"/Users/skim/Documents/323-apeiron.json",
 				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
 				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
 				"/Users/skim/Desktop/IMPORTANT-DATA",
@@ -544,12 +554,11 @@
 				"/Users/skim/workspace/View Gradesheet.htm",
 				"/Users/skim/workspace/autolab_style_grader.py",
 				"/Users/skim/Desktop/View Gradesheet.htm",
-				"/Users/skim/Downloads/View Gradesheet.htm",
-				"/Users/skim/Google_Drive/18-220/Lab1/Lab1_TVJammer_F18/TVB_220/WORLDcodes.cpp"
+				"/Users/skim/Downloads/View Gradesheet.htm"
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -579,7 +588,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -633,7 +642,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -670,14 +679,14 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 320.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 960.0
 	},
 	"windows":
 	[
@@ -715,13 +724,12 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/skim/foo.py",
+					"contents": "Requirements: What are the requirements of your project?  What are the key technical challenges?  How will your approach meet those challenges?  You certainly don't know all the requirements, but you should be as complete as possible.  Include a listing of requirements you don't know yet (i.e. \"We don't know how much power it will require and thus don't know the size of the batteries.\")",
 					"settings":
 					{
-						"buffer_size": 16,
-						"encoding": "UTF-8",
+						"buffer_size": 389,
 						"line_ending": "Unix",
-						"name": "import requests"
+						"name": "Requirements: What are the requirements of your pr"
 					}
 				}
 			],
@@ -905,6 +913,10 @@
 				"selected_items":
 				[
 					[
+						"add fo",
+						"Project: Add Folder"
+					],
+					[
 						"sublimelinter",
 						"SublimeLinter: Show All Errors"
 					],
@@ -1086,6 +1098,10 @@
 			},
 			"file_history":
 			[
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
+				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/foo.py",
 				"/Users/skim/workspace/server.py",
 				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
 				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
@@ -1095,7 +1111,6 @@
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
-				"/Users/skim/Documents/323-apeiron.json",
 				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
 				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
 				"/Users/skim/Desktop/IMPORTANT-DATA",
@@ -1210,14 +1225,11 @@
 				"/Users/skim/workspace/View Gradesheet.htm",
 				"/Users/skim/workspace/autolab_style_grader.py",
 				"/Users/skim/Desktop/View Gradesheet.htm",
-				"/Users/skim/Downloads/View Gradesheet.htm",
-				"/Users/skim/Google_Drive/18-220/Lab1/Lab1_TVJammer_F18/TVB_220/WORLDcodes.cpp",
-				"/Users/skim/workspace/P1/src/github.com/cmu440/lspnet/addr.go",
-				"/Volumes/Samuel's Passport/Videos/Movies/Good Movies.txt"
+				"/Users/skim/Downloads/View Gradesheet.htm"
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -1231,7 +1243,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"ROII [VVIP ] "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1254,32 +1265,25 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/skim/foo.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 16,
+								"buffer_size": 389,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										16,
-										16
+										389,
+										389
 									]
 								],
 								"settings":
 								{
-									"SL.42.region_keys":
-									[
-										"SL.flake8.Highlights.|c012b990353bbb373a98e4dbdeee361e0e93a7cfc652491897db5a55141cb257|region.yellowish markup.warning.sublime_linter|32",
-										"sublime_linter.protected_regions",
-										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
-									],
-									"auto_name": "import requests",
+									"auto_name": "Requirements: What are the requirements of your pr",
 									"incomplete_sync": null,
-									"syntax": "Packages/Python 3/Python3.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1293,7 +1297,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -1367,11 +1371,11 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 0 640 777 0 0 1280 777 ",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1418,7 +1422,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 556,
+			"window_id": 572,
 			"workspace_name": ""
 		}
 	],
