@@ -26,7 +26,7 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
 	"last_version": 3176,
-	"last_window_id": 572,
+	"last_window_id": 575,
 	"log_indexing": false,
 	"settings":
 	{
@@ -724,12 +724,12 @@
 			"buffers":
 			[
 				{
-					"contents": "Requirements: What are the requirements of your project?  What are the key technical challenges?  How will your approach meet those challenges?  You certainly don't know all the requirements, but you should be as complete as possible.  Include a listing of requirements you don't know yet (i.e. \"We don't know how much power it will require and thus don't know the size of the batteries.\")",
+					"contents": "class ",
 					"settings":
 					{
-						"buffer_size": 389,
+						"buffer_size": 6,
 						"line_ending": "Unix",
-						"name": "Requirements: What are the requirements of your pr"
+						"name": "class"
 					}
 				}
 			],
@@ -1268,20 +1268,20 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 389,
+								"buffer_size": 6,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										389,
-										389
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "Requirements: What are the requirements of your pr",
+									"auto_name": "class",
 									"incomplete_sync": null,
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -1371,7 +1371,7 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 0 1280 777 0 0 1280 777 ",
+			"position": "0 160 0 960 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
@@ -1422,7 +1422,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 572,
+			"window_id": 575,
 			"workspace_name": ""
 		}
 	],
