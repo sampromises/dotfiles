@@ -8,11 +8,14 @@ call plug#begin('~/.vim/plugged')
 " Declare the list of plugins.
 Plug 'kien/ctrlp.vim'
 Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdcommenter'
 Plug 'vim-airline/vim-airline'
 " Plug 'fatih/vim-go'
 " Plug 'jiangmiao/auto-pairs'
-" Plug 'terryma/vim-multiple-cursors'
+Plug 'terryma/vim-multiple-cursors'
 Plug 'w0rp/ale'
+Plug 'qpkorr/vim-renamer'
+Plug 'pangloss/vim-javascript'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
@@ -51,7 +54,7 @@ set backspace=indent,eol,start " So backspace works like normal
 
 " Search settings
 set hlsearch " Highlight searches
-nnoremap <silent> <c-_> :set hlsearch!<return> " Use <ctrl + /> to toggle search highlight on/off
+nnoremap <esc><esc> :silent! nohls<cr>
 set incsearch " Incremental search, like a browser search
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
@@ -80,4 +83,11 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
 " NERDTree Toggle
-map <C-n> :NERDTreeToggle<CR>
+map <C-\> :NERDTreeToggle<CR>
+
+nnoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
+vnoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
+inoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
+
+" Run python
+nnoremap <buffer> <F5> :exec '!python3' shellescape(@%, 1)<cr>

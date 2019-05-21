@@ -99,16 +99,16 @@
     <size key="ProcessPopupWindow.1280.0.1920.1080" width="400" height="176" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="108" />
     <size key="SettingsEditor.0.0.1920.1080" width="1275" height="779" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1878" height="209" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1878" height="209" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="209" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1878" height="209" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1238" height="329" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1238" height="329" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1238" height="329" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1238" height="329" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="1061" height="731" />
     <size key="NewModule_or_Project.wizard.0.0.2560.1600@192dpi" width="2122" height="1462" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1600@192dpi" width="2476" height="668" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1600@192dpi" width="2476" height="668" />
-    <size key="GridCell.Tab.0.right.0.0.2560.1600@192dpi" width="2476" height="668" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1600@192dpi" width="2476" height="668" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1600@192dpi" width="2476" height="658" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1600@192dpi" width="2476" height="658" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1600@192dpi" width="2476" height="658" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1600@192dpi" width="2476" height="658" />
     <size key="javadoc.popup.0.0.2560.1600@192dpi" width="888" height="336" />
     <size key="SettingsEditor.0.0.2560.1600@192dpi" width="2282" height="1556" />
     <size key="javadoc.popup.0.0.1920.1080" width="444" height="184" />

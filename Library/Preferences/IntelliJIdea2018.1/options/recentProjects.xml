@@ -2,6 +2,8 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Documents" />
+        <option value="$USER_HOME$/Downloads/4" />
         <option value="$USER_HOME$/Google Drive/17214/ssk1/homework/6" />
         <option value="$USER_HOME$/Google Drive/17214/ssk1/homework/5/Team34" />
         <option value="$USER_HOME$/Google Drive/17214/ssk1/recitation/13" />
@@ -20,9 +22,37 @@
         <option value="$USER_HOME$/Google Drive/15440/afs15440/p2" />
       </list>
     </option>
-    <option name="pid" value="8044" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents" />
+    <option name="pid" value="36237" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/Documents">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553974647272" />
+              <option name="buildTimestamp" value="1522093175552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553525321530" />
+              <option name="buildTimestamp" value="1522093160544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Google Drive/15440/afs15440/p2">
           <value>
             <RecentProjectMetaInfo>

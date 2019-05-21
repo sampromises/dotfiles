@@ -71,12 +71,12 @@ alias zrc="vim ~/.zshrc"
 alias vrc="vim ~/.vimrc"
 
 # SSH
-alias ssh_cmu="ssh ssk1@unix.andrew.cmu.edu"
+alias ssh_cmu="ssh ssk1@unix7.andrew.cmu.edu"
 alias ssh_shark="ssh ssk1@shark.ics.cs.cmu.edu"
-alias sftp_cmu="sftp ssk1@unix.andrew.cmu.edu"
+alias sftp_cmu="sftp ssk1@unix7.andrew.cmu.edu"
 
 # Spring 2018
-alias get_440="scp -r ssk1@unix.andrew.cmu.edu:/afs/andrew/course/15/440/classnotes/ ~/Google\ Drive/15440/classnotes/ "
+alias get_440="scp -r ssk1@unix7.andrew.cmu.edu:/afs/andrew/course/15/440/classnotes/ ~/Documents/15-440/classnotes"
 
 alias 437_db='python3 manage.py dbshell'
 alias 437_redis='redis-server /usr/local/etc/redis.conf &'
@@ -88,7 +88,7 @@ alias j8="export JAVA_HOME=`/usr/libexec/java_home -v 1.8`; java -version"
 export CLICOLOR=1
 
 # For tmux colors
-export TERM="xterm-256color"
+export TERM="xterm-256color-italic"
 
 # Keep track of list of installed applications
 alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
@@ -112,3 +112,16 @@ export HOMEBREW_NO_AUTO_UPDATE=1
 
 # Use bin vim
 alias vim='/usr/local/bin/vim'
+
+# Python
+alias ipy='ipython'
+alias py='python3'
+alias py2='python'
+
+# Capstone project
+alias go_pool='cd ~/ws/pool/ && source venv/bin/activate'
+alias go_500='cd ~/ws/500/ && source venv/bin/activate'
+
+# 440
+alias go_440='ssh_cmu 440_p3'
+alias go_ctci='cd /Users/skim/ws/Interview-Prep/CTCI'

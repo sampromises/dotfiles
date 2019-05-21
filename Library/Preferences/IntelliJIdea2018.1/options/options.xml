@@ -48,6 +48,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="PLUGIN_FILTER" value="visualVM&#10;visual&#10;findbugs&#10;soup&#10;html" />
     <property name="SearchEveryWhereHistory" value="file&#10;puit&#10;//&#10;ServerContainerClass&#10;)" />
+    <property name="SettingsSearchHistory" value="java version&#10;JDK" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="mt.darker" />
@@ -60,7 +61,7 @@
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="dir.diff.space.button.info" value="2" />
     <property name="evlsprt3.181" value="10" />
-    <property name="file.gist.reindex.count" value="271" />
+    <property name="file.gist.reindex.count" value="570" />
     <property name="fileTypeChangedCounter" value="10" />
     <property name="ideavim.statistics.timestamp" value="1522539042319" />
     <property name="installed.kotlin.plugin.version" value="1.2.30-release-IJ2018.1-1" />

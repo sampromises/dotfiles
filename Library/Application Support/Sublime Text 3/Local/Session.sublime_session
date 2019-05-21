@@ -1,6 +1,10 @@
 {
 	"folder_history":
 	[
+		"/Users/skim/ws/500",
+		"/Users/skim/ws/yelp_cemetery_checker",
+		"/Users/skim/Documents/15-440/s18/15-440-projects/p4",
+		"/Users/skim/Documents/15-440",
 		"/Users/skim/ws/15-440-S19/p1",
 		"/Users/skim/Google_Drive/18-452/p2",
 		"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2",
@@ -25,8 +29,8 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/1/src/main",
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
-	"last_version": 3176,
-	"last_window_id": 567,
+	"last_version": 3207,
+	"last_window_id": 663,
 	"log_indexing": false,
 	"settings":
 	{
@@ -242,6 +246,22 @@
 				"selected_items":
 				[
 					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
 						"add fo",
 						"Project: Add Folder"
 					],
@@ -258,16 +278,8 @@
 						"Build With: Python3"
 					],
 					[
-						"lint",
-						"SublimeLinter: Lint This View"
-					],
-					[
 						"sublime",
 						"SublimeLinter: Lint This View"
-					],
-					[
-						"folder",
-						"Project: Add Folder"
 					],
 					[
 						"markdown",
@@ -427,8 +439,42 @@
 			},
 			"file_history":
 			[
-				"/Users/skim/Documents/tuition",
+				"/Users/skim/Desktop/yelp-notes.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/UserNode.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
+				"/Users/skim/Desktop/google photos",
 				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/Documents/70-350/script.txt",
+				"/Users/skim/Documents/70-350/script.py",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/cmds.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/7_vm_output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/test/composites.txt",
+				"/Users/skim/Documents/man-and-woman-questions/is friendship, the correct  answer t",
+				"/Users/skim/Documents/man-and-woman-questions/Are you an early bird or a night owl    ..",
+				"/Users/skim/Documents/man-and-woman-questions/What's your favorite season of the year",
+				"/Users/skim/Documents/man-and-woman-questions/What are you views on long distance relationships",
+				"/Users/skim/Documents/man-and-woman-questions/What Are Your Pet Peeves    ..",
+				"/Users/skim/Documents/man-and-woman-questions/ What is your typical  #workout #fitness Week ",
+				"/Users/skim/Documents/man-and-woman-questions/Biggest Worries About   moving to your new city.",
+				"/Users/skim/Documents/man-and-woman-questions/scariest time of your life",
+				"/Users/skim/Documents/man-and-woman-questions/Happiest childhood memori     ..",
+				"/Users/skim/Documents/man-and-woman-questions/top_10_favorite_foods",
+				"/Users/skim/Google_Drive/4RK/to-eat.txt",
+				"/Users/skim/Google_Drive/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Google_Drive/4RK/self-development",
+				"/Users/skim/Google_Drive/4RK/2018-WINTER-BREAK-FOOD.txt",
+				"/Users/skim/Google_Drive/4RK/5-relationship-fundamentals",
+				"/Users/skim/Documents/AMZN/03-14-19-Amazon-Student-Programs-Onboarding-101/3:14:19 Amazon Student Programs Onboarding 101",
+				"/Users/skim/Documents/03-13-19 the boundaries",
+				"/Users/skim/Downloads/lol.txt",
+				"/Volumes/Samuel's Passport/Cloud Storage/CMU/4.1 (2018 Fall)/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Downloads/BilliardsHertz.nb",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
 				"/Users/skim/foo.py",
 				"/Users/skim/workspace/server.py",
 				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
@@ -439,7 +485,6 @@
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
-				"/Users/skim/Documents/323-apeiron.json",
 				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
 				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
 				"/Users/skim/Desktop/IMPORTANT-DATA",
@@ -521,44 +566,11 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
-				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md",
-				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py",
-				"/Users/skim/Google_Drive/17-437/ssk1/homework/4/grumblr/models.py",
-				"/Users/skim/Google_Drive/15-440-TA/2018.Fall.15440/Meeting Notes/10-12.md",
-				"/Users/skim/Google_Drive/18-452/P1A/452-P1A.py",
-				"/Users/skim/Desktop/bar.py",
-				"/Users/skim/Google_Drive/18-452/P1A/ether src host 18:65:90:cc:e2:01 and ether dst hos",
-				"/Users/skim/Google_Drive/18-452/P1A/# Sam to Jeremy",
-				"/Users/skim/Google_Drive/18-452/P1A/data_as_py_arrays.py",
-				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/60",
-				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/20",
-				"/Users/skim/Google_Drive/18-452/p2/10-08-prof-steenkiste-notes.txt",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_sol_not_updated_yet/lsp2_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp3_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/sh/run_test_checkpoint2.sh",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/lsp.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/server_impl.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/server_api.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/client_api.go",
-				"/Users/skim/Documents/YELP_09_22/YELP_LOUVRE/ROII [VVIP ]",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp5_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp4_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/README.md",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp2_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp1_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/conn.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/sniff.go",
-				"/Users/skim/Downloads/simengl@andrew.cmu.edu_project1checkpoint_3_lsp.tar",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/addr.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/staff.go",
-				"/Users/skim/workspace/View Gradesheet.htm",
-				"/Users/skim/workspace/autolab_style_grader.py",
-				"/Users/skim/Desktop/View Gradesheet.htm",
-				"/Users/skim/Downloads/View Gradesheet.htm"
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -572,6 +584,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"print("
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -588,7 +601,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -642,7 +655,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -680,7 +693,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 315.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -723,6 +736,45 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
+					"settings":
+					{
+						"buffer_size": 398,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/ProjectUtil.java",
+					"settings":
+					{
+						"buffer_size": 3769,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+					"settings":
+					{
+						"buffer_size": 15312,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/UserNode.java",
+					"settings":
+					{
+						"buffer_size": 11761,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -904,6 +956,18 @@
 				"selected_items":
 				[
 					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
 						"add fo",
 						"Project: Add Folder"
 					],
@@ -920,16 +984,8 @@
 						"Build With: Python3"
 					],
 					[
-						"lint",
-						"SublimeLinter: Lint This View"
-					],
-					[
 						"sublime",
 						"SublimeLinter: Lint This View"
-					],
-					[
-						"folder",
-						"Project: Add Folder"
 					],
 					[
 						"markdown",
@@ -1089,14 +1145,47 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/skim/ws/15-440-S19/p1",
-				"/Users/skim/ws/15-440-S19/p1/cp3",
-				"/Users/skim/ws/15-440-S19/p1/sam-util"
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2"
 			],
 			"file_history":
 			[
-				"/Users/skim/Documents/tuition",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/UserNode.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
+				"/Users/skim/Desktop/google photos",
 				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/Documents/70-350/script.txt",
+				"/Users/skim/Documents/70-350/script.py",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/cmds.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/7_vm_output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/test/composites.txt",
+				"/Users/skim/Documents/man-and-woman-questions/is friendship, the correct  answer t",
+				"/Users/skim/Documents/man-and-woman-questions/Are you an early bird or a night owl    ..",
+				"/Users/skim/Documents/man-and-woman-questions/What's your favorite season of the year",
+				"/Users/skim/Documents/man-and-woman-questions/What are you views on long distance relationships",
+				"/Users/skim/Documents/man-and-woman-questions/What Are Your Pet Peeves    ..",
+				"/Users/skim/Documents/man-and-woman-questions/ What is your typical  #workout #fitness Week ",
+				"/Users/skim/Documents/man-and-woman-questions/Biggest Worries About   moving to your new city.",
+				"/Users/skim/Documents/man-and-woman-questions/scariest time of your life",
+				"/Users/skim/Documents/man-and-woman-questions/Happiest childhood memori     ..",
+				"/Users/skim/Documents/man-and-woman-questions/top_10_favorite_foods",
+				"/Users/skim/Google_Drive/4RK/to-eat.txt",
+				"/Users/skim/Google_Drive/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Google_Drive/4RK/self-development",
+				"/Users/skim/Google_Drive/4RK/2018-WINTER-BREAK-FOOD.txt",
+				"/Users/skim/Google_Drive/4RK/5-relationship-fundamentals",
+				"/Users/skim/Documents/AMZN/03-14-19-Amazon-Student-Programs-Onboarding-101/3:14:19 Amazon Student Programs Onboarding 101",
+				"/Users/skim/Documents/03-13-19 the boundaries",
+				"/Users/skim/Downloads/lol.txt",
+				"/Volumes/Samuel's Passport/Cloud Storage/CMU/4.1 (2018 Fall)/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Downloads/BilliardsHertz.nb",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
 				"/Users/skim/foo.py",
 				"/Users/skim/workspace/server.py",
 				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
@@ -1107,7 +1196,6 @@
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
 				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
-				"/Users/skim/Documents/323-apeiron.json",
 				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
 				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
 				"/Users/skim/Desktop/IMPORTANT-DATA",
@@ -1190,43 +1278,11 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
 				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md",
-				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py",
-				"/Users/skim/Google_Drive/17-437/ssk1/homework/4/grumblr/models.py",
-				"/Users/skim/Google_Drive/15-440-TA/2018.Fall.15440/Meeting Notes/10-12.md",
-				"/Users/skim/Google_Drive/18-452/P1A/452-P1A.py",
-				"/Users/skim/Desktop/bar.py",
-				"/Users/skim/Google_Drive/18-452/P1A/ether src host 18:65:90:cc:e2:01 and ether dst hos",
-				"/Users/skim/Google_Drive/18-452/P1A/# Sam to Jeremy",
-				"/Users/skim/Google_Drive/18-452/P1A/data_as_py_arrays.py",
-				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/60",
-				"/Users/skim/Google_Drive/18-452/P1A/LOS_mac_to_ubuntu/20",
-				"/Users/skim/Google_Drive/18-452/p2/10-08-prof-steenkiste-notes.txt",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_sol_not_updated_yet/lsp2_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp3_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/sh/run_test_checkpoint2.sh",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/lsp.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/private/solution/src/github.com/cmu440/lsp_working_student_sol/server_impl.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/server_api.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/client_api.go",
-				"/Users/skim/Documents/YELP_09_22/YELP_LOUVRE/ROII [VVIP ]",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp5_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp4_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/README.md",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp2_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lsp/lsp1_test.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/conn.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/sniff.go",
-				"/Users/skim/Downloads/simengl@andrew.cmu.edu_project1checkpoint_3_lsp.tar",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/addr.go",
-				"/Users/skim/workspace/FALL2018-P1-INTERNAL/src/github.com/cmu440/lspnet/staff.go",
-				"/Users/skim/workspace/View Gradesheet.htm",
-				"/Users/skim/workspace/autolab_style_grader.py",
-				"/Users/skim/Desktop/View Gradesheet.htm",
-				"/Users/skim/Downloads/View Gradesheet.htm"
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py"
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -1240,6 +1296,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"askUser",
+					"startCommit"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1257,20 +1315,261 @@
 			"folders":
 			[
 				{
-					"path": "/Users/skim/ws/15-440-S19/p1"
+					"path": "/Users/skim/Documents/15-440/s18/15-440-projects/p4"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 4,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.13.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556128519.58,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/ProjectUtil.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3769,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.14.region_keys":
+									[
+									],
+									"SL.214.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556128520.2,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15312,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.15.region_keys":
+									[
+									],
+									"SL.215.region_keys":
+									[
+										"SL.javac.Highlights.|5aedab7bf6ad6b7e00d41db536684a63a1d2ddbeb0d919b0b908633a117b5150|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|822faa9961f9cdf36a71722115bf8a4a26e9914791b36479996666912286d311|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|51c7b30576b60320f44af9277bc5262f038cd16ce7e4b1ba48fcfaa5ea921689|region.yellowish markup.warning.sublime_linter|32",
+										"SL.javac.Highlights.|e42c97f7590eee4536650e8fe85f6873579f143a226e3f99568e4cf06b8763a0|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|01e9409220526fbef74e9f8449d621f6220b0b33e931555efa5e732754e7170c|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|3a6c7945216389c0417ad21e6cb9339615970c4e2bea205f7e5e84f55c543e2c|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"SL.javac.Highlights.|9bea5de827d5a7c1b3ad67e0376b99152fb453669a3bfb76e0beb2580ef30c0f|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|0d8211635b2f24e83f63e87d5a421f7bf2b548ce671c3d352e1dc1f6af733567|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|8bf3763cf301be36521e2519a0a3f51a2374d505005c104ab9f2c3f155314818|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|05e22916a1e71945f7bd674a136c09b8ce964972433153c78a4ccf1af0d35e24|region.redish markup.error.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.javac.Highlights.|b71b8eaacfc8fbc5b96bf8c44ab78fd28c87a3349aeed87c1fb00d7c5c89faf9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.javac.Highlights.|24689b831508c1356fe72d3d302f385a6de48a3d1d576a3b2809662eee89f8c6|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|8492598144790c48cba0765c7fc73843b66ce5f15f46156b97eed6f17133feda|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|83267c3f2106ce43c057438c2062bf404dacb46af2993331653a641f305a5e2c|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|9232d32075b2934917fc246967c7aa3cbaed8dd009a59a1eeec750e9a506ba2c|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|1b9cb68d7e45b25990b2ce719100570430d94fe65ffd30c275ff385a44f946b5|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|481f36a68b78669eaf20b8939542874d35d9a430818a5aa3420e899e887553d7|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|95f223f98f5fdf5eda75f95902148f7fd5b1c6989a3604dc678bac223c5fbbce|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|5fff5e6c4ca6147c484d44626a9a0837b66749b59c19541a3e2b5cf73ba568c9|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|6f559e787ffae061f53027c355258ee1b45b83a2da39d710d2ee1be59ba98ce6|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Gutter.|region.redish markup.error.sublime_linter|dot",
+										"SL.javac.Highlights.|0051a60230e9f9fc95081fb9647768d28cb5c6caceb1e584db18353d1d69440e|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|4eb012986aa2b92f76e8227b97108938ad3c61483e8afc8fa653e2cac0ef33f2|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|6427c1c5cc22aa79786c07e9909493c8774074da8f636786344f92ace4e83acb|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|994a67dea806adbfd55e4e6874442f81df0ac55491e577f781389a4a1d046f39|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|c689b76e3a002fef39edd1179450cddaa3828f9f5d2c8c6e75ee5446fad0442c|region.redish markup.error.sublime_linter|32"
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556128521.11,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/UserNode.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11761,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.16.region_keys":
+									[
+									],
+									"SL.216.region_keys":
+									[
+										"SL.javac.Highlights.|a8b6d84eee9f8c823f45a95c30bca9ce5341fa4cec9e4cd05fca715c923c8fe5|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|17408800664a75c9c6592765c42dfa1e47dea4862cd13ab30114637a4db2b64e|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|1845b9226601f00561d0dce78c640ad51ff14ad1d8c6a7c6408e5398158721f1|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|2015f2099636926aff42ac79bd3f2c215e2222ae4466c27c28cae06c5091f7fb|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|c17e0302ee794a3abd41a716689c850cdf76154ffbdb0580d8420f8397ba242a|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|3b2166d4a62abe6a263cf508bf3010b822de2997e46d0c598df78303be4a6518|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|8e994d94d1305f78ac819639820d5905ea7c03a87bcd1cffdaceea34b183baeb|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|fd08a9b83c2515d5e6fcdd0ee7a92697ee87ed8ebb1a3a22de24a5ede912aafb|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|9eb920df7982ec965e75515321eccbce431da4ec96c55ddc0ec582b4ccca2557|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|e8d82926d915638088f34f979008b356f5e10c3789816a876a96546a99226f7b|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|75503749ad7a9a5bf848118a292019077e52f331dab8f4a6738c5577bfeebffd|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|79425469d388737bb3dfd92afb860d93983a8466a7a3fd4b28e059c896485e33|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|70f1009c3c0b2c7b87af3b5a5617a7b6f06daf5d8902c36c6311e6f43375b31e|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|638e4fc285ff3f9fcce3c994452abf0e9106be89a2eca1c9e815dde274033b90|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|96c2a3e89b9c5e3eac457de0860163af1c78ee3e94326c1a804a2999e0b01cd7|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"sublime_linter.protected_regions",
+										"SL.javac.Highlights.|021cd500dfa4217fb29276e1215555f81bf61d996c5e4c5f6d8fa6ec9f7fe931|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|df9d21b34af1dead83a8821a417270c4c37d5a919df819fd8455f1452cf8dc91|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|a2a8de5e5b7ea9efd6f62860a348341fe81c209998cefca9ad3cc6b4e4785253|region.yellowish markup.warning.sublime_linter|32",
+										"SL.javac.Highlights.|d91fcf6f4a2e0d96dadfeebecbe766ce1c24b73572ef1615a507bfd0d39d5318|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|a72f92539f3a7b45072d7325d3f8d0333bb5824b85580983c4bc7e951e290c03|region.yellowish markup.warning.sublime_linter|32",
+										"SL.javac.Highlights.|69cdc0f4fa32f1fbe626798225822661e5068ecfa96375f9216745426395c60d|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Highlights.|fc5576926fb6c5306367e840969d58b3ac9ccb56c15425f3bae9ea4844681a88|region.redish markup.error.sublime_linter|32",
+										"SL.javac.Gutter.|region.redish markup.error.sublime_linter|dot",
+										"SL.javac.Highlights.|1cb856f57b61a0973fa7e42194f41816b76ea12ea0e132c651e1ff4c195691ed|region.redish markup.error.sublime_linter|32"
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556128521.69,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.17.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1344,11 +1643,11 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 1920 140 640 777 1920 0 1920 1057 ",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1390,12 +1689,2592 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 183.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 564,
+			"window_id": 650,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"exp_3_throughput_avgs"
+					],
+					[
+						"plot",
+						"plot_exp_1_a"
+					],
+					[
+						"ch",
+						"chelsea_sam_data_rate"
+					],
+					[
+						"OFF",
+						"OFFSET_RANGE"
+					],
+					[
+						"fin",
+						"finishedProducing\tchan bool ν"
+					],
+					[
+						"m",
+						"messageBuffer\tchan int ν"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/skim/ws/yelp_cemetery_checker/main.js",
+					"settings":
+					{
+						"buffer_size": 5093,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Basic Builder - PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fo",
+						"Project: Add Folder"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lint python",
+						"Build With: Python3"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"gofmt",
+						"GoSublime: Fmt and save"
+					],
+					[
+						"gosublime: list",
+						"GoSublime: Go to imports section"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"HTMLb",
+						"HTMLBeautify"
+					],
+					[
+						"pdf",
+						"Build With: LaTeX - PdfLaTeX"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"SFTP",
+						"SFTP: Edit Server…"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"GoBuild",
+						"GoSublime: Run build command"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 239.0,
+				"history":
+				[
+					"print(\"hello\")",
+					"math.pi",
+					"pi",
+					"import math",
+					"import numpy",
+					"print(hello)",
+					"type",
+					"1 + 1",
+					"1"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/skim/ws/yelp_cemetery_checker"
+			],
+			"file_history":
+			[
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/UserNode.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
+				"/Users/skim/Desktop/google photos",
+				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/Documents/70-350/script.txt",
+				"/Users/skim/Documents/70-350/script.py",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/cmds.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/7_vm_output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/test/composites.txt",
+				"/Users/skim/Documents/man-and-woman-questions/is friendship, the correct  answer t",
+				"/Users/skim/Documents/man-and-woman-questions/Are you an early bird or a night owl    ..",
+				"/Users/skim/Documents/man-and-woman-questions/What's your favorite season of the year",
+				"/Users/skim/Documents/man-and-woman-questions/What are you views on long distance relationships",
+				"/Users/skim/Documents/man-and-woman-questions/What Are Your Pet Peeves    ..",
+				"/Users/skim/Documents/man-and-woman-questions/ What is your typical  #workout #fitness Week ",
+				"/Users/skim/Documents/man-and-woman-questions/Biggest Worries About   moving to your new city.",
+				"/Users/skim/Documents/man-and-woman-questions/scariest time of your life",
+				"/Users/skim/Documents/man-and-woman-questions/Happiest childhood memori     ..",
+				"/Users/skim/Documents/man-and-woman-questions/top_10_favorite_foods",
+				"/Users/skim/Google_Drive/4RK/to-eat.txt",
+				"/Users/skim/Google_Drive/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Google_Drive/4RK/self-development",
+				"/Users/skim/Google_Drive/4RK/2018-WINTER-BREAK-FOOD.txt",
+				"/Users/skim/Google_Drive/4RK/5-relationship-fundamentals",
+				"/Users/skim/Documents/AMZN/03-14-19-Amazon-Student-Programs-Onboarding-101/3:14:19 Amazon Student Programs Onboarding 101",
+				"/Users/skim/Documents/03-13-19 the boundaries",
+				"/Users/skim/Downloads/lol.txt",
+				"/Volumes/Samuel's Passport/Cloud Storage/CMU/4.1 (2018 Fall)/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Downloads/BilliardsHertz.nb",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
+				"/Users/skim/foo.py",
+				"/Users/skim/workspace/server.py",
+				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
+				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Google_Drive/15-440-TA/sam-mt-question.txt",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/mylib.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
+				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
+				"/Users/skim/Desktop/IMPORTANT-DATA",
+				"/Users/skim/Desktop/foo.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/get_average.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-raw",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial5",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial4",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial3",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial2",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial1",
+				"/Users/skim/Google_Drive/18-452/p2/results/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-cluster/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/4",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/3",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/2",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/1",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-staggered-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-quadruple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-triple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-double-priority",
+				"/Users/skim/Desktop/tdm-3-double-priority",
+				"/Users/skim/Desktop/tdm-4-double-priority",
+				"/Users/skim/Desktop/tdm-2-priority",
+				"/Users/skim/Desktop/tdm-1-priority",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/abstracts/rmotwani+spertet.txt",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/course.css",
+				"/Users/skim/Downloads/ROII [VVIP ].html",
+				"/Users/skim/Documents/4RK/Texts/A:what was the biggest negative about each of you3 ",
+				"/Users/skim/Documents/4RK/Texts/Do you wanna know what I would write about you..",
+				"/Users/skim/Documents/4RK/Texts/For my part of the review of me, I'm just gonna co",
+				"/Users/skim/Documents/4RK/Texts/I want you to let me know what you want me to writ",
+				"/Users/skim/Documents/4RK/Texts/Chels, we went above and beyond this week and kill",
+				"/Users/skim/Google_Drive/18-452/Ideas for data before poster presentation:",
+				"/Users/skim/Google_Drive/18-452/1127_peter_meeting",
+				"/Users/skim/Documents/4RK/Dear Pro Saint Pete,",
+				"/Users/skim/Documents/4RK/I emailed the Pro Saint Peet - told him we're fuck",
+				"/Users/skim/Documents/4RK/Anyway... I think our app is good enough. Let's wr",
+				"/Users/skim/Desktop/Procfile-old",
+				"/Users/skim/Documents/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Documents/4RK/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Users/skim/Desktop/tuition",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/git_diff",
+				"/Users/skim/Downloads/starter_code/sample_request_realistic",
+				"/Users/skim/Downloads/starter_code/sample_request_example",
+				"/Users/skim/Downloads/starter_code/echo_server.c",
+				"/Users/skim/Downloads/starter_code/parse.c",
+				"/Users/skim/Downloads/starter_code/cp1_checker.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/tribserver/tribserver_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/libstore/libstore_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/rpc/storagerpc/proto.go",
+				"/Users/skim/Google_Drive/18-452/survey/sam-ax-notes.md",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/6/README.md",
+				"/Users/skim/Downloads/sublime-default-open-text-command",
+				"/Users/skim/Downloads/bootstrap-3.3.7-dist/js/bootstrap.js",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/util.go",
+				"/Users/skim/Downloads/MATLAB_2018b_Licensing_Standalone.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/MusicShare_1/music_share_app/hot_spot_music_share/models.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/music_share_app/hot_spot_music_share/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/settings.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/webapps/urls.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/out",
+				"/Users/skim/Documents/Now, I know I don't got a shot at Google. I don't",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/product-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/1025-backlog-sam-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/sam/sam-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/project-proposal.md",
+				"/Users/skim/workspace/espn/espn_fantasy_bball.py",
+				"/Users/skim/Documents/Amazon FTE/my-location-prefs.txt",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 187.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/skim/ws/yelp_cemetery_checker"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/skim/ws/yelp_cemetery_checker/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.29.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556550157.47,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/skim/Desktop":
+			{
+				"height": 138.0
+			},
+			"output.9o:///Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0":
+			{
+				"height": 174.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 272.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.golang_build":
+			{
+				"height": 395.0
+			},
+			"output.latextools":
+			{
+				"height": 126.0
+			},
+			"output.markdown":
+			{
+				"height": 132.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.vi_out":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"specification/README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 183.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 661,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"exp_3_throughput_avgs"
+					],
+					[
+						"plot",
+						"plot_exp_1_a"
+					],
+					[
+						"ch",
+						"chelsea_sam_data_rate"
+					],
+					[
+						"OFF",
+						"OFFSET_RANGE"
+					],
+					[
+						"fin",
+						"finishedProducing\tchan bool ν"
+					],
+					[
+						"m",
+						"messageBuffer\tchan int ν"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "TODO:\n- Pause the system while cue ball is moving",
+					"settings":
+					{
+						"buffer_size": 49,
+						"line_ending": "Unix",
+						"name": "TODO:"
+					}
+				},
+				{
+					"file": "/Users/skim/ws/500/pool/src/pool/pool_table.py",
+					"settings":
+					{
+						"buffer_size": 26329,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/skim/ws/500/pool/src/physics/utility.py",
+					"settings":
+					{
+						"buffer_size": 9419,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nSystemVerilog\n-------------\n\n  SystemVerilog 2.21.7 Changelog:\n  \n  ## Bug Fix ##\n    - Tooltip :\n      * Fix regression for functions\n      * Support for extended class\n    - Beautifier :\n      * Fix potential issue with block comment before block end keyword\n      * Improve auto text selection to try to correctly capture full block of code\n\n  SystemVerilog 2.21.6 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Enum: support concatenation in enum declaration value\n    - Parsing : fix performance issue for function popup when defined out-of-block in alrge files\n\n  SystemVerilog 2.21.5 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Support randsequence\n\n  SystemVerilog 2.21.4 Changelog:\n  \n  ## Bug Fix ##\n    - Alignment:\n      * Fix case of user type with packed array\n      * Support ref in module port declaration\n  \n    - Highlight:\n      * Fix virtual keyword not highlighted in some cases\n\n  SystemVerilog 2.21.3 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Allow more than one space for endfunction/endtask\n      * Fix signed/unsigned not highlighted in function ports\n      * Improve struct assignement highlight (highlight was broken between end of struct and ;)\n    - Auto-completion :\n      * Struct: Add default\n      * Support array of struct\n      * Case : suuport structure fields\n",
+					"settings":
+					{
+						"buffer_size": 1405,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "Future Work\n- Dynamic CV for different lighting conditions\n- Scale for full-sized pool table\n    - Auto-scale system for different pool table sizes\n    - Incorporate advanced physics (ball spin, rotational kinematics)",
+					"settings":
+					{
+						"buffer_size": 217,
+						"line_ending": "Unix",
+						"name": "Future Work"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Basic Builder - PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fo",
+						"Project: Add Folder"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lint python",
+						"Build With: Python3"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"gofmt",
+						"GoSublime: Fmt and save"
+					],
+					[
+						"gosublime: list",
+						"GoSublime: Go to imports section"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"HTMLb",
+						"HTMLBeautify"
+					],
+					[
+						"pdf",
+						"Build With: LaTeX - PdfLaTeX"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"SFTP",
+						"SFTP: Edit Server…"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"GoBuild",
+						"GoSublime: Run build command"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 239.0,
+				"history":
+				[
+					"print(\"hello\")",
+					"math.pi",
+					"pi",
+					"import math",
+					"import numpy",
+					"print(hello)",
+					"type",
+					"1 + 1",
+					"1"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/skim/ws/500",
+				"/Users/skim/ws/500/pool",
+				"/Users/skim/ws/500/pool/src",
+				"/Users/skim/ws/500/pool/src/physics",
+				"/Users/skim/ws/500/pool/src/pool"
+			],
+			"file_history":
+			[
+				"/Users/skim/Desktop/yelp-notes.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/UserNode.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
+				"/Users/skim/Desktop/google photos",
+				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/Documents/70-350/script.txt",
+				"/Users/skim/Documents/70-350/script.py",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/cmds.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/7_vm_output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/test/composites.txt",
+				"/Users/skim/Documents/man-and-woman-questions/is friendship, the correct  answer t",
+				"/Users/skim/Documents/man-and-woman-questions/Are you an early bird or a night owl    ..",
+				"/Users/skim/Documents/man-and-woman-questions/What's your favorite season of the year",
+				"/Users/skim/Documents/man-and-woman-questions/What are you views on long distance relationships",
+				"/Users/skim/Documents/man-and-woman-questions/What Are Your Pet Peeves    ..",
+				"/Users/skim/Documents/man-and-woman-questions/ What is your typical  #workout #fitness Week ",
+				"/Users/skim/Documents/man-and-woman-questions/Biggest Worries About   moving to your new city.",
+				"/Users/skim/Documents/man-and-woman-questions/scariest time of your life",
+				"/Users/skim/Documents/man-and-woman-questions/Happiest childhood memori     ..",
+				"/Users/skim/Documents/man-and-woman-questions/top_10_favorite_foods",
+				"/Users/skim/Google_Drive/4RK/to-eat.txt",
+				"/Users/skim/Google_Drive/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Google_Drive/4RK/self-development",
+				"/Users/skim/Google_Drive/4RK/2018-WINTER-BREAK-FOOD.txt",
+				"/Users/skim/Google_Drive/4RK/5-relationship-fundamentals",
+				"/Users/skim/Documents/AMZN/03-14-19-Amazon-Student-Programs-Onboarding-101/3:14:19 Amazon Student Programs Onboarding 101",
+				"/Users/skim/Documents/03-13-19 the boundaries",
+				"/Users/skim/Downloads/lol.txt",
+				"/Volumes/Samuel's Passport/Cloud Storage/CMU/4.1 (2018 Fall)/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Downloads/BilliardsHertz.nb",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
+				"/Users/skim/foo.py",
+				"/Users/skim/workspace/server.py",
+				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
+				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Google_Drive/15-440-TA/sam-mt-question.txt",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/mylib.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
+				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
+				"/Users/skim/Desktop/IMPORTANT-DATA",
+				"/Users/skim/Desktop/foo.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/get_average.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-raw",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial5",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial4",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial3",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial2",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial1",
+				"/Users/skim/Google_Drive/18-452/p2/results/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-cluster/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/4",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/3",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/2",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/1",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-staggered-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-quadruple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-triple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-double-priority",
+				"/Users/skim/Desktop/tdm-3-double-priority",
+				"/Users/skim/Desktop/tdm-4-double-priority",
+				"/Users/skim/Desktop/tdm-2-priority",
+				"/Users/skim/Desktop/tdm-1-priority",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/abstracts/rmotwani+spertet.txt",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/course.css",
+				"/Users/skim/Downloads/ROII [VVIP ].html",
+				"/Users/skim/Documents/4RK/Texts/A:what was the biggest negative about each of you3 ",
+				"/Users/skim/Documents/4RK/Texts/Do you wanna know what I would write about you..",
+				"/Users/skim/Documents/4RK/Texts/For my part of the review of me, I'm just gonna co",
+				"/Users/skim/Documents/4RK/Texts/I want you to let me know what you want me to writ",
+				"/Users/skim/Documents/4RK/Texts/Chels, we went above and beyond this week and kill",
+				"/Users/skim/Google_Drive/18-452/Ideas for data before poster presentation:",
+				"/Users/skim/Google_Drive/18-452/1127_peter_meeting",
+				"/Users/skim/Documents/4RK/Dear Pro Saint Pete,",
+				"/Users/skim/Documents/4RK/I emailed the Pro Saint Peet - told him we're fuck",
+				"/Users/skim/Documents/4RK/Anyway... I think our app is good enough. Let's wr",
+				"/Users/skim/Desktop/Procfile-old",
+				"/Users/skim/Documents/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Documents/4RK/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Users/skim/Desktop/tuition",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/git_diff",
+				"/Users/skim/Downloads/starter_code/sample_request_realistic",
+				"/Users/skim/Downloads/starter_code/sample_request_example",
+				"/Users/skim/Downloads/starter_code/echo_server.c",
+				"/Users/skim/Downloads/starter_code/parse.c",
+				"/Users/skim/Downloads/starter_code/cp1_checker.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/tribserver/tribserver_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/libstore/libstore_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/rpc/storagerpc/proto.go",
+				"/Users/skim/Google_Drive/18-452/survey/sam-ax-notes.md",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/6/README.md",
+				"/Users/skim/Downloads/sublime-default-open-text-command",
+				"/Users/skim/Downloads/bootstrap-3.3.7-dist/js/bootstrap.js",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/util.go",
+				"/Users/skim/Downloads/MATLAB_2018b_Licensing_Standalone.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/MusicShare_1/music_share_app/hot_spot_music_share/models.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/music_share_app/hot_spot_music_share/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/settings.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/webapps/urls.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/out",
+				"/Users/skim/Documents/Now, I know I don't got a shot at Google. I don't",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/product-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/1025-backlog-sam-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/sam/sam-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/project-proposal.md",
+				"/Users/skim/workspace/espn/espn_fantasy_bball.py",
+				"/Users/skim/Documents/Amazon FTE/my-location-prefs.txt",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 187.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print("
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/skim/ws/500"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 49,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										49,
+										49
+									]
+								],
+								"settings":
+								{
+									"SL.41.region_keys":
+									[
+									],
+									"auto_name": "TODO:",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/skim/ws/500/pool/src/pool/pool_table.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26329,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23430,
+										23434
+									]
+								],
+								"settings":
+								{
+									"SL.290.region_keys":
+									[
+										"SL.flake8.Highlights.|01f548916d1db13d45cb8ac1461aefa805a22d91104b1698f8010d38c874ac68|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|83932f54c5da475e64471b3934c3c1bb0b2c2cf41d62de0c3e476c366f205019|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|f62df28392553a48b73b9c9de6b48a726c1deeb917b04c6a5313d735640a6847|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|229497642a5e5bd5e644eb080edc157d73887c52ea7fb4bc4208c07446a3dcfc|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|9cddfe36bc4dfa369418bfa9f1b88fb6c57eab6d14ef3bcbd30ab7a6576e77de|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|0ef69a58131740344eaf3979cc8768e098e7811e4a8f2f84838367ff9f98553d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1541065ce269f98026129b5f3c054f9c833e7bf36cb0fd06ed0136209cb40919|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|b135f97d81669042cfad8a2e67005d6479f5c7bf0b8496d7cec33a33891bad13|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|3cd7402ed2ee36cc6f12ed899137c10bf606b0a710ecc987db372ad99112227f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|e05fb4be8441d4b3046b32b22dc3fec2d29a4c84a55627594b1dd92d3cc5224f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|e76e7a4abbfc1a0ac1005f8e2baf7766de19c9f19723828f3c7c52afce62ff37|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|d55deb687e9385972d8fbaef0ffa5da66f2326d3a7b2b556110d29c69fcd8fb1|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|392280836801193807b7c96498b4d5602749e85eb358dacbb4d1cdf89b34f1e3|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|31b51cfb2f60210703114584c36c4056629c1326a08dedfc96e385bc7a69ca77|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c3070622febd6ff2282349091b239e89e3f51d637f45ac4578b8b2455adcd009|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|262628ee77548177c8a3217449cb300f1c4056c8ddd8a8e4fe151cd6382b1584|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|713fe4c18a7a6602333491134762ee439f5e789507058e3db7715fff4174feae|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|62285ee20ebce253854dfac6dc74b7e7a76c4c08a243ca505d77d3a1ae94a488|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|62a314c2929f03292d74056ab44ba08ba0e67d82f12c0edd0f7e755229381701|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|6a6c5357c7a03b9be7aa75c4a7245a2b6931bc1c7c98fa90c1f6a90dcc1206f1|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|dac6a68005d591082d7f89eba3a2e53a8e7d667f21bce4fccd3bd922fea2435c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|4c5ea5a947ecc7c2608fd387c72ccf1500190f7842070673f14417f6c616dff2|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|90853ed770bbd7c7e8575037907823f58214786dabba68d39ca57000ea4b98e7|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|073d5d7dc1467f1081a3772732f139ee05796ff015bba23778cbb39b15e48f0e|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|bc6c89d47607e3906e9b0dc05ca8309c5a5ecb2bbd1e8be74ac0dc5da0d7847f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|98fd2458581fb4f5a3de2ff4d1f481a07ff92a9e4e9edfc97bab83ad63168563|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|94ca10dccfef7a725e60de4accd7fda3ad115447f43ddf229595fa5643659392|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|3ce8a5f8fb0d438725e4bb8e8e359416298a5f3276f2f5c0498b0146f2f38666|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|724abaf950996b47dd8f14446fd4749b30307aba10a1f9fc25b805ad3c2f7513|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|241b0073fae297745ed2d7dbc7ba34ae569b051d164e31840f81660d81dd39fc|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|92318c4dd6f54dbf7f5d861cc0651e094fc46171fb5dbca7de2d34d33d374728|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|044b4af417f4868ec0c57959f71d784161a71f0cc736675fdcdba7a3811fbbf8|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|9ae10c700c21a27b852e162a1c36083cfa8a4f8d541915050614605da5ba6bf2|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|cd0fda3cb658287805faec599bcac451dec55768ab443b8a156ef08e72ec008b|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|18647231651a4ac3fb6b1520d0ee984a34c87465702b4c0988a12666722d39fa|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|b9c47be24c77e07edf5f35e170d48c833f064ea9ba463f39f51a15b26d8ab9e8|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|ec0e8876a6c91c59f3487d67e42a2552bfe0bdac4d22e946801e859ab23056c8|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|81e560830a41ef2456b3176f6bc4448cf09e384e27fccc9f140b21460859f3a4|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|779c8ac7caf8071797a007a0bebb62194e2291bc4450180cb3749538c69c0c5f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c62d6b29425b214b8bcfb0e246a2733de38c2977c00998f9e47c6ce9bbf25478|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|4a1e76baf38c4c447cdce7d9f1c69dbd846208ca8cc1c220e129166bab08c345|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a2b63d051bf4a01f9b22e15f03a9f7857ef836f87f3ac2b14379eedb459c308b|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|b01fb4a5243aa7a797f80a136db7243d690db10563c1aafa9dca005c5ec30934|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|b46ba9fc277b2a9d04f45ec40ae20e3c453a505c77ec41e46392c59fac11b6a4|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|54605751ecbf067ab89bfa7b247707da03b7d6b19ee9a78e908294f8fac6e69f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|00ae92f6f3b700d1b46a5a1cfc50db1af158e9040b37061cac3c8c18ae23ace9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|8ab788b6224faf14641f8103cced303ef29e127216ff828d512bcbbc7da08fe6|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c29a4aa857fea4f4ce625c0c1d52b770741b76d564e685c6c3d38d15bafc688b|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|f123a4ef6293aa1693dbcc9c2f92f73a46bd00a341e8117e25c24cf6145c3e73|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|2222ce1084c20ccfdf2aaadec05202b54be05703ee7fe6f0555f1cfc9ce41433|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|cefc56054e0f4c7342c383edd155e30d71b9ea7f82415d6552f6a05ce6e38a64|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|96e8cfa105b4a6b32b59128da4f826cff9d424778d0ecdd3e86a207e061174b0|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|7e09eaf1d6d5f3ea62c07383bc52b5be27150329c154c5e2c78fda64e3fd471c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|35acc9c6c4a0b3dcb1bef97992de673477e96561a63c64fc35a52900b7ce4cdc|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|dbbbbaeba97fe88b494b0a55d95a8c759d3981f67ad806df8e99acf1abcf1ed3|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a21a126f4364df45f03c6d8d1527e7e4d0ddfed9d343f8b6e378d1c50a0b1ec9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|145d6f4779ca8578b1e4dd37e83bfb757a33c50a3d539a371a07af54b12e0e8c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|8cb86065ef7514d0172350c3e080ab597b9262bc0595242aa0b18b4e3972bc25|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|47acd99f785c680829704e1cb01e12c625abd050b09b55baafafde3ffdb655ac|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1262cb6f11fb9d6debae29150f93ed128b51035758a1a700baa6291fc43df36a|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|fc412dc37da43bc65eff236a84b386f598290cd46c5f0f8127b6d2f14e0d00d5|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|8395a6d5c57c147054264ed998b330ca48f5d5193dd4523df70a7e50aa1866de|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|4384821c21c3c6214e325c04f5b9bfa7e462c800c72e7251d26180ff2231de59|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|009960f07438a928cf4436b5d6e81aec39a5eac8628136bbf52ce69c75b08b0c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|276ec049719af2c17d36407a865367922b2074545a3d944f9e861991eee28302|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|10f65e117fcaab19e197606278f7859d46dd36c8ddd95c143d48d8fe6d27b98e|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|f712536259c9435fe1f667ee42ed9271433df21920a1a43506d22bdd7c6a3665|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c47fa08c338b7eba4abec9fc4b651a18c0dc1a344cf4e78802c9fbcff781bf21|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1b0a049ea9c752760f74a5c5d229b47a2be5d338fa506a9b7a6a2637687a4727|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|883f0250fa5b1f32be474f175438d4d5e974be0db47811c5c650eef5d18dced8|region.yellowish markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.flake8.Highlights.|0d4f74fa25298417cbe40b5fe7ebd0b629c4160212cb831a17413f7d5197b4f9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|27f0bc01ed47608a79c5d9d68d79a1ef0192a6d7839d0075b257dddcf3d71563|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c0f9b706226b4908c244e0a0104033edf01e9b15acb4f3ae89500e2f036be636|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|b614a838804a00e7dae93cd03e0fad406f069773e713152377e9b5dbc28a0e81|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|164f7583976508cd6a483069000d4cf74429cca84faf9065a04849d2f9405490|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|7829065d6e2a17d903130725dd64e03a21ea5cdb7081b0627137af2da20834c9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|24efc76d88785f1cfdf184cfe1d17072939b7aab7bef43f3a32c47db9bd25fb9|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|54d9c880088258ee20a8c5a366c6ed6d130969967922e50fd0d9c0691604681f|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"SL.flake8.Highlights.|fd81680e29e55b0b7afd41ae95232944a773449f9561aeddf22ae94b8ac4838d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|60e36e921f1acfaa198b6555d18d6c6c8d8354367ef9c849aa5d15ce6831da57|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|9a7324dd2fdfa95fdc5be609d588d7ca9b0280c2d7ddeeb48025cbfe3c88c54b|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|bf827dace7b6411609f06ef0905ef5f32d177019667a4ae4ed6cf3979c6852b1|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|7dfa90c6bbad373b9a9510951fb5c6ad0aa2b8896562bc81aa5f5d57fcc8f73a|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|fe1ed5e7953249cf7f4395ee7e4a040178b0de92be6014a516c560bc58bd46a2|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|73a53d4cba05d4deaba12020c3adf876c6fec1da86df6e87f9cbc25514be3dbb|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|706fa9fce5bf2f67cd09e34baf0fda4795c150072dff788aa352a663c9f58558|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c736411b9d3031870a85a98a616b35b4b6b9ecaf7fb421e1aca9eb597c92fe14|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1ef59c8207b8e1016e28aa32f817892074a7cdf1ded514165085bc13334e76c5|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|8e88139510235f94c9500d25671f3e23a3aad8dbdcfeadf2e6e5f01dad5297ab|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a2d05c62866363bdb778a227792a31df108f4f36ab977d85fd076b54f8ee7fe4|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|0fce9d4132f3c0c495240d91d7f553b02635a8aec56f29b7bdc97bd871d74bcb|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|e0d26930e7793d290e7fa4da257ed4638ecf6f88794aa150e4d07824f38e2a94|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1fd48af3ca2d847409475118a2005a1f453d5bdbae361c5dd6da3d36945a3362|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|0557c586f67d89dd897e26fc014c12f91e0a5f9f7e88a453a42265e47c427059|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|678def4745eb0303d8731b87d536224923cbf6b4f3ad623a5257c4e880505acd|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|276bf7e1aa55bc135d174820914cb8988c739eab30902d787e8c745917a994f6|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|337b04d7ef570f42a4160e5132d063209245b3224ceaf4697da0940639053d6d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|bfd3009fc5eb409054304239b9be18da6e1fa8cc2ee017ec4b483bc48a643f0d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|6bfc333bebfb999fee4a28cb49084d79d00343d3a0ffa1c5b28fce7884178e93|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a6d0f20e16bdabe8a86fe520fa09dd57d67b15450ac806df211f6821107ca863|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|0188f31682270388a1447b3f8c92f02375c4572cfc024c4c705b76a0356b5b05|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|817ce3082909b8c1f6d6c0687980e53d76b88b0510a7f7ab54550e2b6672d8dc|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|60c97e6ae53c18d55c6f8093bb1ede8669a72f997364b58d649192809488fdc4|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|f85b7419ffcb4d136c2d376001b8962779fec08e7fe07248632569d737f56a30|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|71f24d5399af201d6a296ad1584fb5390d6a2cb2cecb30167e38f92b04df59ff|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|cc819f8316026f4d3666b940d2d3274d54b59f8c3e7e8386e81802f4f08a13a3|region.yellowish markup.warning.sublime_linter|32"
+									],
+									"SL.42.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556577091.82,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python 3/Python3.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/skim/ws/500/pool/src/physics/utility.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9419,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.291.region_keys":
+									[
+										"SL.flake8.Highlights.|e684999ae1a1c6f782e41532cf498b1f1c2771e1694b0f448e25311b457a034d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|dadc9ea436245ffe1a2ba2431296ae519d3baff90616b35115c44fe88a895d2c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|e0e65cc2923febb9fe341bb9dff783c529a9d31f2000182f20f62ac7e70c079d|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|17929bd3eee9c4c8fb6d3f4ad16ecb2ab4621a42fd1522e9c4ea4747969ede56|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|846b06bef71fb9ab9fb06c4ec9426d5fbb41013a49c3311434a2e6637fc52d38|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|05cfef831faa3e5a3b7868ad4aba2b1cf8371bf6f4d2401acf3b4796ca4f0808|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|906ad42f03b18396d0df75ee10356e9b63ef2e1feb77449397331111abe822d7|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1f6bdbf7c34f146254f9da3943238300aca905a17f8b684e4b7c3ea14f54c37e|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|5eda5d8ef025fe7ca1a3d8407f0c631f5052cda0265ca3567fd8a6b29a05a150|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|c48ce97c61bd083630079250c03f1d2eeb7fad4c641d1984111cc383fafd8361|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a72dfefa70dbf90978131cc2e7aeb6f6d3ef23ad19f0b92bedb5eaf2c558ce5a|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|1f6ef44453987307eedaa48798f8bc11fcf95e0f6deaaf343441efa6e3253fc8|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|4cebee16d4b257a98f87c6630cb2499c817c5728886072878968a9476eeee658|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|a680d84deac7d89951cc066ae4b6ca6f0589aee0af55cba657d95d1c0d066e92|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|71217413ac852a398017e0139b7e35695bf9e7b80e193291cd82bf2cd7e0836d|region.yellowish markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.flake8.Highlights.|2542afe4ba42cb5c0bbbe6e632dcc88e9d0c474fd54786bbd91e85d558363f9c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|00b1f3744665375b89d9fe2aefb93c97005cf64ba69446bb94b4c411171b1d55|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|87f15d4116facc5a51f65e51a3119b4c868b4d896c4d9de6f9f1eabf32d6f7f0|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|2922a97ed3323292d74a1c504a4e0c4162d879e459219ef53abb618fd73adf86|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|f59b06fba1560c4647b392e8d947805ec4775e75de33a1c86df25962a3a7ad8c|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|9317f2be150a20f37e2ab3c66e1edfed8804ccb642ca8c9088e17c5a083ff248|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+										"SL.flake8.Highlights.|2dbb37a6cdb7789940cc3f9f0ad989335dce0e3ec2dfeda68b6b3467d9184627|region.yellowish markup.warning.sublime_linter|32",
+										"SL.flake8.Highlights.|14d7ce8bf6e24d1ced0c66223b28ce75ca0310463682507ef6387d052ca13b80|region.yellowish markup.warning.sublime_linter|32"
+									],
+									"SL.43.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1556577971.68,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python 3/Python3.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1405,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1405,
+										1405
+									]
+								],
+								"settings":
+								{
+									"SL.47.region_keys":
+									[
+									],
+									"auto_indent": false,
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 217,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										217,
+										217
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Future Work",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/skim/Desktop":
+			{
+				"height": 138.0
+			},
+			"output.9o:///Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0":
+			{
+				"height": 174.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 272.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.golang_build":
+			{
+				"height": 395.0
+			},
+			"output.latextools":
+			{
+				"height": 126.0
+			},
+			"output.markdown":
+			{
+				"height": 132.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.vi_out":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0 640 0 640 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"specification/README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 315.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 662,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"exp",
+						"exp_3_throughput_avgs"
+					],
+					[
+						"plot",
+						"plot_exp_1_a"
+					],
+					[
+						"ch",
+						"chelsea_sam_data_rate"
+					],
+					[
+						"OFF",
+						"OFFSET_RANGE"
+					],
+					[
+						"fin",
+						"finishedProducing\tchan bool ν"
+					],
+					[
+						"m",
+						"messageBuffer\tchan int ν"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "also im not necessarily having a super rough semester, haha...\nso, yeah... i am stretching the truth a bit...\n\nbut im not doing it for my own sympathy...\nim not that broken... at least i don't think i am, haha...\n\nby hearing my story of this kid hustling and working hard...\nbut presenting it in a way that's faultless: honest, apologetic, and still related to the business matter at hand...\n\ni'm hoping she can reflect on how she went nuclear on this kid not returning her call...\nim hoping she can learn to gain some better empathy/understanding of other people...\n\ni think by not trying to understand other people...\nby not giving them the benefit of the doubt...\nby assuming the worst in people...\n\nthat's when we start wars...\nthat's when we start blowing each other up...",
+					"settings":
+					{
+						"buffer_size": 777,
+						"line_ending": "Unix",
+						"name": "also im not necessarily having a super rough semes"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							""
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Test"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Install"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Cross-Compile (Interactive)"
+						],
+						[
+							"Packages/Golang Build/Go.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Golang Build/Go.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Basic Builder - PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/Python 3/Python3.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python 3/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"add fo",
+						"Project: Add Folder"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lint python",
+						"Build With: Python3"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"gofmt",
+						"GoSublime: Fmt and save"
+					],
+					[
+						"gosublime: list",
+						"GoSublime: Go to imports section"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"pep8",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"HTMLb",
+						"HTMLBeautify"
+					],
+					[
+						"pdf",
+						"Build With: LaTeX - PdfLaTeX"
+					],
+					[
+						"latex",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"SFTP",
+						"SFTP: Edit Server…"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"beautify",
+						"HTMLBeautify"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"GoBuild",
+						"GoSublime: Run build command"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"add ",
+						"Project: Add Folder"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"javac",
+						"Build With: JavaC"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 239.0,
+				"history":
+				[
+					"print(\"hello\")",
+					"math.pi",
+					"pi",
+					"import math",
+					"import numpy",
+					"print(hello)",
+					"type",
+					"1 + 1",
+					"1"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/skim/Desktop/yelp-notes.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/UserNode.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/Server.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
+				"/Users/skim/Desktop/google photos",
+				"/Users/skim/Downloads/foo.py",
+				"/Users/skim/Documents/70-350/script.txt",
+				"/Users/skim/Documents/70-350/script.py",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/cmds.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/plot/7_vm_output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp1/output.txt",
+				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/test/composites.txt",
+				"/Users/skim/Documents/man-and-woman-questions/is friendship, the correct  answer t",
+				"/Users/skim/Documents/man-and-woman-questions/Are you an early bird or a night owl    ..",
+				"/Users/skim/Documents/man-and-woman-questions/What's your favorite season of the year",
+				"/Users/skim/Documents/man-and-woman-questions/What are you views on long distance relationships",
+				"/Users/skim/Documents/man-and-woman-questions/What Are Your Pet Peeves    ..",
+				"/Users/skim/Documents/man-and-woman-questions/ What is your typical  #workout #fitness Week ",
+				"/Users/skim/Documents/man-and-woman-questions/Biggest Worries About   moving to your new city.",
+				"/Users/skim/Documents/man-and-woman-questions/scariest time of your life",
+				"/Users/skim/Documents/man-and-woman-questions/Happiest childhood memori     ..",
+				"/Users/skim/Documents/man-and-woman-questions/top_10_favorite_foods",
+				"/Users/skim/Google_Drive/4RK/to-eat.txt",
+				"/Users/skim/Google_Drive/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Google_Drive/4RK/self-development",
+				"/Users/skim/Google_Drive/4RK/2018-WINTER-BREAK-FOOD.txt",
+				"/Users/skim/Google_Drive/4RK/5-relationship-fundamentals",
+				"/Users/skim/Documents/AMZN/03-14-19-Amazon-Student-Programs-Onboarding-101/3:14:19 Amazon Student Programs Onboarding 101",
+				"/Users/skim/Documents/03-13-19 the boundaries",
+				"/Users/skim/Downloads/lol.txt",
+				"/Volumes/Samuel's Passport/Cloud Storage/CMU/4.1 (2018 Fall)/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Downloads/BilliardsHertz.nb",
+				"/Users/skim/Documents/323-apeiron.json",
+				"/Users/skim/Documents/tuition",
+				"/Users/skim/foo.py",
+				"/Users/skim/workspace/server.py",
+				"/Users/skim/Documents/5927_Walnut_St_Apt_5/shower-airmattress.txt",
+				"/Users/skim/Google_Drive/15-440-TA/paxos-notes.txt",
+				"/Users/skim/Google_Drive/15-440-TA/sam-mt-question.txt",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/mylib.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp1/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/server.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/serialize_node.c",
+				"/Users/skim/Downloads/15440/afs15440/p1/cp3/abc.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/staticfiles/js/room/room_helper.50169a3c66f7.js",
+				"/Users/skim/Documents/4RK/Texts/ipad-texts/thewords alone were enough",
+				"/Users/skim/Desktop/IMPORTANT-DATA",
+				"/Users/skim/Desktop/foo.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/get_average.py",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-raw",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/2-hidden-node-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together-processed",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial5",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial4",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial3",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial2",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-scheduled/1-naive-nodes-together/trial1",
+				"/Users/skim/Google_Drive/18-452/p2/results/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-cluster/12_06_18 - TDM 3 GROUP",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/4",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/3",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/2",
+				"/Users/skim/Google_Drive/18-452/p2/results/6-nodes/1",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-staggered-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-quadruple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-triple-priority",
+				"/Users/skim/Google_Drive/18-452/p2/results/tdm-1-double-priority",
+				"/Users/skim/Desktop/tdm-3-double-priority",
+				"/Users/skim/Desktop/tdm-4-double-priority",
+				"/Users/skim/Desktop/tdm-2-priority",
+				"/Users/skim/Desktop/tdm-1-priority",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/abstracts/rmotwani+spertet.txt",
+				"/Users/skim/www.archive.ece.cmu.edu/~ece845/course.css",
+				"/Users/skim/Downloads/ROII [VVIP ].html",
+				"/Users/skim/Documents/4RK/Texts/A:what was the biggest negative about each of you3 ",
+				"/Users/skim/Documents/4RK/Texts/Do you wanna know what I would write about you..",
+				"/Users/skim/Documents/4RK/Texts/For my part of the review of me, I'm just gonna co",
+				"/Users/skim/Documents/4RK/Texts/I want you to let me know what you want me to writ",
+				"/Users/skim/Documents/4RK/Texts/Chels, we went above and beyond this week and kill",
+				"/Users/skim/Google_Drive/18-452/Ideas for data before poster presentation:",
+				"/Users/skim/Google_Drive/18-452/1127_peter_meeting",
+				"/Users/skim/Documents/4RK/Dear Pro Saint Pete,",
+				"/Users/skim/Documents/4RK/I emailed the Pro Saint Peet - told him we're fuck",
+				"/Users/skim/Documents/4RK/Anyway... I think our app is good enough. Let's wr",
+				"/Users/skim/Desktop/Procfile-old",
+				"/Users/skim/Documents/4RK/Not in New York... Chose to stay in Pittsburgh..",
+				"/Users/skim/Documents/4RK/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Would I ever partner up with you on anything else in the future? Hell no, that's like Lebron going back to Cleveland for a second time - it ain't happening. ",
+				"/Users/skim/Desktop/tuition",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/git_diff",
+				"/Users/skim/Downloads/starter_code/sample_request_realistic",
+				"/Users/skim/Downloads/starter_code/sample_request_example",
+				"/Users/skim/Downloads/starter_code/echo_server.c",
+				"/Users/skim/Downloads/starter_code/parse.c",
+				"/Users/skim/Downloads/starter_code/cp1_checker.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/tribserver/tribserver_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/libstore/libstore_impl.go",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P2/src/github.com/cmu440/tribbler/rpc/storagerpc/proto.go",
+				"/Users/skim/Google_Drive/18-452/survey/sam-ax-notes.md",
+				"/Users/skim/Google_Drive/17-437/ssk1/homework/6/README.md",
+				"/Users/skim/Downloads/sublime-default-open-text-command",
+				"/Users/skim/Downloads/bootstrap-3.3.7-dist/js/bootstrap.js",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/util.go",
+				"/Users/skim/Downloads/MATLAB_2018b_Licensing_Standalone.txt",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/MusicShare_1/music_share_app/hot_spot_music_share/models.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/.MusicShare_1/music_share_app/hot_spot_music_share/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/settings.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/MusicShare_1/music_share_app/music_share_app/urls.py",
+				"/Users/skim/Google_Drive/17-437/Team26/src/webapps/webapps/urls.py",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P3/src/github.com/cmu440/raft/out",
+				"/Users/skim/Documents/Now, I know I don't got a shot at Google. I don't",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/product-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/1025-backlog-sam-draft.md",
+				"/Users/skim/Google_Drive/17-437/Team26/sprint-backlogs/sprint-10-25/sam/sam-backlog.md",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/project-proposal.md",
+				"/Users/skim/workspace/espn/espn_fantasy_bball.py",
+				"/Users/skim/Documents/Amazon FTE/my-location-prefs.txt",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/start_server.sh",
+				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/staggered.sh",
+				"/Users/skim/Google_Drive/17-437/Team26/specification/models-sql-db-draft.md"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 187.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 777,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										777
+									]
+								],
+								"settings":
+								{
+									"SL.62.region_keys":
+									[
+									],
+									"auto_name": "also im not necessarily having a super rough semes",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 74.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/skim/Desktop":
+			{
+				"height": 138.0
+			},
+			"output.9o:///Users/skim/Google_Drive/440-F17/P0/src/github.com/cmu440/p0":
+			{
+				"height": 174.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 174.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 162.0
+			},
+			"output.exec":
+			{
+				"height": 272.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.golang_build":
+			{
+				"height": 395.0
+			},
+			"output.latextools":
+			{
+				"height": 126.0
+			},
+			"output.markdown":
+			{
+				"height": 132.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.vi_out":
+			{
+				"height": 174.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"specification/README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 315.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 663,
 			"workspace_name": ""
 		}
 	],
