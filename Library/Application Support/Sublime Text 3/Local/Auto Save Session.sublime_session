@@ -30,11 +30,11 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
 	"last_version": 3207,
-	"last_window_id": 670,
+	"last_window_id": 676,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 855.0,
+		"new_window_height": 1035.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -435,6 +435,9 @@
 			},
 			"file_history":
 			[
+				"/Users/skim/Documents/Housing/cost-old-stuff.txt",
+				"/Volumes/8GB/ubnpathl.txt",
+				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/4RK/3:17:19 roi talk summary",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/ProjectUtil.java",
@@ -444,7 +447,6 @@
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
 				"/Users/skim/Desktop/google photos",
-				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/70-350/script.txt",
 				"/Users/skim/Documents/70-350/script.py",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
@@ -560,9 +562,7 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
-				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh"
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md"
 			],
 			"find":
 			{
@@ -694,7 +694,7 @@
 			{
 			}
 		},
-		"new_window_width": 1440.0
+		"new_window_width": 1920.0
 	},
 	"windows":
 	[
@@ -732,22 +732,21 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/skim/Downloads/foo.py",
+					"contents": "The purpose of the test program is to compute some basic statistics about a collection of some relatively small positive integers (you can assume all values will be lower than 1000). Below is a sample main program in Python, and you need to create the necessary classes to make it work. You can choose to implement this challenge in any programming language, please supply a README about how to start up & run your application.\n\ncapture = DataCapture()\ncapture.add(3)\ncapture.add(9)\ncapture.add(3)\ncapture.add(4)\ncapture.add(6)\nstats = capture.build_stats()\nstats.less(4) # should return 2 (only two values 3,3 are less than 4)\nstats.between(3, 6) # should return 4 (3,3,4 and 6 are between 3 and 6)\nstats.greater(4) # should return 2 (6 and 9 are the only two values greater than 4)\nThe DataCapture object has the responsibility of collecting numbers and then return an object so that we can easily obtain stats about how many numbers are less than a value, greater than a value or between a range of numbers.\n\nThese are the restrictions of the challenge:\n\nYou cannot add any import a library that solves it instantly\n\nThe methods add() less() greater() and between() should have constant time O(1)\n\nThe method build_stats() can be at most linear O(n)\n\nAppropriate Errors should be thrown upon invalid inputs to methods. ",
 					"settings":
 					{
-						"buffer_size": 752,
-						"encoding": "UTF-8",
+						"buffer_size": 1322,
 						"line_ending": "Unix",
-						"name": "class Solution:"
+						"name": "The purpose of the test program is to compute some"
 					}
 				},
 				{
-					"contents": "# A Dynamic Programming based Python Program for 0-1 Knapsack problem \n# Returns the maximum value that can be put in a knapsack of capacity W \ndef knapSack(W, wt, val, n): \n    K = [[0 for x in range(W+1)] for x in range(n+1)] \n  \n    # Build table K[][] in bottom up manner \n    for i in range(n+1): \n        for w in range(W+1): \n            if i==0 or w==0: \n                K[i][w] = 0\n            elif wt[i-1] <= w: \n                K[i][w] = max(val[i-1] + K[i-1][w-wt[i-1]],  K[i-1][w]) \n            else: \n                K[i][w] = K[i-1][w] \n  \n    return K[n][W] \n  \n# Driver program to test above function \nval = [60, 100, 120] \nwt = [10, 20, 30] \nW = 50\nn = len(val) \nprint(knapSack(W, wt, val, n)) \n  \n# This code is contributed by Bhavya Jain ",
+					"contents": "32\" TV\nDresser\nWhiteboard\nIron\nStanding fan (x2)\nPanini Grill\nToaster Oven\nLarge pot + skillet\nPaper towel holder\nWhite plastic drawers\nKitchen dining set (table + chairs)\nOffice chair\nBroom + dustpan",
 					"settings":
 					{
-						"buffer_size": 758,
+						"buffer_size": 200,
 						"line_ending": "Unix",
-						"name": "# A Dynamic Programming based Python Program for 0"
+						"name": "32\" TV"
 					}
 				}
 			],
@@ -1120,6 +1119,9 @@
 			},
 			"file_history":
 			[
+				"/Users/skim/Documents/Housing/cost-old-stuff.txt",
+				"/Volumes/8GB/ubnpathl.txt",
+				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/4RK/3:17:19 roi talk summary",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/ProjectUtil.java",
@@ -1129,7 +1131,6 @@
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/ProjectUtil.java",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp1/Server.java",
 				"/Users/skim/Desktop/google photos",
-				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/70-350/script.txt",
 				"/Users/skim/Documents/70-350/script.py",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p3/cp2/ServerInterface.java",
@@ -1245,13 +1246,11 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
-				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh"
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -1265,6 +1264,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\n",
+					"- ",
+					"\n",
+					"- ",
 					"\n"
 				],
 				"highlight": true,
@@ -1288,39 +1291,28 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/skim/Downloads/foo.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 752,
+								"buffer_size": 1322,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										552,
-										552
+										1322,
+										1322
 									]
 								],
 								"settings":
 								{
-									"SL.171.region_keys":
+									"SL.63.region_keys":
 									[
-										"SL.flake8.Highlights.|2e040626c472471f5f7f62e6247b1029576710bbf25ae3aa1e8d1ba608469880|region.yellowish markup.warning.sublime_linter|32",
-										"sublime_linter.protected_regions",
-										"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
-										"SL.flake8.Highlights.|2ef80ac032821b41a9edbe92a6710fc1340a904ea1dfbf65a7741c898c329d45|region.yellowish markup.warning.sublime_linter|32",
-										"SL.flake8.Highlights.|47133ed6aa3cd603c25a4a879376d1e242b0f3a6d194e204ae852f7f44a61dda|region.redish markup.error.sublime_linter|32",
-										"SL.flake8.Highlights.|9154d62556c8fab6e9529452f3021fbacd81aa59c78f7a88865b8d2bccfe25ad|region.redish markup.error.sublime_linter|32",
-										"SL.flake8.Gutter.|region.redish markup.error.sublime_linter|dot",
-										"SL.flake8.Highlights.|a0ffc85ef6ce0629ecb1e9c7d6f4e45382eedf4fbfb39c1b4a640d5fe429548b|region.yellowish markup.warning.sublime_linter|32"
 									],
-									"auto_name": "class Solution:",
+									"auto_name": "The purpose of the test program is to compute some",
 									"incomplete_sync": null,
-									"syntax": "Packages/Python 3/Python3.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1334,20 +1326,23 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 758,
+								"buffer_size": 200,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										758,
-										758
+										200,
+										200
 									]
 								],
 								"settings":
 								{
-									"auto_name": "# A Dynamic Programming based Python Program for 0",
+									"SL.66.region_keys":
+									[
+									],
+									"auto_name": "32\" TV",
 									"incomplete_sync": null,
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -1363,7 +1358,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -1437,11 +1432,11 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 0 1920 1057 0 0 1920 1057 ",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1488,7 +1483,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 670,
+			"window_id": 676,
 			"workspace_name": ""
 		}
 	],
