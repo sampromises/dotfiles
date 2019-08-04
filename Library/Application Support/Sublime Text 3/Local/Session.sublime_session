@@ -30,11 +30,11 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
 	"last_version": 3207,
-	"last_window_id": 672,
+	"last_window_id": 677,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1035.0,
+		"new_window_height": 755.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -435,6 +435,8 @@
 			},
 			"file_history":
 			[
+				"/Users/skim/Documents/Housing/cost-old-stuff.txt",
+				"/Volumes/8GB/ubnpathl.txt",
 				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/4RK/3:17:19 roi talk summary",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
@@ -560,13 +562,11 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
-				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh"
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -580,6 +580,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\n",
+					"- ",
+					"\n",
+					"- ",
 					"\n"
 				],
 				"highlight": true,
@@ -597,7 +601,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -651,7 +655,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -695,7 +699,7 @@
 			{
 			}
 		},
-		"new_window_width": 1920.0
+		"new_window_width": 1280.0
 	},
 	"windows":
 	[
@@ -733,10 +737,14 @@
 			"buffers":
 			[
 				{
+					"contents": "Package Control Messages\n========================\n\nSystemVerilog\n-------------\n\n  SystemVerilog 2.21.9 Changelog:\n  \n  ## Bug Fix ##\n    - Highlight :\n     * support #1step\n     * support casting\n    - Beautifier :\n      * Fix issue with macro inside if single statement (contribution from Dillan Mills)\n",
 					"settings":
 					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
+						"buffer_size": 304,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
 					}
 				}
 			],
@@ -1109,6 +1117,8 @@
 			},
 			"file_history":
 			[
+				"/Users/skim/Documents/Housing/cost-old-stuff.txt",
+				"/Volumes/8GB/ubnpathl.txt",
 				"/Users/skim/Downloads/foo.py",
 				"/Users/skim/Documents/4RK/3:17:19 roi talk summary",
 				"/Users/skim/Documents/15-440/s18/15-440-projects/p4/cp2/cmds",
@@ -1234,13 +1244,11 @@
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/kill_all.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/grand_finale.sh",
 				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/build_all.sh",
-				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted_no_server.sh",
-				"/Users/skim/Google_Drive/15-440-TA/Projects-Sam/P1/src/github.com/cmu440/bitcoin/f17/test_scripts/multiple_requests_miners_killed_and_restarted.sh"
+				"/Users/skim/Google_Drive/17-437/ssk1/in-class/14 Introduction to SQL/setup-postgres.md"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -1279,21 +1287,24 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 304,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										304,
+										304
 									]
 								],
 								"settings":
 								{
+									"auto_indent": false,
 									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1307,7 +1318,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -1381,11 +1392,11 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 0 1920 1057 0 0 1920 1057 ",
+			"position": "0 0 0 1280 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1432,7 +1443,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 672,
+			"window_id": 677,
 			"workspace_name": ""
 		}
 	],

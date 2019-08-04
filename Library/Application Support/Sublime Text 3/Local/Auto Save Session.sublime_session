@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/Users/skim/Movies/BAMBINO",
 		"/Users/skim/ws/500",
 		"/Users/skim/ws/yelp_cemetery_checker",
 		"/Users/skim/Documents/15-440/s18/15-440-projects/p4",
@@ -30,11 +31,11 @@
 		"/Users/skim/Google Drive/17214/ssk1/homework/4"
 	],
 	"last_version": 3207,
-	"last_window_id": 676,
+	"last_window_id": 680,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1035.0,
+		"new_window_height": 1010.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -246,6 +247,14 @@
 				"selected_items":
 				[
 					[
+						"dired",
+						"dired: Goto Anywhere"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"add fol",
 						"Project: Add Folder"
 					],
@@ -264,10 +273,6 @@
 					[
 						"sublimelinter",
 						"SublimeLinter: Show All Errors"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"lint python",
@@ -566,7 +571,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -580,6 +585,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"(orginalP - mp4) "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -596,7 +602,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -650,7 +656,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -684,7 +690,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
@@ -694,7 +700,7 @@
 			{
 			}
 		},
-		"new_window_width": 1920.0
+		"new_window_width": 960.0
 	},
 	"windows":
 	[
@@ -732,21 +738,13 @@
 			"buffers":
 			[
 				{
-					"contents": "The purpose of the test program is to compute some basic statistics about a collection of some relatively small positive integers (you can assume all values will be lower than 1000). Below is a sample main program in Python, and you need to create the necessary classes to make it work. You can choose to implement this challenge in any programming language, please supply a README about how to start up & run your application.\n\ncapture = DataCapture()\ncapture.add(3)\ncapture.add(9)\ncapture.add(3)\ncapture.add(4)\ncapture.add(6)\nstats = capture.build_stats()\nstats.less(4) # should return 2 (only two values 3,3 are less than 4)\nstats.between(3, 6) # should return 4 (3,3,4 and 6 are between 3 and 6)\nstats.greater(4) # should return 2 (6 and 9 are the only two values greater than 4)\nThe DataCapture object has the responsibility of collecting numbers and then return an object so that we can easily obtain stats about how many numbers are less than a value, greater than a value or between a range of numbers.\n\nThese are the restrictions of the challenge:\n\nYou cannot add any import a library that solves it instantly\n\nThe methods add() less() greater() and between() should have constant time O(1)\n\nThe method build_stats() can be at most linear O(n)\n\nAppropriate Errors should be thrown upon invalid inputs to methods. ",
+					"file": "/Users/skim/Documents/fb_messenger_bye.txt",
 					"settings":
 					{
-						"buffer_size": 1322,
+						"buffer_size": 255,
+						"encoding": "UTF-8",
 						"line_ending": "Unix",
-						"name": "The purpose of the test program is to compute some"
-					}
-				},
-				{
-					"contents": "32\" TV\nDresser\nWhiteboard\nIron\nStanding fan (x2)\nPanini Grill\nToaster Oven\nLarge pot + skillet\nPaper towel holder\nWhite plastic drawers\nKitchen dining set (table + chairs)\nOffice chair\nBroom + dustpan",
-					"settings":
-					{
-						"buffer_size": 200,
-						"line_ending": "Unix",
-						"name": "32\" TV"
+						"name": "Hi,"
 					}
 				}
 			],
@@ -930,6 +928,10 @@
 				"selected_items":
 				[
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"add fol",
 						"Project: Add Folder"
 					],
@@ -948,10 +950,6 @@
 					[
 						"sublimelinter",
 						"SublimeLinter: Show All Errors"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"lint python",
@@ -1264,11 +1262,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\n",
-					"- ",
-					"\n",
-					"- ",
-					"\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1291,26 +1284,27 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/Users/skim/Documents/fb_messenger_bye.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1322,
+								"buffer_size": 255,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1322,
-										1322
+										255,
+										255
 									]
 								],
 								"settings":
 								{
-									"SL.63.region_keys":
+									"SL.13.region_keys":
 									[
 									],
-									"auto_name": "The purpose of the test program is to compute some",
+									"auto_name": "Hi,",
 									"incomplete_sync": null,
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -1319,38 +1313,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 200,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										200,
-										200
-									]
-								],
-								"settings":
-								{
-									"SL.66.region_keys":
-									[
-									],
-									"auto_name": "32\" TV",
-									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1432,7 +1394,7 @@
 				"height": 174.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 0 1280 777 0 0 1280 777 ",
+			"position": "0 0 0 960 1057 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
@@ -1483,7 +1445,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 676,
+			"window_id": 679,
 			"workspace_name": ""
 		}
 	],
