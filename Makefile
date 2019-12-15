@@ -8,8 +8,10 @@ restore:
 
 link:
 	./backup.sh --link
+	./setup_git.sh
 	
 unlink:
 	./backup.sh --unlink
+	rm ~/.gitconfig
 
 clean: unlink restore
