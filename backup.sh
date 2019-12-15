@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 BACKUP_LOCATION=".pre_make_backups"
 
