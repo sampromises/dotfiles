@@ -1,6 +1,0 @@
-CheckStyle-IDEA
-IdeaVIM
-SnakeYAML plugin
-com.chrisrm.idea.MaterialThemeUI
-org.wavescale.sourcesync
-swingexplorer-plugin-v2
