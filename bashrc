@@ -22,7 +22,3 @@ function config_update() {
 # youtube-dl
 # Download single entry
 alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0'
-
-# For powerline
-POWERLINE_PATH=~/Library/Python/2.7/lib/python/site-packages/powerline
-source $POWERLINE_PATH/bindings/bash/powerline.sh
