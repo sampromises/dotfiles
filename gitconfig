@@ -1,0 +1,6 @@
+[user]
+	name = Sam Kim
+	email = sam@sskymail.com
+[core]
+	editor = vim
+	excludesfile = /Users/skim/.gitignore_global
