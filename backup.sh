@@ -3,10 +3,9 @@
 BACKUP_LOCATION=".pre_make_backups"
 
 FILES=(
-    bashrc
-    bash_profile
     gitconfig
     gitignore_global
+    hammerspoon
     tmux.conf
     vim
     vimrc
