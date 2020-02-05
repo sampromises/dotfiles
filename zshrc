@@ -88,6 +88,14 @@ alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio
 # Prevent brew update every time it's run
 export HOMEBREW_NO_AUTO_UPDATE=1
 
+# Python
+alias python='python3'
+alias py='python'
+alias pip='pip3'
+alias ipy='ipython'
+alias python2='python2.7'
+alias py2='python2'
+
 # Django
 alias activate='test -d venv && source ./venv/bin/activate || echo "No venv in the current folder"'
 alias pm="python3 manage.py"
