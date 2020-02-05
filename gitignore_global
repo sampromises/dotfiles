@@ -27,6 +27,7 @@
 *.log
 *.sql
 *.sqlite
+*.sqlite3
 
 # OS generated files #
 ######################
@@ -37,3 +38,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Python #
+##########
+__pycache__
+venv/
+
+# IDE #
+#######
+.idea

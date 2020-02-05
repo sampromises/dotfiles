@@ -87,3 +87,14 @@ alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio
 
 # Prevent brew update every time it's run
 export HOMEBREW_NO_AUTO_UPDATE=1
+
+# Django
+alias activate='test -d venv && source ./venv/bin/activate || echo "No venv in the current folder"'
+alias pm="python3 manage.py"
+alias pmrs="python3 manage.py runserver"
+
+# Heroku
+if type brew &>/dev/null; then
+  FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
+fi
+
