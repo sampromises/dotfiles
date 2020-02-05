@@ -19,11 +19,13 @@ customBindings = {
 		{{"ctrl", "alt", "cmd"}, "down"},
 	},
 	-- Moving
+    nextThird = false,
+    prevThird = false,
 	nextDisplay = {
-		{{"alt", "cmd"}, "right"},
+		{{"ctrl", "alt"}, "right"},
 	},
 	prevDisplay = {
-		{{"alt", "cmd"}, "left"},
+		{{"ctrl", "alt"}, "left"},
 
 	}
 }
@@ -53,11 +55,11 @@ end
 
 hs.hotkey.bind({"alt"}, "E", show_or_hide("Finder"))
 hs.hotkey.bind({"alt"}, "F", show_or_hide("Firefox"))
+hs.hotkey.bind({"alt"}, "M", show_or_hide("Mail"))
+hs.hotkey.bind({"alt"}, "C", show_or_hide("Calendar"))
 hs.hotkey.bind({"alt"}, "S", show_or_hide("Spotify"))
 hs.hotkey.bind({"alt"}, "P", show_or_hide("PyCharm"))
 hs.hotkey.bind({"alt"}, "I", show_or_hide("IntelliJ IDEA"))
 hs.hotkey.bind({"alt"}, "\\", show_or_hide("Sublime Text"))
 hs.hotkey.bind({"alt"}, "/", show_or_hide("Bitwarden"))
-
-hs.hotkey.bind({"alt"}, "C", show_or_hide("Amazon Chime"))
-hs.hotkey.bind({"alt"}, "O", show_or_hide("Microsoft Outlook"))
+hs.hotkey.bind({"alt"}, ".", show_or_hide("Cryptomator"))
