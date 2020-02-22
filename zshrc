@@ -97,7 +97,7 @@ alias python2='python2.7'
 alias py2='python2'
 
 # Django
-alias activate='test -d venv && source ./venv/bin/activate || echo "No venv in the current folder"'
+alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in the current folder"'
 alias pm="python3 manage.py"
 alias pmrs="python3 manage.py runserver"
 
