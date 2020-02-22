@@ -32,6 +32,11 @@ customBindings = {
 
 spoon.Lunette:bindHotkeys(customBindings)
 
+------------
+-- Macros --
+------------
+
+hs.hotkey.bind({"ctrl", "alt", "cmd"}, "D", function() hs.eventtap.keyStrokes(os.date("%m-%d-%y")) end)
 
 --------------------
 -- Show/Hide Apps --
@@ -63,3 +68,11 @@ hs.hotkey.bind({"alt"}, "I", show_or_hide("IntelliJ IDEA"))
 hs.hotkey.bind({"alt"}, "\\", show_or_hide("Sublime Text"))
 hs.hotkey.bind({"alt"}, "/", show_or_hide("Bitwarden"))
 hs.hotkey.bind({"alt"}, ".", show_or_hide("Cryptomator"))
+
+--------------------------------
+-- Auto Reload Config on Save --
+--------------------------------
+hs.pathwatcher.new(os.getenv("HOME") .. "/.hammerspoon/", hs.reload):start()
+
+hs.alert.show("Hammerspoon config reloaded!")
+
