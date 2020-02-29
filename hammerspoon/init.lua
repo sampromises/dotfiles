@@ -61,6 +61,7 @@ end
 hs.hotkey.bind({"alt"}, "E", show_or_hide("Finder"))
 hs.hotkey.bind({"alt"}, "F", show_or_hide("Firefox"))
 hs.hotkey.bind({"alt"}, "M", show_or_hide("Mail"))
+hs.hotkey.bind({"alt"}, "R", show_or_hide("Reminders"))
 hs.hotkey.bind({"alt"}, "C", show_or_hide("Calendar"))
 hs.hotkey.bind({"alt"}, "S", show_or_hide("Spotify"))
 hs.hotkey.bind({"alt"}, "P", show_or_hide("PyCharm"))
