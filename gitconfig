@@ -1,6 +1,8 @@
 [user]
 	name = Sam Kim
-	email = sam@sskymail.com
+	email = samkim90274@gmail.com
 [core]
 	editor = vim
 	excludesfile = /Users/skim/.gitignore_global
+[commit]
+	template = /Users/skim/.stCommitMsg

@@ -28,6 +28,7 @@
 *.sql
 *.sqlite
 *.sqlite3
+*.rdb
 
 # OS generated files #
 ######################
@@ -43,7 +44,13 @@ Thumbs.db
 ##########
 __pycache__
 venv/
+.venv/
 
 # IDE #
 #######
 .idea
+.vscode
+
+# Env vars #
+############
+*.env
