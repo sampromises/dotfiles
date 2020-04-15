@@ -102,3 +102,6 @@ if type brew &>/dev/null; then
   FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
 fi
 
+# Pi
+alias sshpi='ssh pi@192.168.0.24'
+alias sftppi='sftp pi@192.168.0.24'
