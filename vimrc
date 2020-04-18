@@ -44,7 +44,7 @@ set noswapfile " They're just annoying. Who likes them?
 set foldcolumn=0
 
 " My color scheme
-colorscheme dracula
+colorscheme onedark
 
 syntax on " Syntax highlighting
 set showcmd " See commands I'm typing 
