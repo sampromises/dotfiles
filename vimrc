@@ -1,23 +1,12 @@
 """""""""""""""""""""
 " junegunn/vim-plug "
 """""""""""""""""""""
-
-" Plugins will be downloaded under the specified directory.
 call plug#begin('~/.vim/plugged')
-
-" Declare the list of plugins.
 Plug 'kien/ctrlp.vim'
-Plug 'scrooloose/nerdtree'
-Plug 'scrooloose/nerdcommenter'
 Plug 'vim-airline/vim-airline'
-" Plug 'fatih/vim-go'
-" Plug 'jiangmiao/auto-pairs'
-Plug 'terryma/vim-multiple-cursors'
-Plug 'w0rp/ale'
-Plug 'qpkorr/vim-renamer'
-Plug 'pangloss/vim-javascript'
-
-" List ends here. Plugins become visible to Vim after this call.
+Plug 'airblade/vim-gitgutter'
+Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 """""""""""""""""""
@@ -82,12 +71,5 @@ nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
-" NERDTree Toggle
-map <C-\> :NERDTreeToggle<CR>
-
-nnoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
-vnoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
-inoremap <C-_> <C-o>:call NERDComment(0,"toggle")<C-m>
-
-" Run python
-nnoremap <buffer> <F5> :exec '!python3' shellescape(@%, 1)<cr>
+" GitGutter
+autocmd BufWritePost * GitGutter  " Update on save

@@ -6,7 +6,8 @@ FILES=(
     rc
     tmux.conf
     tmux.conf.local
-    vim
+    vim/colors
+    vim/autoload
     vimrc
     zshrc
     oh-my-zsh/custom
