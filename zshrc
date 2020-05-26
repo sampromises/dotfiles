@@ -57,32 +57,19 @@ source $ZSH/oh-my-zsh.sh
 
 bindkey '^R' history-incremental-search-backward
 
-################
-# from .basrhc #
-################
-
 # Enable cli colors
 export CLICOLOR=1
 
-# Keep track of list of installed applications
-alias backup_applist='ls /Applications/ > $HOME/.apps_list ; config add $HOME/.apps_list ; config commit -m "Update apps list" ; config push'
+# Prevent brew update every time it's run
+export HOMEBREW_NO_AUTO_UPDATE=1
 
-# For config backups
-alias config='/usr/bin/git --git-dir=$HOME/.config/ --work-tree=$HOME'
-
-# Update all config files at once (lazy)
-function config_update() {
-    config add -u ~/. &&
-    config commit -m "Minor changes" &&
-    config push
-}
+###########
+# Aliases #
+###########
 
 # youtube-dl
 # Download single entry
 alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0'
-
-# Prevent brew update every time it's run
-export HOMEBREW_NO_AUTO_UPDATE=1
 
 # Python
 alias python='python3'
@@ -97,11 +84,21 @@ alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in
 alias pm="python3 manage.py"
 alias pmrs="python3 manage.py runserver"
 
+# Pi
+alias sshpi='ssh pi@192.168.0.24'
+alias sftppi='sftp pi@192.168.0.24'
+
+# Leetcode CLI
+alias lc='leetcode'
+alias lcstart='leetcode show -gxe -l python'
+
+#########
+# Paths #
+#########
+
+export PATH="$HOME/bin:$PATH"
+
 # Heroku
 if type brew &>/dev/null; then
   FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
 fi
-
-# Pi
-alias sshpi='ssh pi@192.168.0.24'
-alias sftppi='sftp pi@192.168.0.24'
