@@ -5,7 +5,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'kien/ctrlp.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'airblade/vim-gitgutter'
-Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-surround'
 call plug#end()
 
@@ -47,9 +46,6 @@ nnoremap <esc><esc> :silent! nohls<cr>
 set incsearch " Incremental search, like a browser search
 set relativenumber " Show the relative line numbers around current line
 set number " Show the current line number
-
-" Map U to redo, opposite of u(ndo)
-nnoremap U <C-r>
 
 " Show tab-completion list
 set wildmode=longest:full,list
