@@ -9,12 +9,6 @@ customBindings = {
 	fullScreen = {
 		{{"ctrl", "alt", "cmd"}, "up"},
 	},
-	leftHalf = {
-		{{"ctrl", "alt", "cmd"}, "left"},
-	},
-	rightHalf = {
-		{{"ctrl", "alt", "cmd"}, "right"},
-	},
 	center = {
 		{{"ctrl", "alt", "cmd"}, "down"},
 	},
