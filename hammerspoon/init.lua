@@ -54,17 +54,10 @@ end
 
 hs.hotkey.bind({"alt"}, "E", show_or_hide("Finder"))
 hs.hotkey.bind({"alt"}, "F", show_or_hide("Firefox"))
-hs.hotkey.bind({"alt"}, "M", show_or_hide("Messages"))
-hs.hotkey.bind({"alt"}, "R", show_or_hide("Reminders"))
-hs.hotkey.bind({"alt"}, "C", show_or_hide("Google Chrome"))
-hs.hotkey.bind({"alt"}, "S", show_or_hide("Spotify"))
+hs.hotkey.bind({"alt"}, "M", show_or_hide("Spotify"))
 hs.hotkey.bind({"alt"}, "V", show_or_hide("Visual Studio Code"))
-hs.hotkey.bind({"alt"}, "B", show_or_hide("Bear"))
--- hs.hotkey.bind({"alt"}, "P", show_or_hide("PyCharm"))
-hs.hotkey.bind({"alt"}, "I", show_or_hide("IntelliJ IDEA"))
 hs.hotkey.bind({"alt"}, "\\", show_or_hide("Sublime Text"))
 hs.hotkey.bind({"alt"}, "/", show_or_hide("Bitwarden"))
-hs.hotkey.bind({"alt"}, ".", show_or_hide("Cryptomator"))
 
 --------------------------------
 -- Auto Reload Config on Save --

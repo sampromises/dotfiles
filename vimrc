@@ -2,10 +2,11 @@
 " junegunn/vim-plug "
 """""""""""""""""""""
 call plug#begin('~/.vim/plugged')
-Plug 'kien/ctrlp.vim'
-Plug 'vim-airline/vim-airline'
 Plug 'airblade/vim-gitgutter'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-surround'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 
 """""""""""""""""""
@@ -14,9 +15,8 @@ call plug#end()
 filetype plugin indent on " Filetype auto-detection
 
 " https://www.reddit.com/r/vim/wiki/tabstop
-set tabstop=4 " Changed from 8 to 4 for better Go compatibility
+set tabstop=4
 set shiftwidth=4
-set softtabstop=4
 set expandtab " use spaces instead of tabs.
 
 set smarttab " let's tab key insert 'tab stops', and bksp deletes tabs.
@@ -27,9 +27,6 @@ set autoindent " Match indents on new lines.
 set nobackup " We have vcs, we don't need backups.
 set nowritebackup " We have vcs, we don't need backups.
 set noswapfile " They're just annoying. Who likes them?
-
-" Folding
-set foldcolumn=0
 
 " My color scheme
 colorscheme onedark
@@ -53,11 +50,6 @@ set wildmode=longest:full,list
 " System clipboard copy/paste
 set clipboard=unnamed
 
-" FOLDING
-set foldmethod=syntax
-set foldnestmax=10
-set nofoldenable
-
 " SPLITS
 set splitbelow
 set splitright
@@ -69,3 +61,7 @@ nnoremap <C-H> <C-W><C-H>
 
 " GitGutter
 autocmd BufWritePost * GitGutter  " Update on save
+
+" fzf
+let g:fzf_preview_window = 'right:60%'
+nnoremap <c-p> :Files<cr>

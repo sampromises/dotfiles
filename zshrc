@@ -79,6 +79,7 @@ alias ipy='ipython'
 alias python2='python2.7'
 alias py2='python2'
 alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in the current folder"'
+alias fr_dev='FLASK_ENV=development FLASK_SECRET_KEY=secretkey flask run'
 
 # Django
 alias pm="python3 manage.py"
@@ -102,3 +103,9 @@ export PATH="$HOME/bin:$PATH"
 if type brew &>/dev/null; then
   FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
 fi
+
+# Go
+export GOPATH="$HOME/go"
+
+# CDK
+alias cdk_deploy='cdk synth && cdk deploy --require-approval never'

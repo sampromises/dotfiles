@@ -46,8 +46,14 @@ __pycache__
 venv/
 .venv/
 
+# Java #
+########
+*.class
+*.jar
+
 # IDE #
 #######
+.iml
 .idea
 .vscode
 
