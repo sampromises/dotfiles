@@ -53,7 +53,8 @@ end
 
 
 hs.hotkey.bind({"alt"}, "E", show_or_hide("Finder"))
-hs.hotkey.bind({"alt"}, "F", show_or_hide("Firefox"))
+hs.hotkey.bind({"alt"}, "G", show_or_hide("Google Chrome"))
+hs.hotkey.bind({"alt"}, "S", show_or_hide("Safari"))
 hs.hotkey.bind({"alt"}, "M", show_or_hide("Spotify"))
 hs.hotkey.bind({"alt"}, "V", show_or_hide("Visual Studio Code"))
 hs.hotkey.bind({"alt"}, "\\", show_or_hide("Sublime Text"))
