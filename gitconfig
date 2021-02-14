@@ -1,0 +1,8 @@
+[user]
+	name = Sam Kim
+	email = samkim90274@gmail.com
+[core]
+	editor = vim
+	excludesfile = /Users/skim/.gitignore_global
+[init]
+	defaultBranch = mainline

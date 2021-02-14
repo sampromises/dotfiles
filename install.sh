@@ -2,6 +2,7 @@
 
 FILES=(
     hammerspoon
+    gitconfig
     gitignore_global
     rc
     tmux.conf
@@ -12,6 +13,18 @@ FILES=(
     zshrc
     oh-my-zsh/custom
 )
+
+##
+# Preinstall
+##
+function preinstall() {
+    echo "Installing oh-my-zsh..."
+    install
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    echo "Installing vim plug..."
+    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+}
 
 ##
 # Link
@@ -41,6 +54,10 @@ function unlink() {
 # Parse option
 ##
 case $1 in
+    -p | --preinstall)
+        preinstall
+        exit
+        ;;
     -l | --link)
         link
         exit
@@ -51,5 +68,5 @@ case $1 in
         ;;
 esac
 
-printf "Usage: $0 [--link|--unlink]\n"
+printf "Usage: $0 [--preinstall}--link|--unlink]\n"
 exit 1

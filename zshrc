@@ -72,32 +72,26 @@ export HOMEBREW_NO_AUTO_UPDATE=1
 alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0'
 
 # Python
-alias python='python3'
 alias py='python'
-alias pip='pip3'
 alias ipy='ipython'
-alias python2='python2.7'
-alias py2='python2'
 alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in the current folder"'
 alias fr_dev='FLASK_ENV=development FLASK_SECRET_KEY=secretkey flask run'
 
 # Django
-alias pm="python3 manage.py"
-alias pmrs="python3 manage.py runserver"
+alias pm="python manage.py"
+alias pmrs="python manage.py runserver"
 
-# Pi
-alias sshpi='ssh pi@192.168.0.24'
-alias sftppi='sftp pi@192.168.0.24'
-
-# Leetcode CLI
-alias lc='leetcode'
-alias lcstart='leetcode show -gxe -l python'
+alias code='code-insiders'
 
 #########
 # Paths #
 #########
 
-export PATH="$HOME/bin:$PATH"
+export PATH="$PATH:$HOME/bin:/opt/homebrew/bin:$HOME/Library/Python/3.8/lib/python/site-packages"
+
+#  npm global
+export PATH=~/.npm-global/bin:$PATH
+
 
 # Heroku
 if type brew &>/dev/null; then
@@ -108,4 +102,5 @@ fi
 export GOPATH="$HOME/go"
 
 # CDK
-alias cdk_deploy='cdk synth && cdk deploy --require-approval never'
+alias cdk_push='cdk synth && cdk deploy --require-approval never'
+
