@@ -37,7 +37,7 @@ ENABLE_CORRECTION="true"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
-  osx
+  macos
   extract
   colored-man-pages
   jump
@@ -68,20 +68,21 @@ export HOMEBREW_NO_AUTO_UPDATE=1
 ###########
 
 # youtube-dl
+# https://unix.stackexchange.com/a/328536
+#alias youtube-dl="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4'"
 # Download single entry
 alias youtube-dl-audio='youtube-dl -i --extract-audio --audio-format mp3 --audio-quality 0'
 
 # Python
-alias py='python'
-alias ipy='ipython'
-alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in the current folder"'
+alias py='python3'
+alias ipy='python3 -m ipython'
+alias source_env='if [ ! -f .env ]; then source .env; else ; fi'
+alias activate='test -d .venv && source ./.venv/bin/activate || echo "No venv in the current folder" && source_env'
 alias fr_dev='FLASK_ENV=development FLASK_SECRET_KEY=secretkey flask run'
 
 # Django
 alias pm="python manage.py"
 alias pmrs="python manage.py runserver"
-
-alias code='code-insiders'
 
 #########
 # Paths #
@@ -99,8 +100,42 @@ if type brew &>/dev/null; then
 fi
 
 # Go
+export GOROOT="/usr/local/go"
 export GOPATH="$HOME/go"
 
 # CDK
 alias cdk_push='cdk synth && cdk deploy --require-approval never'
 
+alias grbiom='git rebase -i origin/mainline'
+
+export AWS_ACCOUNT_ID='316936913708'
+export AWS_ACCOUNT_REGION='us-west-1'
+
+
+# (The below instructions are intended for common
+# shell setups. See the README for more guidance
+# if they don't apply and/or don't work for you.)
+
+# Add pyenv executable to PATH and
+# enable shims by adding the following
+# to ~/.profile and ~/.zprofile:
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+
+export PATH=$PATH:/opt/homebrew/bin/gradle:/usr/local/git/bin
+
+# Load pyenv into the shell by adding
+# the following to ~/.zshrc:
+
+eval "$(pyenv init -)"
+
+alias rsvps='cd /Users/skim/ws/tee-times-lambda && source .venv/bin/activate && source .env && py src/reservations && open reservations.html'
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/skim/.sdkman"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

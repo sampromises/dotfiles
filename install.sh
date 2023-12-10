@@ -1,6 +1,7 @@
 #!/bin/sh
 
 FILES=(
+    config
     hammerspoon
     gitconfig
     gitignore_global
