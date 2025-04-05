@@ -105,11 +105,12 @@ export GOPATH="$HOME/go"
 
 # CDK
 alias cdk_push='cdk synth && cdk deploy --require-approval never'
-
-alias grbiom='git rebase -i origin/mainline'
+alias grbiom='git rebase -i origin/main'
 
 export AWS_ACCOUNT_ID='316936913708'
 export AWS_ACCOUNT_REGION='us-west-1'
+
+alias load_configs='py load_configs.py'
 
 
 # (The below instructions are intended for common
@@ -124,7 +125,7 @@ export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init --path)"
 
-export PATH=$PATH:/opt/homebrew/bin/gradle:/usr/local/git/bin
+export PATH=/usr/X11/bin:/opt/homebrew/bin/gradle:/opt/homebrew/bin:$PATH
 
 # Load pyenv into the shell by adding
 # the following to ~/.zshrc:
